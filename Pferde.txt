@@ -1,0 +1,10401 @@
+0001
+A Charming Hero
+W / Westf / B / 2015
+V:Antango / MV:Hotline
+ 
+ 
+0004
+A Special Pleasure SB
+W / Westf / B / 2015
+V:Aragorn / MV:For Pleasure
+ 
+ 
+0005
+Aaron 343
+W / Hann / B / 2006
+V:Abke / MV:Heraldik xx
+ 
+ 
+0006
+Abby Sciuto
+S / OS / Schi / 2010
+V:Ashby / MV:Quattro B
+ 
+ 
+0007
+Abou Lagraa
+W / Rhld / B / 2011
+V:Arpeggio / MV:Grosso Z
+ 
+ 
+0008
+About You 2
+H / Westf / B / 2016
+V:AC-DC / MV:Estobar NRW
+ 
+ 
+0009
+Acaraho
+W / Old / B / 2005
+V:Albatros / MV:Milano
+ 
+ 
+0010
+Acatraz
+W / Hann / B / 2008
+V:Abke / MV:Lacatraz
+ 
+ 
+0011
+Acquamarina
+S / Dt.Pf / B / 2016
+V:AC-DC / MV:Estobar NRW
+ 
+ 
+0013
+Adele 117
+S / Westf / 2016
+V:AC-DC / MV:Florestan I
+ 
+ 
+0014
+Adlon 80
+H / Meckl. / B / 2016
+V:AC-DC / MV:Fürst Piccolo
+ 
+ 
+0015
+Adriano 238
+W / Westf / B / 2011
+V:Ampere (NLD) / MV:Spielberg
+ 
+ 
+0016
+Adrion F
+W / Westf / B / 2009
+V:Arpeggio / MV:Lincolm L
+ 
+ 
+0017
+Aesculapius GL
+W / Westf / F / 2013
+V:Apache / MV:His Highness
+ 
+ 
+0018
+Affaire de Coeur 4
+W / Old / R / 2013
+V:Ampere (NLD) / MV:Sunny-Boy
+ 
+ 
+0019
+Again in Love
+S / Meckl. / F / 2016
+V:AC-DC / MV:Bretton Woods
+ 
+ 
+0020
+Agassi 21
+H / Meckl. / B / 2016
+V:AC-DC / MV:Don Davidoff
+ 
+ 
+0021
+Agistri
+W / Rhld / Db / 2002
+V:Abanos / MV:Madison
+ 
+ 
+0022
+Aglae D'Ouilly
+S / SF / F / 2010
+V:Mylord Carthago / MV:Kronos d'Quilly
+ 
+ 
+0023
+Aglaia 28
+S / Westf / F / 2010
+V:Adelante II / MV:Dashing Blade xx
+ 
+ 
+0024
+Aida 189
+S / Westf / B / 2011
+V:a' Lee Spring Power / MV:Ribot
+ 
+ 
+0025
+Akeno
+H / Westf / Db / 2012
+V:All Inclusive / MV:Insterburg
+ 
+ 
+0028
+Alaska Sky
+S / Hann / F / 2004
+V:All in One / MV:Convoi
+ 
+ 
+0030
+Aleksej 5
+W / Westf / Db / 2010
+V:Ampere (NLD) / MV:Worldly I
+ 
+ 
+0031
+Alessio 19
+W / Westf / B / 2008
+V:Arpeggio / MV:Wessex
+ 
+ 
+0032
+Aletta CBS
+S / Westf / F / 2009
+V:Arpeggio / MV:Royal Angelo II
+ 
+ 
+0033
+Alfred jodokus Kwack
+H / Grpf.o.R / B / 2015
+V:Amantinus Dream / MV:Balous Bellini
+ 
+ 
+0034
+All in Z
+W / Westf / Schi / 2008
+V:Arpeggio / MV:Salinator
+ 
+ 
+0035
+All Night Long
+H / Westf / Df / 2016
+V:AC-DC / MV:Sir Sch÷lling
+ 
+ 
+0036
+All Right 21
+H / Westf / B / 2007
+V:Arpeggio / MV:Grossglockner
+ 
+ 
+0037
+Allegra 187
+S / Hann / B / 2010
+V:Albatros / MV:Lady's King
+ 
+ 
+1842
+Allegra P
+S / Old / Df / 2011
+V:Olympic Fire / MV:Curacao I
+ 
+ 
+1877
+Allegro 437
+H / Dt.Pf / F / 2016
+V:AC-DC / MV:Estobar NRW
+ 
+ 
+0038
+Allegro Sun 2
+H / Westf / B / 2013
+V:Arpeggio / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+1870
+Allerfeinst
+S / Westf / Db / 2014
+V:All at once / MV:Laureus
+ 
+ 
+0039
+Alley
+S / Hann / Db / 2013
+V:A Conto Son / MV:For Keeps
+ 
+ 
+0040
+Allways You
+S / Meckl. / F / 2016
+V:AC-DC / MV:Dankesch÷n
+ 
+ 
+0042
+Alois 25
+W / Westf / B / 2013
+V:Aragorn / MV:Quidam de Revel
+ 
+ 
+0043
+Alvin M
+H / Westf / B / 2014
+V:Arpeggio / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0044
+Amalia 21
+S / Westf / B / 2013
+V:Arpeggio / MV:Ribbeck
+ 
+ 
+0045
+Amanyara M
+S / Hann / Schwb / 2013
+V:Ampere (NLD) / MV:Davignon I
+ 
+ 
+0046
+Amara 64
+S / Westf / Db / 2012
+V:Arpeggio / MV:Pygmalion
+ 
+ 
+0047
+Amaranth 11
+H / Westf / F / 2016
+V:AC-DC / MV:Dankesch÷n
+ 
+ 
+1849
+Amaretto
+W / 2007
+ 
+ 
+0048
+Amazing Amelie 2
+S / Westf / Db / 2013
+V:Arpeggio / MV:Silvio I
+ 
+ 
+0049
+Amicelli 134
+S / Westf / B / 2010
+V:Askari / MV:Carlos DZ
+ 
+ 
+0050
+Amicelli 145
+S / Westf / B / 2003
+V:Aquilino / MV:Octavo xx
+ 
+ 
+0051
+Amidou R 2
+W / Westf / Db / 2005
+V:Amantus / MV:Der Clou
+ 
+ 
+0052
+Amigo 1841
+W / Hann / Schwb / 2013
+V:A Conto Son / MV:For Pleasure
+ 
+ 
+0053
+Amiro Z
+H / Z.Rpf / F / 2004
+V:Amigo Toss xx / MV:Ramiro
+ 
+ 
+0054
+Amorelie 2
+H / Westf / B / 2016
+V:AC-DC / MV:Florestan I
+ 
+ 
+0056
+Amperia StG
+S / Old / R / 2014
+V:Ampere (NLD) / MV:Rubin Cortes
+ 
+ 
+0057
+Amy 296
+W / Westf / B / 2011
+V:a' Lee Spring Power / MV:Ladalco
+ 
+ 
+0058
+Amy BE
+S / Z.Rpf / BkaSc / 2008
+V:Asca / MV:Gralshüter
+ 
+ 
+0059
+Amy K 3
+S / Westf / B / 2012
+V:A la Carte NRW / MV:Sion
+ 
+ 
+0060
+Amychella
+S / Westf / F / 2005
+V:Arpeggio / MV:Glueckspilz
+ 
+ 
+0061
+Anando 6
+W / Westf / F / 2014
+V:All at once / MV:Fidermark
+ 
+ 
+0062
+Andiamo 242
+H / DR / F / 2004
+V:Amarillys Sensation / MV:Spanenland's Patrick
+ 
+ 
+0063
+Andino 18
+W / DR / Df / 2003
+V:Amarillys Sensation / MV:Spanenland's Patrick
+ 
+ 
+0064
+Andorra la velle
+S / DSP / F / 2009
+V:Repertoire / MV:Aleman
+ 
+ 
+0065
+Angelina Grõve
+S / Westf / B / 2011
+V:Arpeggio / MV:Nimmerdor
+ 
+ 
+0066
+Anka 358
+S / Westf / B / 2013
+V:Abke / MV:Fighting Alpha
+ 
+ 
+0067
+Annabella 57
+S / Meckl. / Df / 2016
+V:AC-DC / MV:Florencio I
+ 
+ 
+0068
+Antek 24
+W / Westf / B / 2002
+V:Arpeggio / MV:Florestan I
+ 
+ 
+0069
+Anton 664
+W / Westf / B / 2008
+V:Arpeggio / MV:Federball
+ 
+ 
+0070
+Anton 798
+W / Württ / Schwb / 2013
+V:Arpeggio / MV:Numero Uno
+ 
+ 
+0071
+Antonia 162
+S / Westf / B / 2008
+V:Avec Coeur / MV:Weinberg
+ 
+ 
+0072
+Antonie 11
+W / Westf / B / 2005
+V:Amantus / MV:Joost
+ 
+ 
+0073
+Antonio 123
+W / Hann / B / 2006
+V:Argentinus / MV:Fabriano
+ 
+ 
+0074
+Apachenator
+W / Westf / F / 2008
+V:Arpeggio / MV:Zapateado
+ 
+ 
+0075
+Apachi 24
+S / Westf / F / 2009
+V:Arpeggio / MV:Paulaner
+ 
+ 
+1803
+Apollo
+W / 2006
+ 
+ 
+1906
+Apollo
+W / 2009
+ 
+ 
+0076
+Aquino 63
+W / Westf / B / 2013
+V:Arpeggio / MV:Lord Calando
+ 
+ 
+1905
+Arabella
+W / -n.gefunde / 2002
+ 
+ 
+0078
+Aragon von Alfen
+W / Westf / B / 2010
+V:Agrostar / MV:FAN Holland (ex Holland)
+ 
+ 
+0080
+Aringer
+H / Westf / 2016
+V:AC-DC / MV:Ehrentusch
+ 
+ 
+1868
+Arkane des Aucels Z
+S / Z.Rpf / B / 2013
+V:Arkino Z / MV:Sandro Boy
+ 
+ 
+0081
+Armani 304
+W / Westf / R / 2014
+V:All at once / MV:His Highness
+ 
+ 
+0082
+Armani 308
+W / Trak. / Schwb / 2014
+V:Millennium / MV:Harlem Go
+ 
+ 
+0083
+Armani 311
+W / Westf / Db / 2014
+V:All at once / MV:Florestan I
+ 
+ 
+0084
+Arpeggi 2
+W / Westf / Db / 2011
+V:Arpeggio / MV:Bormio xx
+ 
+ 
+0085
+Arrow 17
+W / Westf / F / 2004
+V:Abanos / MV:Damenstolz
+ 
+ 
+0086
+Artega M
+S / Westf / F / 2007
+V:Arpeggio / MV:Pilot
+ 
+ 
+0087
+Arthos 133
+W / DSP / F / 2012
+V:Askari / MV:Kolibri
+ 
+ 
+0088
+Aruba 15
+H / Westf / B / 2011
+V:Arpeggio / MV:Polydor
+ 
+ 
+0089
+Arvalon Siriel
+W / Wel.D / Dfalb / 2004
+V:Dwyfor Scooby Do / MV:Parc Welsh Flyer
+ 
+ 
+0090
+Arwen 46
+S / Old / B / 2005
+V:Abke / MV:Argentinus
+ 
+ 
+0091
+Arwen Z
+S / Westf / F / 2009
+V:Arpeggio / MV:Salinator
+ 
+ 
+0092
+As of Lacarla
+S / Z.Rpf / Schi / 2007
+V:Asca / MV:Topas
+ 
+ 
+0093
+Asca la Sweet
+S / Westf / Schi / 2009
+V:Arpeggio / MV:Gala Star Z
+ 
+ 
+0094
+Ascona 80
+S / Hann / Df / 2004
+V:All in One / MV:Aarking xx
+ 
+ 
+0095
+Askadina
+S / Westf / B / 2008
+V:Avec Coeur / MV:Dottore
+ 
+ 
+0096
+Astaire 40
+H / Rhld / F / 2007
+V:Arpeggio / MV:Pit I
+ 
+ 
+0097
+Asti Royal
+W / DR / F / 2009
+V:Amarillys Sensation / MV:Durello
+ 
+ 
+0098
+Astoria 66
+S / Dt.Pf / F / 2016
+V:AC-DC / MV:Wolkenstein II
+ 
+ 
+0099
+Atlanta 537
+S / Holst / B / 2008
+V:Casquetto / MV:Grundyman xx
+ 
+ 
+0100
+Aurel 28
+W / Westf / F / 2009
+V:Arpeggio / MV:Cordobes I
+ 
+ 
+0101
+Aurelia Marie
+S / Old / B / 2009
+V:Albatros / MV:Latus I
+ 
+ 
+0102
+Aurelio GD
+W / Westf / F / 2002
+V:Arpeggio / MV:Pakt
+ 
+ 
+0103
+Authentic 6
+S / KWPN / B / 2005
+V:Faldo / MV:Kigali
+ 
+ 
+0104
+Avalanche 11
+S / KWPN / FkaSc / 2005
+V:Tjungske / MV:Lamour (Nocturn)
+ 
+ 
+0105
+Avenida Romantica
+S / Old / B / 2015
+V:For Romance I / MV:Dormello
+	B - Pferdename / KNR		
+
+ 
+ 
+0106
+Babalou
+W / Westf / B / 2012
+V:Balous Bellini / MV:Grandeur
+ 
+ 
+0107
+Bacardi Feeling K
+W / Hann / Df / 2005
+V:Belissimo M / MV:Wolkentanz I
+ 
+ 
+0108
+Bahiyah F
+S / Westf / B / 2011
+V:Basic / MV:Ehrenpreis
+ 
+ 
+0109
+Bahrney
+W / Old / B / 2012
+V:Belissimo M / MV:Don Gregory
+ 
+ 
+0110
+Bali 36
+S / Westf / B / 2011
+V:Balous Bellini / MV:Pontifex
+ 
+ 
+0111
+Baliano
+W / Westf / B / 2014
+V:Balous Diamond / MV:Cassini I
+ 
+ 
+0112
+Balisto 58
+H / Westf / B / 2014
+V:Balous Diamond / MV:Arpeggio
+ 
+ 
+0113
+Ballantine's F
+W / Westf / B / 2015
+V:Balous Bellini / MV:Captain Fire
+ 
+ 
+1879
+Ballentine GB
+H / Westf / 2011
+V:Belissimo M / MV:Arpeggio
+ 
+ 
+0114
+Ballerina 323
+S / Westf / B / 2014
+V:Balous Bellini / MV:Dinard L
+ 
+ 
+0115
+Ballotelli 3
+H / Westf / B / 2011
+V:Balous Bellini / MV:Friedenstraum
+ 
+ 
+0116
+Balou Sun
+H / Rhld / F / 2009
+V:Balou du Rouet / MV:Piquet
+ 
+ 
+0117
+Balou's Mouse
+S / Hann / B / 2009
+V:Balou du Rouet / MV:Glorieux
+ 
+ 
+1839
+Baloua du Rouet
+S / OS / B / 2016
+V:Balou du Rouet / MV:Con Capitol
+ 
+ 
+0118
+Balous Bellini
+H / Bay / B / 2006
+V:Balou du Rouet / MV:Lord Inci Pit
+ 
+ 
+0119
+Baltasar 17
+H / Hann / R / 2015
+V:Bonaparte N AA / MV:Waldstar xx
+ 
+ 
+0120
+Baltimore 76
+W / Westf / B / 2012
+V:Balous Bellini / MV:Florestan I
+ 
+ 
+0121
+Balutelli
+W / Rhld / B / 2009
+V:Biasini / MV:Compliment
+ 
+ 
+0122
+Bambi 130
+W / Hann / F / 2012
+V:Bretton Woods / MV:Warkant
+ 
+ 
+0123
+Bandito Bo
+W / Westf / B / 2010
+V:Blickpunkt / MV:Rolls Royce
+ 
+ 
+1891
+Bao Loi
+S / W / Schi / 2009
+V:Baloussini / MV:Lancaster
+ 
+ 
+0124
+Baquia
+S / Hann / B / 2010
+V:Bequia / MV:Rotspon
+ 
+ 
+0125
+Baquita 8
+S / Westf / B / 2013
+V:Balous Bellini / MV:Rodney
+ 
+ 
+0126
+Barbie 13
+S / Westf / B / 2012
+V:Balous Bellini / MV:Florestan I
+ 
+ 
+0127
+Barcelona 64
+H / Hann / R / 2014
+V:Beltano / MV:Sir Savoy
+ 
+ 
+0128
+Bardolino 35
+W / Westf / B / 2010
+V:Balous Bellini / MV:Dinard L
+ 
+ 
+0129
+Barilla 17
+S / Westf / B / 2011
+V:Balous Bellini / MV:Rodney
+ 
+ 
+0130
+Baristo 2
+W / Westf / Db / 2014
+V:Balous Diamond / MV:Pontifex
+ 
+ 
+0132
+Barnaby SK
+W / Westf / B / 2015
+V:Bellini Royal / MV:Coronas
+ 
+ 
+0133
+Barny Blue 3
+W / Hann / B / 2013
+V:Balou du Rouet / MV:Chacco-Blue
+ 
+ 
+0134
+Baron 300
+W / Westf / Df / 2004
+V:Belissimo M / MV:Delphi
+ 
+ 
+0135
+Baron Bolligru E
+H / Hann / F / 2014
+V:Bordeaux (NLD) / MV:Londonderry
+ 
+ 
+0136
+Baroness 386
+S / Westf / B / 2015
+V:Balous Bellini / MV:Friedenstraum
+ 
+ 
+0137
+Baronessa di Rosolina B
+S / Westf / B / 2011
+V:Blickpunkt / MV:Lancer II
+ 
+ 
+0138
+Basmach
+W / Trak. / F / 2003
+V:Etud / MV:Beglets
+ 
+ 
+0139
+Batida 121
+S / Westf / Db / 2011
+V:Balous Bellini / MV:Contini
+ 
+ 
+0140
+Batida 94
+S / BSchi / 2003
+ 
+ 
+0141
+Batocelli
+W / Hann / B / 2005
+V:Baroncelli / MV:Davignon I
+ 
+ 
+0142
+Battlestown Liadan
+S / Conne / Schi / 2012
+V:Glaskopf Golden Siskin / MV:Village King
+ 
+ 
+0143
+Bauer-Power
+H / KWPN / R / 2005
+V:Escudo I / MV:Burggraaf
+ 
+ 
+1807
+Baumann's Bella
+S / Westf / B / 2011
+V:Balous Bellini / MV:Colman
+ 
+ 
+0145
+Baumann's Cherie
+S / Westf / Schi / 2010
+V:Congress / MV:Heraldik xx
+ 
+ 
+0146
+Baxter 31
+H / Westf / B / 2014
+V:Balous Bellini / MV:Aldatus
+ 
+ 
+0147
+Be a Bee SB
+S / Westf / F / 2014
+V:Balou du Rouet / MV:Polydor
+ 
+ 
+0148
+Be Happy SB
+S / Westf / B / 2010
+V:Belissimo M / MV:Cayetano L
+ 
+ 
+1824
+Be my Sunshine M
+S / Hann / F / 2012
+V:Belissimo M / MV:Walt Disney I
+ 
+ 
+0149
+Beachboy M
+W / KWPN / F / 2006
+V:Chin Chin / MV:Navarone
+ 
+ 
+0150
+Beau Baquito de Baussy
+W / Westf / B / 2007
+V:Baquito / MV:Darco
+ 
+ 
+0151
+Beau Moreno
+W / Holst / B / 2008
+V:Boritas / MV:Capriccio
+ 
+ 
+0153
+Becks Blue
+W / Westf / F / 2011
+V:Blickpunkt / MV:RTL
+ 
+ 
+0155
+Been crazy Lys
+S / Westf / B / 2011
+V:Balous Bellini / MV:Primeur's As
+ 
+ 
+0156
+Beerbel S
+S / Old / Df / 2004
+V:Balou du Rouet / MV:Grandeur
+ 
+ 
+0157
+Belana W
+S / Westf / Db / 2013
+V:Bordeaux (NLD) / MV:Lauries
+ 
+ 
+0158
+Belanda W
+S / Grpf.o.R / F / 2013
+V:Belissimo M
+ 
+ 
+0159
+Belantino 2
+W / Old / Db / 2014
+V:Belissario / MV:Zapateado
+ 
+ 
+0160
+Belice 10
+S / Hann / F / 2010
+V:Belissimo M / MV:Connery
+ 
+ 
+0161
+Belico Royal
+H / Westf / B / 2015
+V:Bellini Royal / MV:Captain Fire
+ 
+ 
+1878
+Bella 1034
+S / Westf / F / 2011
+V:Belissimo M / MV:Paris-Turf xx
+ 
+ 
+0162
+Bella Donna 105
+S / Westf / F / 2009
+V:Beltoni / MV:Florestan I
+ 
+ 
+0163
+Bella Donna 158
+S / Westf / B / 2014
+V:Balous Bellini / MV:Gibraltar
+ 
+ 
+0165
+Bella Granata
+S / Westf / B / 2011
+V:Balous Bellini / MV:Grannus
+ 
+ 
+0166
+Bella Italia 6
+S / Westf / B / 2013
+V:Balous Bellini / MV:Pontifex
+ 
+ 
+0168
+Bella Ragazza 5
+S / Westf / B / 2014
+V:Balous Bellini / MV:Contello
+ 
+ 
+0169
+Belle Amie 65
+S / DR / B / 2011
+V:Nemax / MV:Brillant
+ 
+ 
+0170
+Bellheim 7
+W / Westf / B / 2004
+V:Belissimo M / MV:Warkant
+ 
+ 
+0171
+Bellina 14
+S / Westf / B / 2011
+V:Balous Bellini / MV:Pontifex
+ 
+ 
+0172
+Bellini Royal
+H / Westf / B / 2011
+V:Balous Bellini / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0173
+Bellinis Balou
+W / Westf / B / 2014
+V:Balous Bellini / MV:Pontifex
+ 
+ 
+0174
+Bellino 22
+W / Westf / B / 2014
+V:Balous Bellini / MV:Pontifex
+ 
+ 
+0175
+Ben Bao
+W / Westf / B / 2014
+V:Belconi / MV:Ehrentusch
+ 
+ 
+0176
+Ben Benicio 3
+W / Westf / B / 2013
+V:Benicio / MV:Ampere (NLD)
+ 
+ 
+0177
+Ben Hur SK
+W / Westf / B / 2015
+V:Bellini Royal / MV:Grannus
+ 
+ 
+0178
+Benne M
+W / Westf / Df / 2011
+V:Blickpunkt / MV:Ragazzo
+ 
+ 
+0179
+Benni Balou W
+W / Westf / B / 2004
+V:Belissimo M / MV:World Magic
+ 
+ 
+0180
+Bennysdale
+W / Westf / B / 2010
+V:Basic / MV:Di Versace
+ 
+ 
+1897
+Bergolio OLD
+W / Old / B / 2011
+V:Bordeaux (NLD) / MV:Rosier
+ 
+ 
+0181
+Berkeley
+S / Westf / F / 2009
+V:Basic / MV:Consul
+ 
+ 
+0182
+Berlinale 8
+S / Westf / B / 2012
+V:Balous Bellini / MV:Cassini I
+ 
+ 
+0183
+Berlinale 9
+S / Westf / B / 2014
+V:Balous Bellini / MV:Friedenstraum
+ 
+ 
+0184
+Berlinale D
+S / Westf / B / 2011
+V:Berlin / MV:Pilox
+ 
+ 
+0185
+Bernadette 27
+S / Westf / B / 2013
+V:Balous Bellini / MV:Florestan I
+ 
+ 
+0186
+Best of 10
+H / Westf / R / 2015
+V:Belantis / MV:Likoto xx
+ 
+ 
+0187
+Betsy Blu
+S / Rhld / B / 2007
+V:Brentano II / MV:Pavarotti v.d.Helle
+ 
+ 
+0188
+Beverly 84
+S / Westf / Df / 2015
+V:Belissimo M / MV:Dressage Royal
+ 
+ 
+0189
+Biarado
+W / DR / B / 2008
+V:Benetton S / MV:Navajo
+ 
+ 
+0190
+Bibilotta S
+S / Westf / B / 2010
+V:Balous Bellini / MV:Royal Angelo I
+ 
+ 
+0191
+Black Jack 218
+W / Rhld / Schwb / 2011
+V:Boston (NLD) / MV:Donnerruf
+ 
+ 
+0192
+Blackberry 7
+H / OS / Db / 2015
+V:Bellini Royal / MV:Lupicor
+ 
+ 
+0193
+Blackjack 5
+W / Old / Db / 2010
+V:Bordeaux (NLD) / MV:Lastro
+ 
+ 
+0194
+Blind Date IK
+W / Westf / F / 2012
+V:Belissimo M / MV:Regardez
+ 
+ 
+0195
+Blue Bayu 2
+W / Hann / Db / 2004
+V:Baroncelli / MV:Bolero
+ 
+ 
+0196
+Bo 64
+W / Hann / F / 2014
+V:Balou du Rouet / MV:Landadel
+ 
+ 
+0197
+Boa SB
+S / Westf / B / 2013
+V:Balou du Rouet / MV:Polydor
+ 
+ 
+0198
+Bobby Brown 49
+W / Holst / B / 2012
+V:Cormint / MV:Carry
+ 
+ 
+0199
+Bobby Cool
+W / Old / B / 2011
+V:Bordeaux (NLD) / MV:Sion
+ 
+ 
+0200
+Boccaccio 40
+H / Westf / B / 2008
+V:Bestseller / MV:Lauries Crusador xx
+ 
+ 
+0201
+Boccaccio 44
+W / OS / Schwb / 2011
+V:Balou du Rouet / MV:Arpeggio
+ 
+ 
+0202
+Bocelli 37
+W / Westf / B / 2011
+V:Belissimo M / MV:Dancing Dynamite
+ 
+ 
+0203
+Boheme de Lys
+S / Westf / Df / 2010
+V:Boston (NLD) / MV:Florestan I
+ 
+ 
+1880
+Bold Venture
+W / OS / B / 2012
+V:Balou du Rouet / MV:Capitol II
+ 
+ 
+0204
+Bolero 353
+W / KWPN / Schwb / 2006
+V:Negro (Novabor) / MV:Zeoliet
+ 
+ 
+0205
+Bolino 2
+W / DR / Schwb / 1992
+V:Bolero / MV:Caesar
+ 
+ 
+0206
+Bolle Bellini
+W / Westf / Db / 2013
+V:Balous Bellini / MV:Grand Coeur
+ 
+ 
+0207
+Bon Bamiro
+W / Westf / Df / 2014
+V:Bamiro / MV:Churchill
+ 
+ 
+0208
+Bon Jovi 86
+W / Westf / B / 2009
+V:Baldini II / MV:Lados
+ 
+ 
+0209
+Bon Voyage 33
+S / Westf / B / 2010
+V:Balous Bellini / MV:Potsdam
+ 
+ 
+1809
+Bond Girl 10
+S / Hann / R / 2014
+V:Bretton Woods / MV:For Compliment
+ 
+ 
+1846
+Bonderman
+H / Westf / F / 2012
+V:Belarus / MV:Alabaster
+ 
+ 
+0211
+Bonita 277
+S / BSchi / 2002
+ 
+ 
+0212
+Bonita 390
+S / Westf / F / 2004
+V:Belissimo M / MV:Faveur
+ 
+ 
+0213
+Bonita M
+S / Westf / R / 2005
+V:Balou du Rouet / MV:Monsieur AA
+ 
+ 
+0214
+Bonnie Z
+S / Westf / Schi / 2015
+V:Bellini Royal / MV:Pontifex
+ 
+ 
+0215
+Bootsmann 15
+W / Old / F / 2011
+V:Belissimo M / MV:Caprimond
+ 
+ 
+0216
+Bordeaux 31
+H / Westf / B / 2010
+V:Balous Bellini / MV:Rodney
+ 
+ 
+0217
+Brasil 33
+W / KWPN / B / 2006
+V:Empire / MV:Orame
+ 
+ 
+0218
+Braveaux
+W / B / 2014
+V:Bordeaux (NLD) / MV:Florestan I
+ 
+ 
+0219
+Braveheart 27
+H / Westf / B / 2005
+V:Big Shuffle xx / MV:Labrador
+ 
+ 
+0220
+Bravissimo 4
+H / Westf / B / 2004
+V:Belissimo M / MV:Lord Sinclair I
+ 
+ 
+1823
+Bretton's Firegirl GD
+S / Old / Schwb / 2014
+V:Bretton Woods / MV:Fürst Heinrich
+ 
+ 
+0221
+Bright Smile
+S / Westf / F / 2010
+V:Belissimo M / MV:Wolkentanz II
+ 
+ 
+0222
+Brooker's Boy
+H / Old / Df / 2015
+V:Bordeaux (NLD) / MV:Don Romantic
+ 
+ 
+0223
+BRS Real Magic
+S / Westf / B / 2015
+V:Real Grandios / MV:Abanos
+ 
+ 
+0224
+Bubble Beat
+H / Westf / B / 2007
+V:Balou du Rouet / MV:Der Clou
+ 
+ 
+0225
+Buby le Beau
+W / Hann / B / 2006
+V:Brentano II / MV:Rubinstein I
+ 
+ 
+0226
+Bugatti du Rouet
+W / Westf / B / 2010
+V:Balou du Rouet / MV:Le Primeur
+ 
+ 
+0227
+Bumblebee 39
+S / DR / Db / 2013
+V:Big Dresscode / MV:Paparazzi
+ 
+ 
+0228
+Burlesque B
+S / Trak. / Schwb / 2013
+V:Hirtentanz / MV:Rockefeller
+ 
+ 
+0229
+Busy Bumble
+S / Old / B / 2005
+V:Balou du Rouet / MV:Strohmann xx
+	C - Pferdename / KNR		
+
+ 
+ 
+0230
+C'est Zoe
+S / Westf / Db / 2010
+V:Captain Fire / MV:Landlord
+ 
+ 
+0231
+Caballiero 4
+H / Holst / BkaSc / 2010
+V:Cassito / MV:Quintero
+ 
+ 
+0232
+Cacao 6
+W / Westf / B / 2010
+V:Camax L / MV:Gralserbe
+ 
+ 
+0233
+Caccio 2
+W / Holst / Db / 2008
+V:Carpaccio / MV:Acorado I
+ 
+ 
+0234
+Cachette
+S / Westf / B / 2009
+V:Carell / MV:Dottore
+ 
+ 
+0236
+Cadance 4
+S / Holst / Schi / 2010
+V:Cassin / MV:Sir Dancer xx
+ 
+ 
+0237
+Cadice B
+S / Westf / Db / 2003
+V:Cordobes I / MV:Chasseur I
+ 
+ 
+1872
+Cadoque W
+H / Westf / B / 2013
+V:Chin Win / MV:Carthago
+ 
+ 
+0238
+Caesar FH
+H / Westf / BkaSc / 2005
+V:Contini / MV:Weinberg
+ 
+ 
+0239
+Caipirol F
+W / Westf / B / 2012
+V:Chin Win / MV:Arpeggio
+ 
+ 
+0240
+Calandrella
+S / Westf / B / 2013
+V:Christiano / MV:Pit I
+ 
+ 
+0241
+Calaro 10
+W / Holst / Db / 2009
+V:Carentan / MV:Landgraf I
+ 
+ 
+0242
+Calassio
+W / Holst / Schi / 2011
+V:Cosido / MV:Claudio's Son
+ 
+ 
+0243
+Calero 34
+W / Westf / B / 2009
+V:Captain Fire / MV:Le Cou Cou
+ 
+ 
+0244
+Calibro 17
+H / Westf / B / 2014
+V:Cornet Obolensky (ex: Windows / MV:Popcorn
+ 
+ 
+0245
+Caligula LH
+W / Westf / F / 2012
+V:Comme il faut / MV:Dinard L
+ 
+ 
+0246
+Calipo Cola
+H / Westf / B / 2015
+V:Cador / MV:Gentleman
+ 
+ 
+0247
+Caliquo
+W / Old / F / 2013
+V:Calandro (ex Cebulon Blanc) / MV:Limbus
+ 
+ 
+0248
+Calira 5
+S / Rhld / B / 2008
+V:Calido I / MV:Acorado I
+ 
+ 
+0249
+Calistas
+S / Ita.W / B / 2007
+V:Collin L / MV:Dinard L
+ 
+ 
+0250
+Calisto Blue B
+W / Westf / B / 2010
+V:Congress / MV:Pilot
+ 
+ 
+0251
+Call me Cabitt S
+W / Holst / B / 2010
+V:Casiro I / MV:Caletto I
+ 
+ 
+0252
+Call me Carlotta O
+S / Westf / BkaSc / 2014
+V:Cup Cooper / MV:Carentan
+ 
+ 
+0253
+Call me Cookie 4
+S / Holst / B / 2011
+V:Clarimo / MV:Limbus
+ 
+ 
+0254
+Call Me JB
+H / Westf / Schi / 2015
+V:Call me number One / MV:Quintero
+ 
+ 
+0255
+Callboy of Mine
+H / Westf / Schwb / 2008
+V:Christiano / MV:Lamerto H
+ 
+ 
+0256
+Calle 103
+W / Z.Rpf / B / 2009
+V:Calvaro Z / MV:Darco
+ 
+ 
+0257
+Calle 64
+W / Westf / B / 2009
+V:Comme il faut / MV:Polydor
+ 
+ 
+0258
+Callino 5
+W / KWPN / B / 2003
+V:Lennard / MV:Corporal
+ 
+ 
+0259
+Callistano H
+W / Westf / F / 2013
+V:Colmani / MV:Beluga
+ 
+ 
+0261
+Calvin de Luxe
+W / Westf / B / 2008
+V:Clapton / MV:Lamoureux I
+ 
+ 
+0262
+Cama Colensky
+S / Westf / B / 2010
+V:Cayetano L / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0263
+Camaro 138
+W / Hann / F / 2009
+V:Curator / MV:Donnerball
+ 
+ 
+0264
+Camaro N
+W / Westf / B / 2010
+V:Camax L / MV:Polydor
+ 
+ 
+0265
+Cameron 35
+W / DSP / B / 2012
+V:Carell / MV:Decano
+ 
+ 
+0267
+Camillo 214
+W / DSP / Db / 2012
+V:Carell / MV:Conteros
+ 
+ 
+0268
+Camoritz K
+W / Westf / Schi / 2010
+V:Camax L / MV:Sibirian Express
+ 
+ 
+0269
+Campe's Linus
+W / Old / BkaSc / 2008
+V:Champions League / MV:Looping
+ 
+ 
+0270
+Campino 490
+W / Westf / Df / 2010
+V:Contini / MV:Weinberg
+ 
+ 
+0271
+Campino K
+W / Westf / B / 2008
+V:Captain Fire / MV:Ramiro's Son I
+ 
+ 
+0272
+Campino M 2
+W / Westf / Schi / 2013
+V:Cinsey / MV:Don Crusador
+ 
+ 
+0273
+Can 8
+W / Holst / B / 2011
+V:Canstakko / MV:Landgraf I
+ 
+ 
+0274
+Can Do It 4
+H / Westf / B / 2012
+V:Captain Cooper / MV:RTL
+ 
+ 
+0275
+Candanello
+W / Hann / B / 2010
+V:Canstakko / MV:Rivero xx
+ 
+ 
+0276
+Candela Waluka
+S / Trak. / Db / 2008
+V:Insterburg / MV:Guy Laroche
+ 
+ 
+0277
+Candida N
+S / Westf / B / 2010
+V:Cornado II / MV:Anmarsch
+ 
+ 
+0278
+Candle Light 21
+S / Trak. / B / 2014
+V:Hirtentanz / MV:Insterburg
+ 
+ 
+0279
+Candy 736
+S / Pony o.R / B / 2009
+ 
+ 
+1811
+Canmore 3
+H / Westf / Schi / 2012
+V:Capistrano / MV:Lancer III
+ 
+ 
+0283
+Cantato 2
+W / Westf / Schi / 2013
+V:Christian / MV:Carpaccio
+ 
+ 
+0284
+Cantlow
+W / Westf / Schi / 2014
+V:Cornet Obolensky (ex: Windows / MV:High Estate xx
+ 
+ 
+0285
+Canturo 6
+W / Holst / B / 2005
+V:Calato / MV:Calando I
+ 
+ 
+1907
+Cap 11
+W / -n.gefunde / 2012
+ 
+ 
+0287
+Cap Chap
+W / Westf / Schi / 2009
+V:Colbert GTI / MV:Balou du Rouet
+ 
+ 
+0288
+Capoeira II
+W / Hann / B / 2009
+V:Conteur / MV:Alabaster
+ 
+ 
+0290
+Caporello
+W / Westf / B / 2013
+V:Camax L / MV:Highvalley
+ 
+ 
+0291
+Capparis
+S / DR / B / 2009
+V:Maverick / MV:Colonel
+ 
+ 
+0292
+Capper 15
+W / Westf / Schi / 2010
+V:Camax L / MV:Ribot
+ 
+ 
+0293
+Cappuccino 164
+W / DR / B / 2008
+V:Charivari / MV:Apslau xx
+ 
+ 
+0294
+Capri 119
+S / Westf / B / 2012
+V:Capistrano / MV:Polydor
+ 
+ 
+0295
+Capri K
+S / Westf / B / 2010
+V:Coronas / MV:Parademarsch II
+ 
+ 
+0296
+Capriano HG
+W / Rhld / Schi / 2013
+V:Capistrano / MV:Arpeggio
+ 
+ 
+0297
+Caprice Z 3
+S / Z.Rpf / Db / 2011
+V:Chamberlain Z / MV:Grannus
+ 
+ 
+0298
+Caprizzia
+S / Westf / Db / 2013
+V:Captain Jack / MV:Ravel
+ 
+ 
+0300
+Captain Forever
+W / Westf / B / 2008
+V:Captain Fire / MV:Landro L
+ 
+ 
+0301
+Captain Jack E
+W / Westf / B / 2007
+V:Cayetano L / MV:Coriano
+ 
+ 
+0302
+Captain Jeremy
+H / Westf / B / 2009
+V:Captain Fire / MV:Artwig
+ 
+ 
+0303
+Captain Kirk 13
+W / Bay / B / 2008
+V:Captain Fire / MV:Golden Joy J
+ 
+ 
+0304
+Captain Skydance
+W / Old / B / 2009
+V:Check In / MV:Levantos I
+ 
+ 
+0305
+Captain's Choco Boy
+W / Westf / B / 2013
+V:Captain Jack / MV:Concepcion xx
+ 
+ 
+0306
+Cara Mia 116
+S / ZW / Db / 2010
+V:Chacco-Blue / MV:Ile de Bourbon
+ 
+ 
+0307
+Cara SK
+S / Westf / Schi / 2012
+V:Camax L / MV:Grannus
+ 
+ 
+0308
+Caralita
+S / Westf / B / 2010
+V:Camax L / MV:Ramiro's Son I
+ 
+ 
+0309
+Caramba 102
+S / Westf / B / 2013
+V:Chin Win / MV:Aldato
+ 
+ 
+0310
+Carantas
+H / Holst / Schwb / 2010
+V:Carabas / MV:Canto
+ 
+ 
+0311
+Caravelle 14
+S / Trak. / B / 2011
+V:Imperio / MV:Münchhausen
+ 
+ 
+0312
+Cardino L
+W / Westf / B / 2008
+V:Colmani / MV:Cordobes I
+ 
+ 
+0313
+Carella B
+S / Westf / B / 2011
+V:Carell / MV:Fortissimo
+ 
+ 
+0314
+Caressando
+H / Holst / B / 2011
+V:Cassilano / MV:Calido I
+ 
+ 
+0315
+Carianos Boy
+W / Holst / Schi / 2010
+V:Cariano / MV:Calando I
+ 
+ 
+0316
+Cariba K
+S / Westf / B / 2012
+V:Cayetano L / MV:Ribot
+ 
+ 
+0317
+Carice T
+S / DR / F / 2007
+V:Classic Dancer I / MV:Golden Dancer
+ 
+ 
+0318
+Carin Cascada
+S / Westf / B / 2012
+V:Cathanos / MV:Landlord
+ 
+ 
+0319
+Carina 555
+S / Westf / R / 2009
+V:Christ / MV:Lago Navaro
+ 
+ 
+0320
+Carissima 25
+S / Old / Db / 2008
+V:Balou du Rouet / MV:Carte d'Or
+ 
+ 
+0321
+Caritana Z
+S / Z.Rpf / F / 2006
+V:Caritano Z / MV:Elegant de L'Ile
+ 
+ 
+0322
+Carl der Gro¯e 34
+W / DR / B / 2016
+V:Cosmopolitan D / MV:FS Don't Worry
+ 
+ 
+0323
+Carla 251
+S / Hann / B / 2014
+V:Cascadello I / MV:Contagio
+ 
+ 
+0324
+Carla Columna 34
+S / Westf / B / 2011
+V:Caresse le Reve / MV:Grandeur
+ 
+ 
+0325
+Carla Culunda
+S / Westf / B / 2007
+V:Collin L / MV:Lancer III
+ 
+ 
+0326
+Carlchen 51
+W / Westf / B / 2005
+V:Cayetano L / MV:Polany
+ 
+ 
+0328
+Carlchen Opulensky
+W / Westf / Schi / 2006
+V:Cornet Obolensky (ex: Windows / MV:Lagavulin
+ 
+ 
+0329
+Carlitos 12
+W / OS / B / 2010
+V:Carell / MV:Kolibri
+ 
+ 
+0330
+Carlo 399
+W / Holst / Schi / 2009
+V:Cassus / MV:For Pleasure
+ 
+ 
+1836
+Carlo S 4
+H / Westf / Db / 2013
+V:Capistrano / MV:Gracioso
+ 
+ 
+0331
+Carlotta 272
+S / DR / F / 2006
+V:Cornett / MV:Tequilla
+ 
+ 
+0332
+Carlotta 94
+S / Westf / Schi / 2004
+V:Cassone / MV:Grossglockner
+ 
+ 
+0333
+Carlotta K 3
+S / Westf / Schi / 2009
+V:Coronas / MV:Coronino
+ 
+ 
+0334
+Carlotta Lou B
+S / Westf / Schi / 2010
+V:Congress / MV:Coriando
+ 
+ 
+0335
+Carlotta M 3
+S / Westf / Schi / 2014
+V:Cachassini / MV:Coronino
+ 
+ 
+0336
+Carlotta SB
+S / Westf / Db / 2005
+V:Charisma / MV:Dinard L
+ 
+ 
+0337
+Carlsson S
+W / Westf / B / 2009
+V:Cornado I / MV:Arpeggio
+ 
+ 
+0338
+Carluna 2
+S / KWPN / Db / 2008
+V:Colmander / MV:Montreux
+ 
+ 
+0339
+Carmen R
+S / Westf / B / 2004
+V:Christoph Columbus / MV:Rotarier
+ 
+ 
+0340
+Carmina R
+S / Westf / B / 2011
+V:Christiano / MV:Lordanos
+ 
+ 
+0341
+Caro 109
+S / Holst / B / 2010
+V:Carrico / MV:Quidam de Revel
+ 
+ 
+0342
+Caro 88
+S / Westf / Db / 2005
+V:Cocktail's Olymp / MV:Florestan I
+ 
+ 
+0343
+Caroline 91
+S / Holst / Schi / 2005
+V:Carolus I / MV:Rheinsberg
+ 
+ 
+0344
+Carpigiana
+S / Holst / Schi / 2008
+V:Clarimo / MV:Quintero
+ 
+ 
+0345
+Carrica P
+S / Westf / B / 2013
+V:Carrico / MV:Ehrentusch
+ 
+ 
+0346
+Carry B
+S / Westf / F / 2011
+V:Catum / MV:Dramaturg
+ 
+ 
+0347
+Carthenos
+W / DSP / BkaSc / 2012
+V:Carell / MV:Athlet Z
+ 
+ 
+0348
+Cartoon Z
+W / Westf / Schi / 2010
+V:Catum / MV:Pontifex
+ 
+ 
+0349
+Caruso 365
+W / Westf / B / 2002
+V:Collin L / MV:Ribot
+ 
+ 
+0350
+Cary 4
+H / DSP / B / 2012
+V:Carell / MV:Cyrano
+ 
+ 
+0351
+Casa Grande 2
+S / Rhld / B / 2009
+V:Cassini Boy Junior / MV:Lancer II
+ 
+ 
+1812
+Casa Lady
+S / BWP / Db / 2015
+V:Casago / MV:Lux
+ 
+ 
+1874
+Casablanca 104
+S / Holst / B / 2008
+V:Casero / MV:Askari
+ 
+ 
+0353
+Casalls Pleasure
+W / Holst / Schwb / 2014
+V:Casall / MV:For Pleasure
+ 
+ 
+0354
+Casalouba
+S / OS / B / 2012
+V:Casario II / MV:Landadel
+ 
+ 
+0356
+Cascaja 21
+S / Westf / B / 2004
+V:Collin L / MV:Platini M
+ 
+ 
+0357
+Cascara 31
+S / Rhld / B / 2013
+V:Coronas / MV:Walzertakt
+ 
+ 
+0358
+Cascaya 74
+S / Holst / Schi / 2010
+V:Cornet Obolensky (ex: Windows / MV:Landgraf I
+ 
+ 
+0359
+Casco Bravo
+H / Hann / B / 2015
+V:Cascadello I / MV:For Keeps
+ 
+ 
+0360
+Cash Flow 24
+W / Westf / B / 2010
+V:Cancara / MV:Achill-Libero H
+ 
+ 
+0361
+Cash Machine
+W / Holst / Schi / 2011
+V:Connor / MV:Acobat II
+ 
+ 
+0362
+Cash von Hofgarten
+W / DR / B / 2010
+V:Casino Royale K / MV:Constantin
+ 
+ 
+0363
+Cashearl
+H / Holst / B / 2013
+V:Cash and Carry / MV:Landgraf I
+ 
+ 
+0364
+Casimir 181
+H / Westf / Db / 2013
+V:Coronas / MV:Collin L
+ 
+ 
+0365
+Casimir RZ
+W / DSP / B / 2014
+V:Casanova Royal / MV:Clarimo
+ 
+ 
+0366
+Casino 67
+H / Holst / BkaSc / 2007
+V:Cassini I / MV:Coriander
+ 
+ 
+0367
+Casino 95
+W / Westf / B / 2011
+V:Contelido / MV:Feuerglanz
+ 
+ 
+0368
+Casino Royale 21
+W / Holst / B / 2010
+V:Cayado / MV:Newton
+ 
+ 
+0369
+Casiro Boy
+W / Westf / B / 2013
+V:Casiro I / MV:Rhytmus S
+ 
+ 
+0370
+Caspar 177
+H / Westf / B / 2003
+V:Collin L / MV:Polydor
+ 
+ 
+0371
+Casparino 6
+W / Westf / B / 2010
+V:Comme il faut / MV:Polydor
+ 
+ 
+0372
+Casparo 36
+W / Holst / B / 2014
+V:Cascadello II / MV:Corofino II
+ 
+ 
+0373
+Casper 429
+H / Westf / Schwb / 2013
+V:Cormint / MV:Coronas
+ 
+ 
+0374
+Casper Mac Fly
+H / Holst / Schi / 2007
+V:Consens / MV:Corrado II
+ 
+ 
+0375
+Cassandra 291
+S / Hann / B / 2004
+V:Contendro I / MV:Mont Du Cantal AA
+ 
+ 
+0376
+Cassida 4
+S / Westf / B / 2010
+V:Cassini II / MV:Quidam de Revel
+ 
+ 
+0377
+Cassie K
+S / Westf / Db / 2009
+V:Captain Fire / MV:Don Diego
+ 
+ 
+0378
+Cassina 73
+S / Holst / B / 2009
+V:Cassin / MV:Caretino
+ 
+ 
+0379
+Cassiopeia 113
+S / DR / Bsk / 2013
+V:FS Champion de Luxe / MV:Discovery AA
+ 
+ 
+0380
+Castanjella
+S / Westf / B / 2012
+V:Captain Jack / MV:Primas
+ 
+ 
+0381
+Casu 2
+W / Westf / B / 2012
+V:Capistrano / MV:Continue
+ 
+ 
+0383
+Catch a Smile SB
+S / Westf / B / 2012
+V:Captain Cooper / MV:Lancer III
+ 
+ 
+0384
+Catchpenny Martha
+S / Holst / F / 2012
+V:Cellestial / MV:Moltke I
+ 
+ 
+0385
+Cathany
+W / Westf / Schi / 2012
+V:Cathanos / MV:Landino
+ 
+ 
+0386
+Catina 25
+S / Westf / B / 2014
+V:Coronas / MV:Argentinus
+ 
+ 
+0387
+Catness
+S / Westf / Schi / 2010
+V:Califax / MV:Silvio I
+ 
+ 
+0388
+Cato Minor J
+W / Westf / Schi / 2007
+V:Cornado I / MV:Royalist
+ 
+ 
+0389
+Caty M
+S / Westf / Db / 2011
+V:Cayetano L / MV:Raphael
+ 
+ 
+0390
+Cavallo PS
+W / Z.Rpf / B / 2013
+V:Clarissimo Z (ex George Cloone / MV:Fierro Hof ter Zeedijke
+ 
+ 
+0391
+Cavaluna 4
+S / Trak. / Db / 2008
+V:Insterburg / MV:Münchhausen
+ 
+ 
+0392
+Cay's Claire
+S / Holst / Schi / 2009
+V:Casiro II / MV:Contender
+ 
+ 
+0393
+Cayetana 7
+S / Westf / B / 2013
+V:Cayetano L / MV:Asaachen
+ 
+ 
+0395
+Caytani
+W / Westf / B / 2007
+V:Cayetano L / MV:Coronino
+ 
+ 
+0396
+Cayus 2
+H / Westf / Db / 2007
+V:Cayetano L / MV:Zeus (Nurzeus)
+ 
+ 
+0397
+Cebra DB
+H / Westf / Schi / 2012
+V:Cathanos / MV:Acobat III
+ 
+ 
+1862
+Cedro 5
+W / Schi / 2004
+ 
+ 
+1831
+Celebrate You
+S / Hann / B / 2008
+V:Converter / MV:Continue
+ 
+ 
+1828
+Celebration WE
+H / DR / B / 2009
+V:Constantin / MV:Royal Diamond
+ 
+ 
+0399
+Celena 3
+S / Westf / Db / 2005
+V:Cornet Obolensky (ex: Windows / MV:Polydor
+ 
+ 
+0401
+Celester H
+W / KWPN / B / 2007
+V:Scandic / MV:Mantovani
+ 
+ 
+0403
+Celestino 20
+W / DSP / Schi / 2011
+V:Cellestial / MV:Come On
+ 
+ 
+0404
+Celina 200
+S / Westf / B / 2011
+V:Cornet Obolensky (ex: Windows / MV:Pilot
+ 
+ 
+0405
+Cellestago
+H / OS / B / 2010
+V:Cellestial / MV:Acolino
+ 
+ 
+0406
+Cello 18
+S / DR / B / 2009
+V:Henry / MV:Amarillys Sensation
+ 
+ 
+0407
+Cello 27
+H / Westf / F / 2015
+V:Comme il faut / MV:Coronas
+ 
+ 
+0408
+Cencari- B
+W / Holst / B / 2013
+V:Centurion / MV:Cascari
+ 
+ 
+0409
+Centino 15
+H / Holst / Schi / 2014
+V:Centurion / MV:Cassini I
+ 
+ 
+0410
+Centucky 5
+S / Hann / B / 2010
+V:Contagio / MV:Giorgio
+ 
+ 
+0411
+Cermit 10
+W / Meckl. / B / 2007
+V:Clinton / MV:Calando I
+ 
+ 
+0412
+Certaldo
+W / Westf / B / 2009
+V:Carabas / MV:Don Bedo I
+ 
+ 
+0413
+Cesana 4
+S / Westf / B / 2006
+V:Collin L / MV:Dimension
+ 
+ 
+0414
+Chablis 148
+S / Westf / Schi / 2008
+V:Champions League / MV:Casparino
+ 
+ 
+0415
+Chablis 161
+S / Westf / F / 2013
+V:Comme il faut / MV:Pilot
+ 
+ 
+0417
+Chacalaqua
+S / Westf / B / 2010
+V:Conthargos / MV:Darius
+ 
+ 
+0418
+Chacco Chocolate
+W / OS / Db / 2008
+V:Chacco-Blue / MV:Acord II
+ 
+ 
+1827
+Chacco S
+W / Westf / F / 2013
+V:Chacco Gold / MV:Acadius
+ 
+ 
+0419
+Chacco Titan
+H / Hann / F / 2012
+V:Chacco Gold / MV:Glueckspilz
+ 
+ 
+0420
+Chaccominko N
+W / KWPN / B / 2007
+V:Chacco-Blue / MV:Corland (DK: Corlando)
+ 
+ 
+0421
+Chalesta
+S / Holst / B / 2013
+V:Casalito / MV:Contender
+ 
+ 
+0422
+Chanel 458
+S / Westf / B / 2011
+V:Charmeur / MV:Rosenkavalier
+ 
+ 
+0423
+Chapeau 39
+H / Westf / BkaSc / 2014
+V:Cassone / MV:Nitron
+ 
+ 
+0424
+Chapeau Tango
+S / KWPN / Schi / 2007
+V:Unaniem / MV:Contango
+ 
+ 
+0425
+Chaplin 93
+W / Holst / B / 2008
+V:Chepetto / MV:Landgraf I
+ 
+ 
+0426
+Chaplin H
+W / Westf / B / 2007
+V:Christiano / MV:Linaro
+ 
+ 
+0427
+Chaplin S
+W / Westf / B / 2008
+V:Cornado I / MV:Aldato
+ 
+ 
+0428
+Charan 11
+W / DSP / F / 2015
+V:Cellestial / MV:Come On
+ 
+ 
+0429
+Chardonnay 100
+S / Holst / Schi / 2011
+V:Connor / MV:Cassini I
+ 
+ 
+0430
+Charilaos
+W / Westf / B / 2003
+V:Cornet Obolensky (ex: Windows / MV:Weinberg
+ 
+ 
+0431
+Charlotta H
+S / Holst / B / 2012
+V:Connor / MV:Clearway
+ 
+ 
+0432
+Charlotta W
+S / Westf / Schi / 2008
+V:Contago / MV:Hamilton
+ 
+ 
+0433
+Charly 1675
+W / Westf / B / 2013
+V:Captain Cooper / MV:Argentinus
+ 
+ 
+0434
+Charly. S
+W / DR / F / 2011
+V:Charivari / MV:Peking
+ 
+ 
+0435
+Charmain 5
+S / DSP / B / 2013
+V:Carvallos / MV:Conteros
+ 
+ 
+0436
+Charmante 33
+S / Hann / F / 2003
+V:Chasseur I / MV:Grafenstein
+ 
+ 
+0437
+Charmeur GA
+H / Westf / Db / 2013
+V:Carrico / MV:Ehrentanz I
+ 
+ 
+0438
+Charming 30
+S / Holst / Db / 2010
+V:Captain Fire / MV:Quinar
+ 
+ 
+0439
+Charming Boy 49
+W / Holst / B / 2006
+V:Cartani / MV:Quinar
+ 
+ 
+0440
+Charming Scarlett E
+S / Westf / B / 2009
+V:Coronas / MV:Coriano
+ 
+ 
+0441
+Chase your Dream SB
+S / Westf / B / 2013
+V:Catoo / MV:Candillo
+ 
+ 
+0442
+Chattanooga 16
+H / DR / B / 2007
+V:FS Chicago / MV:Benetton S
+ 
+ 
+0443
+Checkmate 7
+W / Westf / Db / 2005
+V:Cornet Obolensky (ex: Windows / MV:Pilot
+ 
+ 
+0445
+Cheeky Charlie
+W / Holst / Schi / 2014
+V:Clarimo / MV:Coriano
+ 
+ 
+0446
+Chelsea 119
+S / Old / Schi / 2008
+V:Champions League / MV:Argentinus
+ 
+ 
+0447
+Chelsey 21
+S / Hann / B / 2012
+V:Contagio / MV:For Keeps
+ 
+ 
+0448
+Chelsy 22
+S / Westf / Schi / 2012
+V:Camax L / MV:Dinard L
+ 
+ 
+0449
+Chenaya S
+S / OS / Schi / 2009
+V:Clintissimo / MV:Landadel
+ 
+ 
+0450
+Chester 343
+W / Old / Db / 2013
+V:Christian / MV:Akitos xx
+ 
+ 
+0451
+Chiandra pur Emotion
+S / DR / B / 2014
+V:Cosmopolitan D / MV:Halifax
+ 
+ 
+1857
+Chiandro pur Emotion
+H / Westf / BkaSc / 2012
+V:Casino Berlin / MV:Longchamp
+ 
+ 
+0452
+Chianti 55
+W / DR / F / 1999
+V:Capello / MV:Twylands Firecracker 14996
+ 
+ 
+0453
+Chiara Go
+S / Westf / Schi / 2011
+V:Cornado I / MV:Anmarsch
+ 
+ 
+0454
+Chiara WH
+S / Westf / B / 2011
+V:Captain Fire / MV:Grossadmiral
+ 
+ 
+0455
+Chica de La Luna LH
+S / Westf / B / 2008
+V:Conteur / MV:Paradiso
+ 
+ 
+0456
+Chica la Grande RH
+S / Westf / F / 2014
+V:Colestus / MV:Pro Ratio
+ 
+ 
+0457
+Chica Mayor
+S / Westf / B / 2013
+V:Colestus / MV:Lupicor
+ 
+ 
+0458
+Chicago 196
+W / Westf / F / 2013
+V:C-Trenton Z / MV:Balou du Rouet
+ 
+ 
+0459
+Chickimicki 3
+S / Westf / Df / 2015
+V:Comme il faut / MV:Qarco van het Graethemhof
+ 
+ 
+0461
+Chico Belisimo
+W / DR / Palom / 2012
+V:FS Champion de Luxe / MV:Domingo
+ 
+ 
+0462
+Chicoletta 7
+S / Westf / Schi / 2009
+V:Colbert GTI / MV:Cordobes I
+ 
+ 
+0463
+Chilli up
+S / Westf / B / 2008
+V:Christiano / MV:Pinocchio
+ 
+ 
+0464
+Chin Chilly H
+S / Westf / B / 2012
+V:Chin Win / MV:Longchamp
+ 
+ 
+1813
+China Town 3
+S / Westf / Schwb / 2010
+V:Carento / MV:Foxiland xx
+ 
+ 
+0467
+Chivas Macaroon Dicaprio
+W / DR / F / 2010
+V:Don Miguel / MV:Seven Mountain Natan
+ 
+ 
+0468
+Cho Chang Hermida
+S / Cruz.P / Schi / 2007
+V:Dumbledor / MV:Zagalo
+ 
+ 
+1882
+Choco Crossie S
+S / Westf / B / 2013
+V:Cup Cooper / MV:Grasco
+ 
+ 
+0469
+Chococcino
+W / Westf / Db / 2009
+V:Christiano / MV:Goldstern
+ 
+ 
+0470
+Chocolate Noir 2
+S / Westf / B / 2010
+V:Chrysoberyll / MV:Weltmeyer
+ 
+ 
+0471
+Chopard 25
+W / Holst / Schi / 2013
+V:Cantoblanco / MV:Larioni
+ 
+ 
+0472
+Chou-Chou 10
+H / Westf / B / 2012
+V:Comme il faut / MV:Arpeggio
+ 
+ 
+0473
+Choupette 4
+S / Westf / B / 2011
+V:Cayetano L / MV:Quiro
+ 
+ 
+0474
+Christ Junior
+W / Hann / Db / 2011
+V:Christ / MV:Wesley
+ 
+ 
+0475
+Christobal 21
+W / Westf / B / 2007
+V:Christoph Columbus / MV:Lancer III
+ 
+ 
+0476
+Chuck 39
+W / OS / B / 2012
+V:Check In / MV:Centesimo I
+ 
+ 
+0477
+Chuck Berry 12
+W / Westf / Schi / 2009
+V:Colbert GTI / MV:Gralshüter
+ 
+ 
+0478
+Ci Ci Senorita
+S / Westf / F / 2011
+V:Ci Ci Senjor / MV:Achill-Libero H
+ 
+ 
+0479
+Ciacolino
+H / Dt.Pf / F / 2015
+V:Ciacolini / MV:Balous Bellini
+ 
+ 
+0481
+Cid 57
+W / DSP / B / 2014
+V:Champion / MV:Caruso
+ 
+ 
+0482
+Cidanna
+S / DSP / F / 2014
+V:Chetlag / MV:San Juan
+ 
+ 
+0483
+Cienna 2
+S / Old / R / 2012
+V:Cennin / MV:Sandro Hit
+ 
+ 
+0484
+Cimba 24
+S / Holst / B / 2007
+V:Cassini II / MV:Corrado II
+ 
+ 
+0485
+Cincuenta y tres
+S / Holst / Schi / 2008
+V:Calato / MV:Grundyman xx
+ 
+ 
+0486
+Cindarella Royal G
+S / DR / Palom / 2015
+V:Crown Charm of Royal
+ 
+ 
+0487
+Cinderella 648
+S / DSP / B / 2010
+V:Callado / MV:Pessoa VDL
+ 
+ 
+0488
+Cindy Crawford 7
+S / Holst / Schwb / 2009
+V:Crawford / MV:Sir Shostakovich xx
+ 
+ 
+0489
+Circus Halligalli B
+W / Westf / Schi / 2013
+V:Camax L / MV:Ramiro's Son I
+ 
+ 
+0490
+Cismet 4
+W / Westf / B / 2013
+V:Coronas / MV:Quidam de Revel
+ 
+ 
+0491
+Citou
+W / Holst / Db / 2001
+V:Clinton I / MV:Leandro
+ 
+ 
+0492
+Claire 141
+S / Westf / F / 2010
+V:Catum / MV:Grandeur
+ 
+ 
+0493
+Claire Cassis B
+S / Westf / Schi / 2011
+V:Capistrano / MV:Ehrentusch
+ 
+ 
+0494
+Claire Gaby
+S / Westf / B / 2013
+V:Cayetano L / MV:Grannus
+ 
+ 
+0495
+Clarence Chessna
+W / Westf / BkaSc / 2005
+V:Cecotto / MV:Condrieu xx
+ 
+ 
+0496
+Classic Clio
+S / Westf / B / 2013
+V:Christiano / MV:Medion-M n.gek.
+ 
+ 
+0497
+Classic Malina
+S / DR / Db / 2009
+V:Classic Dancer III / MV:Marquis x AA
+ 
+ 
+0498
+Classic-Dream
+W / Westf / Schi / 2009
+V:N.N. / MV:Coriano
+ 
+ 
+0499
+Clayton 44
+H / Westf / Schi / 2012
+V:Cassone / MV:Capitano
+ 
+ 
+0500
+Cleancy Queen
+S / Westf / Schi / 2010
+V:Can do L / MV:Almox Prints J
+ 
+ 
+0501
+Clein aber Fein
+W / DR / Palom / 2012
+V:Classic Dancer I / MV:Nantano
+ 
+ 
+1843
+Cleo 202
+S / Westf / B / 2010
+V:Collin L / MV:Apart
+ 
+ 
+0502
+Cleo 244
+S / Westf / Db / 2011
+V:Coronas / MV:Lord Sinclair II
+ 
+ 
+0503
+Cleome 6
+S / Rhld / Schi / 2014
+V:Clearway / MV:Stakkato Gold
+ 
+ 
+0504
+Cleopatra 258
+S / Westf / B / 2009
+V:Coronas / MV:Couleur-Rubin
+ 
+ 
+0505
+Cleopatra 282
+S / DR / Bsk / 2012
+V:FS Champion de Luxe / MV:Discovery AA
+ 
+ 
+0506
+Cleopatrah H
+S / Westf / B / 2010
+V:Christiano / MV:Piquet
+ 
+ 
+0507
+Clever Mariechen
+S / DR / F / 2013
+V:FS Champion de Luxe / MV:Durello
+ 
+ 
+0508
+Cliro
+S / Holst / B / 2010
+V:Clinton I / MV:Corofino I
+ 
+ 
+0510
+Clooney 101
+W / DR / Falbe / 2010
+V:Cyrill / MV:Apslau xx
+ 
+ 
+0512
+Clooney 60
+W / Westf / B / 2009
+V:Concetto / MV:Monte Carlo I
+ 
+ 
+0509
+CloÚ
+S / Old / Db / 2009
+V:Captain Fire / MV:Lancer III
+ 
+ 
+0514
+Clubber Lang H
+W / Westf / B / 2010
+V:Colmani / MV:Beluga
+ 
+ 
+0515
+Clyde 84
+W / AESRpf / Schi / 2015
+V:Caruso de Trebox / MV:Dijon
+ 
+ 
+0516
+Clyde Z
+W / Westf / B / 2015
+V:Ciacolini / MV:Pontifex
+ 
+ 
+0517
+Coast Magic 2
+S / Holst / Schi / 2009
+V:Cliostro / MV:Cascavelle
+ 
+ 
+0518
+Cocain SN
+S / Westf / Schi / 2005
+V:Con Capitol / MV:Charisma
+ 
+ 
+1876
+Coco HE
+S / Westf / Db / 2014
+V:Colestus / MV:Arpeggio
+ 
+ 
+0519
+Cocona 6
+S / OS / B / 2014
+V:Christian / MV:Carrico
+ 
+ 
+1852
+Coconut Kiss 32
+W / DSP / Db / 2013
+V:Calibri / MV:Callistus
+ 
+ 
+0520
+Coertis 2
+W / Old / Schwb / 2009
+V:Collado / MV:Abke
+ 
+ 
+0521
+Cojak 9
+W / Westf / F / 2011
+V:Corus (n.gek.) / MV:Fidermark
+ 
+ 
+0522
+Coletta M
+S / Westf / Schi / 2005
+V:Cornet Obolensky (ex: Windows / MV:Pilot
+ 
+ 
+0523
+Colette 112
+S / OS / B / 2009
+V:Chacco-Blue / MV:Capitol I
+ 
+ 
+0524
+Colina 52
+S / Westf / B / 2008
+V:Captain Fire / MV:Ribot
+ 
+ 
+1901
+Colleen 45
+S / Westf / B / 2013
+V:Cup Cooper / MV:For Germany RD
+ 
+ 
+0526
+Collina 16
+S / Westf / B / 2009
+V:Collin L / MV:Cordano Z
+ 
+ 
+1904
+Colonel du Marais
+W / -n.gefunde / 2012
+ 
+ 
+0527
+Colorada 4
+S / Westf / Schi / 2010
+V:Congress / MV:Pit I
+ 
+ 
+1887
+Colorado 243
+W / Westf / Schi / 2014
+V:Colestus / MV:Liberty Life
+ 
+ 
+0529
+Coloured Bonario`s Misiu
+W / OS / Db / 2009
+V:Cascari / MV:Levisto
+ 
+ 
+0531
+Colt Seavers 2
+W / Westf / B / 2009
+V:Captain Fire / MV:Ex Libris
+ 
+ 
+0532
+Colydor 3
+W / Westf / Schi / 2014
+V:Colestus / MV:Stalypso
+ 
+ 
+0533
+Com Quest
+W / Westf / B / 2013
+V:Comme il faut / MV:Quidam de Revel
+ 
+ 
+0534
+Comet 236
+W / Westf / Schi / 2009
+V:Contendro I / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0535
+Comic H
+W / Westf / B / 2010
+V:Comme il faut / MV:Poker
+ 
+ 
+0536
+Comicus
+W / Old / Df / 2014
+V:Cennin / MV:Fidertanz
+ 
+ 
+0537
+Coming soon 10
+W / Holst / B / 2014
+V:Cassilano / MV:Liostro
+ 
+ 
+0538
+Commano
+W / Westf / B / 2012
+V:Comme il faut / MV:Quidam de Revel
+ 
+ 
+0539
+Comme il beau
+S / Westf / B / 2013
+V:Comme il faut / MV:Argentinus
+ 
+ 
+0540
+Companiero 5
+W / Holst / Schi / 2012
+V:Colman / MV:Barnaul xx
+ 
+ 
+0542
+Con Catalina
+S / Westf / B / 2012
+V:Con Chello / MV:Ferragamo
+ 
+ 
+0543
+Concettino
+H / Old / Db / 2001
+V:Concetto I / MV:Akzent II
+ 
+ 
+0544
+Concetto 16
+W / Holst / B / 2006
+V:Con Air / MV:Cardino
+ 
+ 
+0545
+Concetto's Joy
+S / Hann / Db / 2006
+V:Concetto / MV:Acord II
+ 
+ 
+0546
+Conchita FH
+S / Westf / F / 2012
+V:Captain Chancy / MV:Davignon I
+ 
+ 
+0547
+Condio B
+W / Hann / Db / 2004
+V:Contendro I / MV:Willem's As I
+ 
+ 
+0548
+Conery
+W / Westf / B / 2009
+V:Colman / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0549
+Confuego
+W / Westf / B / 2005
+V:Cayetano L / MV:Diabas I
+ 
+ 
+0550
+Connar
+W / Westf / B / 2008
+V:Collin L / MV:Florestan I
+ 
+ 
+0551
+Conny TW
+S / Westf / Schi / 2010
+V:Congress / MV:Pakt
+ 
+ 
+0552
+Conquistador de carinho
+W / Hann / Db / 2013
+V:Cador / MV:Ramiro's Boy
+ 
+ 
+1883
+Constanze 63
+S / Hann / B / 2015
+V:Cornet's Prinz / MV:Charming Boy
+ 
+ 
+0553
+Contador 23
+W / Hann / Db / 2007
+V:Converter / MV:Ferragamo
+ 
+ 
+0554
+Conte Bianco
+W / Hann / Schi / 2013
+V:Contagio / MV:Wanderkoenig
+ 
+ 
+0555
+Contess M
+S / Westf / B / 2010
+V:Congress / MV:Medion-M n.gek.
+ 
+ 
+0556
+Contess R
+S / Westf / Schi / 2009
+V:Colbert GTI / MV:Rotarier
+ 
+ 
+0557
+Contessa 227
+S / DR / F / 2012
+V:Top Carlos Cassini / MV:Top Nonstop
+ 
+ 
+0558
+Contina 35
+S / Westf / Db / 2008
+V:Continus Grannus / MV:Mytens xx
+ 
+ 
+0559
+Continis Casper E
+W / Westf / Schi / 2009
+V:Contini / MV:Faveur
+ 
+ 
+0561
+Conzerto 5
+W / OS / Schwb / 2005
+V:Contendro I / MV:Graf Grannus
+ 
+ 
+0562
+Conzuelo
+W / Holst / Schwb / 2013
+V:Cormint / MV:Armand xx
+ 
+ 
+0563
+Cookie dough 5
+W / Westf / Schi / 2013
+V:Coronas / MV:For Pleasure
+ 
+ 
+0564
+Cool Man's Dream
+W / Old / Db / 2010
+V:Christ / MV:Sterntõnzer
+ 
+ 
+0565
+Cool Running K
+W / Westf / B / 2007
+V:Chico's Boy / MV:Ribot
+ 
+ 
+0566
+Coole Lotte H
+S / Westf / B / 2013
+V:Comme il faut / MV:Contello
+ 
+ 
+0567
+Coolio SN
+W / Westf / Db / 2004
+V:Con Capitol / MV:Charisma
+ 
+ 
+1903
+Cooper 189
+W / 2012
+ 
+ 
+0568
+Cooper 230
+W / Westf / Schi / 2014
+V:Capistrano / MV:Paulaner
+ 
+ 
+0569
+Cooper L
+W / Westf / Db / 2010
+V:Captain Fire / MV:Polytraum
+ 
+ 
+0570
+Cooper W
+W / Westf / B / 2013
+V:Carrico / MV:Hamilton
+ 
+ 
+0571
+Cora 588
+S / Westf / Schi / 2008
+V:Cristallo / MV:Damenstolz
+ 
+ 
+0572
+Cora 632
+S / Westf / B / 2009
+V:Chianti's Dream / MV:Almox Prints J
+ 
+ 
+0573
+Corado 107
+W / Hann / Schi / 2011
+V:Contagio / MV:Escudo I
+ 
+ 
+0574
+Coralie M
+S / Rhld / F / 2014
+V:Cador / MV:Florestan I
+ 
+ 
+0575
+Corazon 51
+W / Hann / B / 2010
+V:Canturano I / MV:Werther
+ 
+ 
+0576
+Cord 14
+W / DSP / B / 2009
+V:Cato / MV:Chopard
+ 
+ 
+0577
+Cordasino
+H / Westf / B / 2010
+V:Cordanos V / MV:Cosino B
+ 
+ 
+0578
+Cordina B
+S / Westf / Schi / 2009
+V:Cristallo / MV:Ramiro's Son I
+ 
+ 
+0579
+Corfu 8
+W / Westf / B / 2012
+V:Comme il faut / MV:For Pleasure
+ 
+ 
+0580
+Coribo 3
+W / Westf / B / 2013
+V:Coronas / MV:Achill-Libero H
+ 
+ 
+0581
+Corminto
+W / Holst / Schwb / 2012
+V:Cormint / MV:Cash and Carry
+ 
+ 
+0582
+Cornado F
+W / Westf / B / 2005
+V:Collin L / MV:Goldlack I
+ 
+ 
+0583
+Cornet Vivendi
+W / Westf / Schi / 2009
+V:Cornet Fever / MV:Ars Vivendi
+ 
+ 
+0584
+Cornet's Boy 2
+W / OS / Db / 2011
+V:Cornet's Stern / MV:Landor S
+ 
+ 
+0586
+Cornetto Nuss 3
+W / Westf / B / 2008
+V:Cordobes I / MV:Carte d'Or
+ 
+ 
+0587
+Cornflake 5
+H / Westf / Schi / 2003
+V:Capitalist / MV:Parademarsch I
+ 
+ 
+0590
+Cornifesto
+W / Old / B / 2010
+V:Contendro I / MV:Argentinus
+ 
+ 
+0591
+Corsar CR
+W / Holst / Schi / 2012
+V:Clearway / MV:Lorentin I
+ 
+ 
+0592
+Corsiere
+W / SAnha / B / 2001
+V:Convoi / MV:Wagner
+ 
+ 
+0593
+Corvinio
+W / Westf / B / 2014
+V:Cachassini / MV:Cristallo
+ 
+ 
+0594
+Corvinus W
+H / Old / B / 2012
+V:Ciacomo / MV:Louis
+ 
+ 
+0355
+Cõsar HH
+W / Westf / B / 2005
+V:Cayetano L / MV:Magnat II
+ 
+ 
+0595
+Cosima 280
+S / Westf / Schi / 2011
+V:Can do L / MV:Dinard L
+ 
+ 
+0596
+Cosmo 99
+H / Holst / B / 2013
+V:Casall / MV:Parco xx
+ 
+ 
+0597
+Cosmopolitan 31
+S / Westf / Schi / 2006
+V:Contini / MV:Castro
+ 
+ 
+0598
+Cotilas
+S / Holst / B / 2007
+V:Contender / MV:Carolus I
+ 
+ 
+0599
+Couleur Royale SH
+S / Westf / B / 2015
+V:Colestus / MV:Cordobes I
+ 
+ 
+0600
+Countess 24
+S / Westf / B / 2009
+V:Contello / MV:Dinard L
+ 
+ 
+0601
+Covent Garden 6
+S / Holst / F / 2012
+V:Corrado I / MV:Cambridge
+ 
+ 
+0602
+Cover Girl 49
+S / Holst / Schi / 2013
+V:Cassini I / MV:Carpaccio
+ 
+ 
+0603
+Cramers Boy
+W / Westf / Schi / 2014
+V:Camax L / MV:Stakkato
+ 
+ 
+0604
+Crawley
+W / Westf / Schi / 2009
+V:Coronas / MV:Beach Boy
+ 
+ 
+0605
+Crazy Classica
+S / Hann / B / 2011
+V:Christ / MV:Quattro B
+ 
+ 
+0606
+Cream Cake J
+S / Westf / B / 2012
+V:Cassone / MV:Lados
+ 
+ 
+0607
+Creme de Coco
+H / Holst / 2008
+V:Caretino / MV:Con Capitol
+ 
+ 
+0608
+Crossfire 27
+S / Westf / Schi / 2013
+V:Cayado / MV:Champion Du Lys
+ 
+ 
+0609
+Cruiz BE
+W / Westf / B / 2009
+V:Casador / MV:Arpeggio
+ 
+ 
+0610
+Crumble de Breve
+S / Z.Rpf / B / 2007
+V:Cassini II / MV:Quidam de Revel
+ 
+ 
+0611
+Crunchy Nut M
+S / Westf / Db / 2011
+V:Cristallo II / MV:Chasseur I
+ 
+ 
+0612
+Crusadero 3
+H / RuWblt. / Schi / 2011
+V:Crusador / MV:Brilloso
+ 
+ 
+0613
+Csilla 6
+S / Old / B / 2010
+V:Comme il faut / MV:Calypso II
+ 
+ 
+0614
+Cualegro T
+W / Westf / Schi / 2014
+V:Capistrano / MV:Ragazzo
+ 
+ 
+0615
+Cuantano SL
+W / Holst / Db / 2007
+V:Con Sherry / MV:Alcatraz
+ 
+ 
+0616
+Cuba Libre F
+S / Westf / B / 2012
+V:Cayetano L / MV:Graf Top
+ 
+ 
+0618
+Cuella de Ville
+S / Westf / B / 2014
+V:Cayetano L / MV:Couleur-Rubin
+ 
+ 
+0619
+Cum Gaudio 2
+S / Westf / Schi / 2012
+V:Clinton II / MV:Grand Coeur
+ 
+ 
+0620
+Cupcake 10
+W / Holst / Db / 2012
+V:Cormint / MV:Acodetto I
+ 
+ 
+0621
+Cupcake 11
+S / Westf / Schi / 2012
+V:Cathanos / MV:Aldato
+ 
+ 
+0622
+Cupido 79
+W / KWPN / B / 2007
+V:Unaniem / MV:Zuidhorn
+ 
+ 
+0623
+Cupido 89
+W / Westf / B / 2009
+V:Cristallo / MV:Florestan II
+ 
+ 
+0624
+Cura-Maja H
+S / Westf / B / 2010
+V:Comme il faut / MV:Acord II
+ 
+ 
+0626
+Curt Cubalou
+W / Westf / F / 2012
+V:Captain Cooper / MV:Concorde
+ 
+ 
+0627
+Curtis 63
+W / Westf / B / 2008
+V:Chin Quin / MV:Piquet
+ 
+ 
+0628
+Curtis 75
+W / Rhld / F / 2011
+V:Cantoblanco / MV:Cordino
+ 
+ 
+0629
+Curuba 5
+S / Westf / B / 2009
+V:Cornado I / MV:Gracioso
+ 
+ 
+0630
+Cute Summerwine de luxe
+S / DR / B / 2010
+V:FS Champion de Luxe / MV:Jacobspeel's Rocky
+ 
+ 
+0631
+Cwept 4
+H / Hann / Db / 2014
+V:Cascadello I / MV:Giorgio
+ 
+ 
+0632
+Cyrill 29
+W / Holst / Db / 2012
+V:Catoo / MV:Loutano
+ 
+ 
+0633
+Cyrina
+S / Meckl. / B / 2012
+V:Cyrell / MV:Ircolando
+	D - Pferdename / KNR		
+
+ 
+ 
+0634
+Dagoberto di San Patrignano
+W / Ita.W / Schi / 2008
+V:Athletico / MV:Nadir di San Patrignano
+ 
+ 
+0635
+Daily Diamond 3
+H / Westf / 2013
+V:Daley Thompson / MV:Don Davidoff
+ 
+ 
+0636
+Daily Mail 8
+S / Westf / B / 2014
+V:Daily Motion / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0637
+Daily Sunshine 19
+W / Rhld / Db / 2014
+V:Dujardin / MV:Wolkenstein II
+ 
+ 
+0638
+Daiquire de Luxe E
+W / DR / F / 2003
+V:Desperado K / MV:Constantin
+ 
+ 
+0640
+Daiquiri 98
+W / Holst / Schi / 2010
+V:Diarado / MV:Cassini II
+ 
+ 
+1896
+Dakota 383
+S / Rhld / R / 2009
+V:Diarado / MV:Calato
+ 
+ 
+0641
+Dalai rubin S
+S / Old / R / 2006
+V:Rubin-Royal / MV:Sandro Hit
+ 
+ 
+0642
+Dalaris
+W / KWPN / B / 2008
+V:Cantos / MV:Concorde
+ 
+ 
+0643
+Dalegro
+W / Hann / R / 2009
+V:Desperados / MV:Dacaprio
+ 
+ 
+0644
+Daley Thompson
+H / Westf / Db / 2009
+V:Damon Hill / MV:Lauries Crusador xx
+ 
+ 
+1844
+Dalia 46
+S / Hann / B / 2001
+V:Del Piero / MV:Gluecksstern
+ 
+ 
+0645
+Dalinero IB
+W / Old / R / 2011
+V:Damon Hill / MV:Longchamp
+ 
+ 
+0646
+Damon's Dancer
+W / Westf / B / 2010
+V:Damon Hill / MV:Weinberg
+ 
+ 
+0647
+Damon's Dark Rose
+S / Old / Db / 2012
+V:Damon Hill
+ 
+ 
+0649
+Dana del Ray 3
+S / Hann / Db / 2014
+V:Don Index / MV:Contendro I
+ 
+ 
+0650
+Dance and Fly 5
+W / Westf / F / 2001
+V:Di Versace / MV:Pit I
+ 
+ 
+0651
+Dance Magic 3
+S / Hann / R / 2014
+V:Dancier / MV:White Magic
+ 
+ 
+0652
+Dancer 237
+W / Westf / B / 2005
+V:Dancing Dynamite / MV:Faschingsprinz
+ 
+ 
+0654
+Danielle 27
+S / DSP / B / 2014
+V:Cayetano L / MV:Decano
+ 
+ 
+0655
+Dankesehr 2
+W / Westf / Df / 2013
+V:Dankesch÷n / MV:Worldman
+ 
+ 
+1858
+Danny's Boy 4
+W / Hann / F / 2007
+V:Don Kennedy / MV:Weltmeyer
+ 
+ 
+0656
+Danny's Goldstück
+W / DR / FFalb / 2014
+V:Danny Gold / MV:Costolany
+ 
+ 
+0657
+Dante Belstaff
+W / Old / Db / 2015
+V:Dante Weltino / MV:Belstaff
+ 
+ 
+0659
+Daphne A
+S / DR / Df / 2009
+V:Danny Gold / MV:Halenkino
+ 
+ 
+0660
+Daquiina
+S / Old / F / 2004
+V:Damen Hit / MV:Silvio I
+ 
+ 
+0661
+Darcy Grey
+S / OS / R / 2013
+V:Dallas VDL (ex Indouglas van h / MV:Quality
+ 
+ 
+0663
+Dario 159
+W / Westf / Df / 2010
+V:Don Diamond / MV:Hochadel
+ 
+ 
+1818
+Dark Fellow WAF
+W / Hann / 2009
+V:Desperados / MV:Lancier
+ 
+ 
+0665
+Dark Henry 2
+W / Rhld / R / 2010
+V:Don Jovi / MV:Lord Loxley I
+ 
+ 
+0666
+Dark Moon 14
+W / DR / B / 2012
+V:FS Don't Worry / MV:Henry
+ 
+ 
+0667
+Dark Paradise
+S / Westf / B / 2009
+V:Diamond Hit / MV:Rotspon
+ 
+ 
+0668
+Dark Rubin 6
+W / Old / Df / 2008
+V:Duino / MV:Rubinstein I
+ 
+ 
+0669
+Dashings Dandy
+W / Westf / B / 2014
+V:Daudet xx xx / MV:Lissabonder
+ 
+ 
+0671
+Daudi 2
+W / Westf / B / 2014
+V:Dibadu L / MV:Argentinus
+ 
+ 
+0672
+Dauphine Noir
+S / Westf / Schwb / 2014
+V:Diar Noir / MV:Cheenook
+ 
+ 
+0673
+Dave Brubeck 2
+W / Westf / Schwb / 2014
+V:Desiderio / MV:Sandro Hit
+ 
+ 
+0674
+Davy Jones 4
+W / Westf / F / 2006
+V:Don Laurie I / MV:Contender
+ 
+ 
+0675
+Dax 64
+W / OS / Db / 2010
+V:Diarado / MV:Candillo
+ 
+ 
+0676
+Daylight 255
+S / DR / F / 2002
+V:Dornik B / MV:Dressman I
+ 
+ 
+0677
+Daytona 69
+S / Hann / R / 2013
+V:Dante Weltino / MV:Samarant
+ 
+ 
+0678
+De la Fleur 2
+S / Rhld / Df / 2004
+V:De La Vega / MV:Prinz Miro
+ 
+ 
+0679
+De Quidam
+H / Old / B / 2011
+V:Diarado / MV:Quidam's Rubin
+ 
+ 
+0680
+De Royal
+H / Hann / R / 2014
+V:De Niro / MV:Royal Dance
+ 
+ 
+0681
+De Sjiem 3
+W / DR / Schi / 2012
+V:Dornik B / MV:Volltreffer
+ 
+ 
+0682
+Dear best Friend
+W / Hann / R / 2011
+V:Destano / MV:Harvard
+ 
+ 
+0683
+Debby 160
+S / Westf / B / 2014
+V:Danciano / MV:Alabaster
+ 
+ 
+0685
+Deichkind 14
+S / Hann / Schi / 2014
+V:Diacontinus / MV:Acorado I
+ 
+ 
+0687
+Dein kleiner Freund H
+W / Hann / B / 2014
+V:De Niro / MV:Worldly I
+ 
+ 
+0688
+Dein Victor
+W / DR / F / 2011
+V:Dein Freund / MV:Volltreffer
+ 
+ 
+0689
+Deja Vu 64
+S / DR / B / 2004
+V:Der feine Lord AT / MV:FS Pour l'Amour
+ 
+ 
+0690
+Dejavue 58
+S / DR / Db / 2006
+V:D'Artagnon / MV:Marsvogel xx
+ 
+ 
+0692
+Delantero W
+W / Hann / R / 2014
+V:Destano / MV:Sandro Hit
+ 
+ 
+0693
+Delavega
+S / Old / B / 2005
+V:Donnerball / MV:Rubinstein I
+ 
+ 
+0695
+Deliah 14
+S / Old / B / 2013
+V:Dressage Royal / MV:Ritual
+ 
+ 
+0696
+DembÚlÚ
+W / Westf / B / 2014
+V:Don Frederico / MV:Florenciano
+ 
+ 
+0697
+Demi Dame
+S / Westf / Db / 1991
+V:Don Diego / MV:Frühlingsstern
+ 
+ 
+0698
+Demiroxx
+W / Rhld / Db / 2012
+V:Demirel / MV:Second Set xx
+ 
+ 
+0699
+Dendera 4
+S / Westf / B / 2015
+V:Depeche Mode / MV:Rolls Royce
+ 
+ 
+0700
+Deniero F.M.
+W / Westf / B / 1998
+V:Jungh.n.gek. / MV:Ehrentanz I
+ 
+ 
+0701
+Deniz 3
+S / OS / B / 2011
+V:Con Capilot / MV:Acord II
+ 
+ 
+0702
+Denver 254
+W / DR / B / 2010
+V:Der feine Lord AT / MV:Principal Boy
+ 
+ 
+0703
+Depeche Star
+W / Westf / Schwb / 2013
+V:Depeche Mode / MV:Ehrenpreis
+ 
+ 
+0705
+Der kleine Dablino
+W / DR / F / 2008
+V:FS Don't Worry / MV:FS Champion de Luxe
+ 
+ 
+0706
+Der kleine Prinz 27
+W / Wel.A / FSti / 2011
+V:Foxhunter Pantheon / MV:Boreas Ubbo
+ 
+ 
+0707
+Der Max
+W / Westf / Db / 2007
+V:Don Kennedy / MV:Fleurop
+ 
+ 
+0708
+Der Tanzprofi
+W / Westf / F / 2008
+V:Dancing Dynamite / MV:Profi
+ 
+ 
+0709
+Der wei¯e Riese F
+W / Westf / Schi / 2014
+V:Don Juan de Hus / MV:Cassini II
+ 
+ 
+0710
+Descarado HSM
+W / Westf / Df / 2015
+V:De Niro / MV:Rock Forever I
+ 
+ 
+0711
+Descaro
+H / Westf / FkaSc / 2016
+V:Diamant de Semilly / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+0713
+Desiderio Mio GG
+H / Trak. / B / 2015
+V:Rheinklang / MV:Cadeau
+ 
+ 
+1837
+Despacito 13
+H / DR / B / 2015
+V:Dance Star AT / MV:Notre Beau
+ 
+ 
+0714
+Destano's Big Bang
+W / Hann / F / 2011
+V:Destano / MV:Weltmeyer
+ 
+ 
+0715
+Desteny O
+S / Hann / F / 2008
+V:Dancing Dynamite / MV:Belissimo M
+ 
+ 
+0716
+Desteny's Number One
+S / Hann / Df / 2014
+V:Destano / MV:Rosentau
+ 
+ 
+0717
+Destino 79
+W / Westf / B / 2008
+V:Diamond Hit / MV:Eldorado
+ 
+ 
+0718
+Destiny 246
+S / Westf / B / 2010
+V:Diamond Hit / MV:Fidermark
+ 
+ 
+0719
+Deva 2
+S / Holst / Db / 2011
+V:Singulord Joter / MV:Contender
+ 
+ 
+0720
+Devalero
+W / Hann / Db / 2010
+V:Diamond Hit / MV:Chico's Boy
+ 
+ 
+0721
+Devina 46
+S / Westf / F / 2004
+V:De Kooning / MV:Ehrentusch
+ 
+ 
+0722
+Devito S
+W / Westf / Schwb / 2012
+V:Desiderius L / MV:Donnerhall
+ 
+ 
+0723
+Dia Colada
+S / OS / Db / 2014
+V:Diarado's Boy / MV:Corlensky G I
+ 
+ 
+1833
+Diabolo Nymphenburg
+W / Hann / R / 2008
+V:Don Crusador / MV:Weltmeyer
+ 
+ 
+0724
+Diabolus 4
+W / OS / R / 2009
+V:Diarado / MV:Grannus
+ 
+ 
+0725
+Diaco
+W / Hann / Schi / 2014
+V:Diacontinus / MV:Colway Bold xx
+ 
+ 
+0727
+Diamond Dream 21
+W / Westf / B / 2011
+V:Dagostini / MV:Rousseau (ex Rambo)
+ 
+ 
+0728
+Diamond Fever
+W / Westf / Schwb / 2008
+V:Diamond Hit / MV:Rubin-Royal
+ 
+ 
+0729
+Diamond Maker
+H / Hann / Df / 2015
+V:Diamond Hit / MV:Fürst Heinrich
+ 
+ 
+0731
+Die die immer Lacht
+S / Westf / Db / 2013
+V:Daley Thompson / MV:Dinard L
+ 
+ 
+0732
+Die D÷rthe
+S / Hann / F / 2011
+V:Don Henrico / MV:Worldly I
+ 
+ 
+0733
+Die oder Keine F
+S / Westf / Schi / 2013
+V:Don Juan de Hus / MV:Cassini II
+ 
+ 
+0734
+Die Põbstin
+S / Hann / R / 2007
+V:Don Frederico / MV:Grand Cru
+ 
+ 
+0735
+Diego 561
+W / Westf / B / 2015
+V:Diamant de Semilly / MV:Landor S
+ 
+ 
+0736
+Diego de la Vega 3
+W / Old / Db / 2004
+V:Donnerschwee / MV:Sir Felix xx
+ 
+ 
+0737
+Diemersdal
+H / Westf / Df / 2008
+V:Diamond Hit / MV:Weinzauber
+ 
+ 
+0738
+Dieu du ciel
+W / OS / B / 2014
+V:Dieu-Merci van T&L / MV:Lifestyle
+ 
+ 
+0739
+Dijmoo
+W / Westf / B / 2010
+V:Detroit / MV:Weinberg
+ 
+ 
+0740
+Dijon 36
+W / Hann / Df / 2007
+V:Don Frederico / MV:Walt Disney II
+ 
+ 
+0741
+Dimondo 2
+W / Old / F / 2015
+V:Damon Hill / MV:Laudabilis
+ 
+ 
+0742
+Dinkel 3
+W / Hann / F / 2009
+V:Don Frederico / MV:Wolkentanz I
+ 
+ 
+0743
+Dinnarah
+S / Westf / F / 2010
+V:Damon Hill / MV:Airport
+ 
+ 
+0744
+Dirty Diana FS
+S / Westf / B / 2014
+V:Diarado / MV:Balou du Rouet
+ 
+ 
+0745
+Discover your Life SB
+H / Westf / B / 2015
+V:De Quidam / MV:Christiano
+ 
+ 
+0746
+Discovery 42
+W / Old / Schwb / 2002
+V:Defacto / MV:Wendulan
+ 
+ 
+0747
+Disney's Dory
+S / Hann / B / 2013
+V:Desperando / MV:Londonderry
+ 
+ 
+0748
+Distonik
+W / Old / B / 2012
+V:Destano / MV:Inselfuerst
+ 
+ 
+0749
+Diva Dior
+S / Westf / B / 2014
+V:Dimaggio / MV:Ampere (NLD)
+ 
+ 
+0750
+Diva P 3
+S / Westf / B / 2015
+V:Diacasall / MV:Prominenz
+ 
+ 
+0751
+Divario
+W / Westf / B / 2005
+V:Dancing Dynamite / MV:Rolls Royce
+ 
+ 
+0752
+DJ 37
+H / Hann / Schwb / 2014
+V:Diarado's Boy / MV:Korsar I
+ 
+ 
+0754
+Django Unchained K
+H / Westf / B / 2013
+V:Diarado / MV:Ribot
+ 
+ 
+0755
+Djolly Djumper
+W / Westf / B / 2013
+V:Dibadu L / MV:Arpeggio
+ 
+ 
+0756
+Do it 30
+W / Westf / Schwb / 2008
+V:Dream On / MV:Florestan I
+ 
+ 
+0757
+Do it 38
+W / Westf / B / 2014
+V:Dibadu L / MV:Sibirian Express
+ 
+ 
+0759
+Dodi Al Fayed
+W / Old / Db / 2006
+V:Daddy Cool / MV:Sandro Hit
+ 
+ 
+1899
+Domino 957
+S / Westf / B / 2012
+V:Den Haag / MV:Weltmeyer
+ 
+ 
+0760
+Don Angelo 4
+H / Old / Schwb / 2000
+V:Don Larino / MV:Rubinstein I
+ 
+ 
+0762
+Don Benito 38
+W / Hann / Db / 2001
+V:Donnerprinz / MV:Consul
+ 
+ 
+0763
+Don Camillo 245
+W / DSP / B / 2009
+V:Dream Rubin / MV:Rutowski
+ 
+ 
+0765
+Don Damon
+W / Westf / R / 2009
+V:Damon Hill / MV:Abanos
+ 
+ 
+0767
+Don Diggory
+W / Old / Schwb / 2006
+V:Don Schufro / MV:Rouletto
+ 
+ 
+0769
+Don Henry 10
+W / Hann / F / 2008
+V:Don Henrico / MV:Fishermans Friend
+ 
+ 
+1873
+Don Lanero
+H / Hann / B / 2007
+V:Don Crusador / MV:Landadel
+ 
+ 
+0770
+Don Nymphenburg
+W / Hann / R / 2011
+V:Don Frederico / MV:Rohdiamant
+ 
+ 
+0771
+Don Quijote 12
+W / Westf / B / 2006
+V:Don Schufro / MV:Painter's Row xx
+ 
+ 
+1860
+Don Sinclair ST
+W / Old / B / 2013
+V:Don Gigolo / MV:Lord Sinclair I
+ 
+ 
+0773
+Don Windsor OLD
+W / Old / R / 2002
+V:Don Cardinale / MV:Waldstar xx
+ 
+ 
+0775
+Dona Carita
+S / Holst / Schi / 2011
+V:Cancara / MV:Canto
+ 
+ 
+0776
+Donatella 94
+S / Hann / Df / 2014
+V:Diamond Hit / MV:Fürst Heinrich
+ 
+ 
+0777
+Donna Alegra 2
+S / Westf / F / 2012
+V:Dankesch÷n / MV:Arpeggio
+ 
+ 
+0778
+Donna Bella 43
+S / Hann / Schwb / 2012
+V:Don Index / MV:Dressage Royal
+ 
+ 
+0779
+Donna Detta ASS
+S / Hann / Df / 2010
+V:Don Schufro / MV:Hochadel
+ 
+ 
+0780
+Donna Diara S
+S / DR / B / 2009
+V:FS Dr. Watson / MV:Don William
+ 
+ 
+0781
+Donna Leona 4
+S / DR / Falbe / 2009
+V:Donnerwetter / MV:Sunrise Moonlight
+ 
+ 
+0782
+Donna Lisa 4
+S / Hann / Db / 2009
+V:Dancier / MV:Amerigo Vespucci xx
+ 
+ 
+1822
+Donna Marcella T.
+S / Westf / B / 2013
+V:Don Marco / MV:Windspiel As
+ 
+ 
+0783
+Donnerblitz 20
+W / DR / B / 2006
+V:Diamond Boy / MV:Nalet ox
+ 
+ 
+0784
+Donnerknispel MLP
+W / Rhld / Db / 2014
+V:Daley Thompson / MV:Donnerhall
+ 
+ 
+0785
+Donnerlüttchen 9
+S / Westf / F / 2006
+V:Dardanos N / MV:Carte d'Or
+ 
+ 
+1832
+Donovan 136
+W / KWPN / B / 2008
+V:No Limit / MV:Amethist
+ 
+ 
+0786
+Dorette 178
+S / Westf / F / 2001
+V:Democraat / MV:Rotarier
+ 
+ 
+0787
+Dorie 10
+S / Westf / F / 2012
+V:Danone I / MV:Friedensritter
+ 
+ 
+0788
+Dorie 12
+S / Westf / R / 2014
+V:De Niro / MV:Sandro Bedo
+ 
+ 
+0789
+Doris Day 41
+S / DR / FFalb / 2008
+V:FS Don't Worry / MV:Constantin
+ 
+ 
+0790
+Dortmund City Girl
+S / Westf / Db / 2013
+V:Desperado (ex: Darkboy) / MV:Flovino
+ 
+ 
+0791
+Doubledam 3
+S / SF / B / 2013
+V:Canturo / MV:Quidam de Revel
+ 
+ 
+0792
+Douglas 234
+W / Hann / B / 2007
+V:Desperados / MV:Lauries Crusador xx
+ 
+ 
+0793
+Downey 3
+S / Westf / B / 2013
+V:Dibadu L / MV:Con Air
+ 
+ 
+0794
+Drama Queen
+S / Westf / F / 2013
+V:Deveraux / MV:Louis le Bon
+ 
+ 
+0795
+Dream 40
+S / Meckl. / Df / 2006
+V:Dream of Heidelberg II / MV:Mondras
+ 
+ 
+1838
+Dream Dancer 86
+W / DR / B / 2012
+V:Dax / MV:Downl.Chorister
+ 
+ 
+0796
+Dream-of-Chocolate
+S / Rhld / B / 2008
+V:Dream On / MV:Frühlingstraum II
+ 
+ 
+1866
+Dreamland 4
+W / SF / F / 2011
+V:Sunday De Riverland / MV:For Pleasure
+ 
+ 
+0797
+Dresscode 10
+W / Westf / B / 2013
+V:Dalliano / MV:Florestan I
+ 
+ 
+0798
+Dubios
+W / Westf / Db / 2014
+V:Diamond Magic / MV:Ferragamo
+ 
+ 
+0800
+Ducini Who
+W / Old / Db / 2007
+V:Daddy Cool / MV:Diamond Hit
+ 
+ 
+0802
+Duke 236
+W / R / 2006
+ 
+ 
+0803
+Duke J
+W / Old / Db / 2002
+V:De Niro / MV:Dutchboy
+ 
+ 
+0804
+Duke T
+W / Old / B / 2005
+V:Don Primero / MV:Lord Sinclair I
+ 
+ 
+0694
+DÚlceg 3
+W / Ung. / B / 2011
+V:Ozora II Aramisz / MV:Laurenz
+ 
+ 
+0805
+Dumbolinchen
+S / Hann / Df / 2013
+V:Cador / MV:Landrebell
+ 
+ 
+1814
+Dundee 115
+W / Hann / Df / 2006
+V:Don Frederico / MV:Londonderry
+ 
+ 
+0806
+Dunja B
+S / DR / B / 2002
+V:Dornik B / MV:Flying Dream
+ 
+ 
+0807
+Dunkel Gold
+W / Old / F / 2014
+V:Diamo Gold / MV:Sunny-Boy
+ 
+ 
+0808
+Durricane
+H / Westf / Db / 2013
+V:Dibadu L / MV:Roncalli xx
+ 
+ 
+0809
+Dustyman
+W / DR / B / 1999
+V:Durello / MV:Nansen
+ 
+ 
+1855
+Dutch Bob
+W / Welsh / B / 2011
+V:De Goede Ree's Metall / MV:Hagelkruis Valentijn
+ 
+ 
+0810
+Dynamite 18
+W / KWPN / Schi / 2008
+V:Lucky Boy / MV:Quick Star
+ 
+ 
+0811
+Dynasty 24
+S / Hann / B / 2015
+V:Diacontinus / MV:Uccello
+	E - Pferdename / KNR		
+
+ 
+ 
+0812
+E'Clair J
+S / Westf / B / 2007
+V:Ehrendorf / MV:Luigi xx
+ 
+ 
+0813
+E'Darling B
+S / Westf / F / 2012
+V:Ehrenstolz / MV:Belissimo M
+ 
+ 
+0814
+Earl in Black
+W / Westf / R / 2008
+V:Ehrenpreis / MV:Upan la Jarthe AA
+ 
+ 
+1835
+Easy like Sunday Morning 2
+W / Rhld / R / 2008
+V:Erasmus / MV:Waldstar xx
+ 
+ 
+0815
+Eclipse 28
+H / Meckl. / B / 2015
+V:Equitaris / MV:Florestan I
+ 
+ 
+0816
+Ecuador 28
+H / Westf / Db / 2015
+V:Equitaris / MV:Insterburg
+ 
+ 
+0817
+Eddi 104
+W / Westf / B / 2008
+V:Estobar NRW / MV:Weinberg
+ 
+ 
+0818
+Edumon
+W / KWPN / B / 2009
+V:Zelote VDL / MV:C-Indoctro
+ 
+ 
+0819
+Edward 45
+W / Rhld / B / 2013
+V:Enzo Ferrari / MV:Caribo GL
+ 
+ 
+1854
+Ehrenwort 5
+W / Hann / Db / 2011
+V:Estobar NRW / MV:Donnerhall
+ 
+ 
+0820
+Ein Glück
+H / Westf / B / 2015
+V:Equitaris / MV:Florestan I
+ 
+ 
+0821
+Eine Wie Keine 15
+S / Westf / F / 2014
+V:Escolar / MV:Belissimo M
+ 
+ 
+0822
+El Dorado 85
+W / KWPN / R / 2009
+V:Lexicon / MV:Damiro
+ 
+ 
+0823
+Electra SZ
+S / Westf / B / 2009
+V:Ehrenstolz / MV:Dinard L
+ 
+ 
+0826
+Elisee 3
+S / Westf / B / 2016
+V:Equitaris / MV:Florestan I
+ 
+ 
+0828
+Elly 70
+S / Westf / B / 2014
+V:Estobar NRW / MV:Collin L
+ 
+ 
+0829
+Elpaso 22
+W / Westf / B / 2009
+V:Erdball xx / MV:Goldrausch II
+ 
+ 
+0830
+Elton 63
+H / OS / B / 2010
+V:Eldorado van de Zeshoek / MV:Landcapitol
+ 
+ 
+0831
+Emilie Orange V
+S / Westf / F / 2014
+V:Emerald van het Ruytershof / MV:Dollar Dela Pierre (Tlaloc la
+ 
+ 
+0832
+Emilio 147
+H / Westf / Schwb / 2015
+V:Escolar / MV:Flanagan
+ 
+ 
+0833
+Emina
+S / Holst / Schi / 2012
+V:Cassaro / MV:Clarimo
+ 
+ 
+0834
+Encanta 3
+S / Holst / B / 2012
+V:Catoki / MV:Caretino
+ 
+ 
+0835
+Engelchen 15
+S / Westf / B / 2015
+V:Equitaris / MV:Florestan I
+ 
+ 
+0837
+Enno D
+W / Westf / R / 2005
+V:Ehrentusch / MV:Fidelio
+ 
+ 
+0838
+Enterprice 4
+S / Hann / B / 2007
+V:Escudo I / MV:Quick Star
+ 
+ 
+0839
+Envogue
+S / Dt.Pf / F / 2016
+V:Equitaris II / MV:Estobar NRW
+ 
+ 
+0840
+Enya 62
+S / Westf / F / 2013
+V:Epris d'Azur / MV:Darco
+ 
+ 
+0841
+Ercolano
+H / Dt.Pf / F / 2016
+V:Equitaris II / MV:Florestan I
+ 
+ 
+0842
+Erna 57
+S / Holst / F / 2012
+V:Casall / MV:Quidam de Revel
+ 
+ 
+0843
+Escada 253
+S / Westf / B / 2008
+V:Ehrenstolz / MV:Medici
+ 
+ 
+0844
+Escada 303
+S / Westf / B / 2014
+V:Escolar / MV:Florenciano
+ 
+ 
+0845
+Escada 311
+S / Westf / F / 2015
+V:Escolar / MV:Donnerball
+ 
+ 
+0846
+Escapade StG
+W / Old / Db / 2015
+V:Escolar / MV:Fürst Romancier
+ 
+ 
+0847
+Escurio 3
+H / Old / B / 2014
+V:Escolar / MV:De Kooning
+ 
+ 
+1847
+Espe 45
+S / Westf / B / 2014
+V:Escolar / MV:Dimaggio
+ 
+ 
+0848
+Especially
+S / Westf / B / 2010
+V:Estobar NRW / MV:Florencio I
+ 
+ 
+0849
+Esperanza 92
+S / Westf / B / 2012
+V:Diarado / MV:Landgraf I
+ 
+ 
+0850
+Essini 3
+W / Westf / Schi / 2009
+V:Cassini II / MV:Calato
+ 
+ 
+0851
+Este Fania
+S / Hann / Schwb / 2009
+V:Embassy III / MV:Don Frederico
+ 
+ 
+0852
+Eurodressage
+W / Hann / B / 2010
+V:Estobar NRW / MV:Insterburg
+ 
+ 
+0853
+Evita F 2
+S / Westf / B / 2012
+V:Eminem J / MV:Labrador
+ 
+ 
+0854
+Exactly 3
+S / Westf / Db / 2015
+V:Equitaris / MV:Dankesch÷n
+ 
+ 
+0855
+Executive
+H / Hann / Db / 2007
+V:Contendro I / MV:Gullit
+ 
+ 
+0856
+Exorbitano
+W / Westf / B / 2013
+V:Eldino / MV:Lissabonder
+ 
+ 
+0857
+Eyecatcher 8
+W / Westf / F / 2011
+V:Estobar NRW / MV:Fürst Piccolo
+	F - Pferdename / KNR		
+
+ 
+ 
+0858
+Fabalou LB
+W / Trak. / Db / 2014
+V:Dürrenmatt / MV:Kapriolan F
+ 
+ 
+0859
+Fabiano S
+W / Westf / B / 2014
+V:For Contest / MV:Caretino
+ 
+ 
+0860
+Fabregas 5
+W / Old / B / 2008
+V:Florencio I / MV:Rubin-Royal
+ 
+ 
+0862
+Fairbanks 40
+W / Old / Df / 2012
+V:Floriscount / MV:Dormello
+ 
+ 
+0863
+Fairway 20
+W / Westf / B / 2011
+V:Fürst Fugger / MV:Fidermark
+ 
+ 
+0864
+Fairy Dance 3
+S / Westf / Schwb / 2005
+V:Fürst Heinrich / MV:Lehndorff
+ 
+ 
+1890
+Fairytale Z
+S / Westf / R / 2004
+V:Florestan I / MV:Salinator
+ 
+ 
+0865
+Faliano
+W / Rhld / B / 2007
+V:Fidertanz / MV:Faschingsprinz
+ 
+ 
+0866
+Falou 3
+W / Pol. / Schi / 2014
+V:Germanio x / MV:Alabaster
+ 
+ 
+0867
+Fantastic V
+W / Westf / B / 2009
+V:Fineliner / MV:Mon Cheri
+ 
+ 
+0868
+Fantini 4
+H / DWB / Schwb / 2015
+V:First Choice / MV:Fürst Heinrich
+ 
+ 
+0869
+Fantomass
+W / BWP / B / 2014
+V:Fantomas de Muze / MV:Enrico v.d. Withoeve
+ 
+ 
+0870
+Fascara Sonique
+S / Hafl. / F / 2007
+V:Anthony / MV:Winterstein
+ 
+ 
+0871
+Fashion Diva
+S / Rhld / Db / 2012
+V:First Selection / MV:Fleurop
+ 
+ 
+0872
+Fashion Week 7
+S / Westf / F / 2012
+V:First Selection / MV:Sunny-Boy
+ 
+ 
+0873
+Fasten your Seatbelt
+W / Hann / F / 2004
+V:For Keeps / MV:Rakett
+ 
+ 
+0874
+Faun 45
+H / Hann / Df / 2014
+V:For Keeps / MV:Landkaiser
+ 
+ 
+0875
+Fauntleroy'S
+W / Westf / F / 2007
+V:Fürst Grandios / MV:Spaceman
+ 
+ 
+0876
+Fee Kummerwie
+S / Westf / Df / 2004
+V:Fürst Piccolo / MV:Akzent II
+ 
+ 
+0877
+Feentanz 2
+S / Old / B / 2009
+V:Fontane / MV:Royal Angelo I
+ 
+ 
+0879
+Feine Piccolina
+S / Westf / B / 2010
+V:Fürst Piccolo / MV:Wellcome
+ 
+ 
+0880
+Feiner Flori
+W / Old / Df / 2015
+V:Floriscount / MV:Mariso
+ 
+ 
+0881
+Feiner Fritz 16
+W / Westf / Db / 2005
+V:Festival Westfalia / MV:A Jungle Prince
+ 
+ 
+0882
+Feiner Fritz T
+H / Westf / Df / 2004
+V:Fürst Piccolo / MV:Royal Angelo I
+ 
+ 
+0883
+Feiner Frosch L
+W / Westf / Db / 2012
+V:Fürst Donnerbube / MV:Dramaturg
+ 
+ 
+0884
+Feiner Prinz 8
+W / Rhld / B / 2013
+V:Fürstenball / MV:Lord Loxley I
+ 
+ 
+0885
+Feivel K
+W / DR / Db / 2010
+V:Folklore / MV:Nicolo
+ 
+ 
+0886
+Felicitas 247
+S / Rhld / Schwb / 2013
+V:Franziskus / MV:Münchhausen
+ 
+ 
+0887
+Felina 183
+S / Westf / F / 2011
+V:Fürst Grandios / MV:Grosso Z
+ 
+ 
+0888
+Feline 123
+S / Westf / F / 2012
+V:First Selection / MV:Brentano II
+ 
+ 
+0889
+Fellini 145
+H / Trak. / Db / 2013
+V:Berlusconi / MV:Grafenstolz
+ 
+ 
+0891
+Fenena 7
+S / Westf / B / 2007
+V:Fürst Piccolo / MV:Freudenprinz
+ 
+ 
+0892
+Fennek 15
+W / Rhld / F / 2009
+V:Fleury / MV:Donnerschlag
+ 
+ 
+0893
+Ferentio
+W / Hann / Db / 2014
+V:Fürstenball / MV:Laurentio
+ 
+ 
+0894
+Fero L
+W / Westf / R / 2015
+V:Fürstenball / MV:Don Lauredo
+ 
+ 
+0895
+Ferrero Gold
+W / Hann / Df / 2015
+V:Floriscount / MV:Hochadel
+ 
+ 
+0896
+Ferries
+W / Westf / B / 2007
+V:Fürst Grandios / MV:Ritual
+ 
+ 
+0898
+Fiano Fox
+W / Westf / F / 2009
+V:Fiano / MV:Diamo
+ 
+ 
+0899
+Fiby Classic
+S / Westf / Db / 2010
+V:Flanagan / MV:Freudentõnzer
+ 
+ 
+0900
+Fidele B
+S / Westf / B / 2015
+V:Franziskus / MV:Collin L
+ 
+ 
+0901
+Fidelia M
+S / Hann / Df / 2014
+V:Floriscount / MV:Rubin-Royal
+ 
+ 
+0902
+Fideralala 5
+S / Old / B / 2015
+V:Follow Me / MV:San Amour
+ 
+ 
+0903
+Fidermann OLD
+W / Old / B / 2014
+V:Fidertanz / MV:Baroncelli
+ 
+ 
+0904
+Fidonero
+W / Old / Db / 2011
+V:Fidertanz / MV:Sir Donnerhall I
+ 
+ 
+0906
+Figo 17
+H / Westf / Df / 2002
+V:Fürst Piccolo / MV:Fortissimo
+ 
+ 
+0908
+Filia Franziska
+S / Westf / B / 2014
+V:Franziskus / MV:Argentinus
+ 
+ 
+0909
+Filis 5
+S / Westf / B / 2007
+V:Fidertanz / MV:Florestan I
+ 
+ 
+0910
+Filliz
+S / B / 2000
+ 
+ 
+0911
+Filou 2016
+W / Old / F / 2013
+V:Fürst Wilhelm / MV:Sirlano
+ 
+ 
+0912
+Filou K 2
+W / Westf / B / 2013
+V:Florenciano / MV:Limbus
+ 
+ 
+0913
+Final Selection
+W / Westf / F / 2012
+V:First Selection / MV:Weltmeyer
+ 
+ 
+0914
+Findus 83
+W / Westf / Db / 2005
+V:Fiano / MV:Acapulco
+ 
+ 
+0915
+Fine Art ST
+H / Westf / B / 2009
+V:Fürst Piccolo / MV:Regardez
+ 
+ 
+0916
+Fine Time 33
+S / Westf / B / 2014
+V:Fürst Nymphenburg II / MV:Collin L
+ 
+ 
+0917
+Finessa 33
+S / Westf / B / 2008
+V:Fidertanz / MV:Biotop
+ 
+ 
+0918
+Finest Fantasy
+S / Old / B / 2015
+V:Feedback / MV:De Niro
+ 
+ 
+0919
+Fini W
+S / Rhld / B / 2011
+V:Feedback / MV:Drosselklang II
+ 
+ 
+0920
+Finja 176
+S / Westf / B / 2014
+V:Firth of Lorne / MV:Argentinus
+ 
+ 
+0921
+Finley 87
+W / Westf / B / 2011
+V:Fidertanz / MV:Di Versace
+ 
+ 
+0922
+Finley 97
+W / Westf / F / 2013
+V:First Selection / MV:Ehrentusch
+ 
+ 
+0923
+Finley 99
+W / KWPN / F / 2010
+V:Darco / MV:Carnaval Drum
+ 
+ 
+0925
+Fiona Flow
+S / Westf / B / 2013
+V:Firth of Lorne / MV:Coronas
+ 
+ 
+0927
+Fiore di Maggio
+S / Westf / Db / 2014
+V:Franziskus / MV:Sandro Hit
+ 
+ 
+0928
+Fire and Icee
+H / KWPN / Schi / 2005
+V:Larino / MV:Heartbreaker
+ 
+ 
+0929
+Fire Moon P
+S / Westf / Schi / 2007
+V:First Final / MV:Weinberg
+ 
+ 
+0930
+Firefly 16
+S / Westf / F / 2008
+V:Fürst Piccolo / MV:Dottore
+ 
+ 
+0931
+Firework F
+W / Westf / B / 2016
+V:Fire and Ice J / MV:Eminem J
+ 
+ 
+0932
+First Class 88
+W / DSP / R / 2011
+V:Fürst Romancier / MV:Wind Dancer
+ 
+ 
+0933
+First Final
+H / Old / B / 2003
+V:Fürst Heinrich / MV:Argentinus
+ 
+ 
+0934
+First Fiola
+S / Westf / F / 2011
+V:First Selection / MV:D'accord
+ 
+ 
+0935
+First Love 35
+S / Hann / B / 2013
+V:Foundation / MV:Florestan I
+ 
+ 
+0936
+First of April 2
+H / Westf / Db / 2005
+V:Foster / MV:Rockwell
+ 
+ 
+0937
+Flambeaux 7
+W / Rhld / B / 2013
+V:Feedback / MV:Conteur
+ 
+ 
+0939
+Fleur des Printemps
+S / Westf / B / 2005
+V:Farewell III / MV:De Niro
+ 
+ 
+0940
+Fleur du Soleil 3
+S / Westf / B / 2007
+V:Florestan I / MV:Surumu xx
+ 
+ 
+0941
+Flipper 144
+W / Westf / F / 2006
+V:Forsyth / MV:Pablo
+ 
+ 
+0942
+Flips 17
+W / Westf / F / 2001
+V:Florestan I / MV:Milan
+ 
+ 
+0943
+Flirt with me S
+S / Old / Schwb / 2011
+V:Fürst Fugger / MV:Weltmeyer
+ 
+ 
+0944
+Flirtfaktor
+W / Hann / Db / 2009
+V:Fürst Romancier / MV:Prestige Pilot
+ 
+ 
+0945
+Floreal 7
+W / Hann / B / 2011
+V:Fürst Nymphenburg I / MV:Wolkenstein II
+ 
+ 
+0947
+Florentine 84
+S / Trak. / Db / 2005
+V:Solero / MV:Giorgio Armani
+ 
+ 
+0948
+Florentino 86
+W / Hann / B / 2014
+V:Fürst Romancier / MV:Londonderry
+ 
+ 
+0949
+Florestina 19
+S / Westf / B / 2007
+V:Florestan I / MV:Pik Labionics
+ 
+ 
+0950
+Florida E
+S / Rhld / Db / 2010
+V:Flanagan / MV:Laterano
+ 
+ 
+0951
+Floridee
+W / Westf / Db / 2007
+V:Floresco / MV:Lauries Crusador xx
+ 
+ 
+1881
+Florin 39
+W / Hann / F / 2011
+V:Forsyth / MV:Gimpel
+ 
+ 
+0952
+Flovinio
+W / Westf / B / 2007
+V:Florencio I / MV:Rubinstein I
+ 
+ 
+0953
+Flucato F
+W / Westf / F / 2010
+V:Fürst Grandios / MV:Wanderer
+ 
+ 
+0954
+Fly 140
+S / Hann / Schwb / 2013
+V:Favorit Ask (BEL ex: Favortit / MV:Giorgio
+ 
+ 
+0955
+Fly me to the moon 4
+H / Hann / R / 2015
+V:Fürstenball / MV:Wolkentanz II
+ 
+ 
+0956
+Flying Thunder 2
+W / Westf / Db / 2009
+V:Florencio I / MV:Collin L
+ 
+ 
+0958
+Flyvel
+W / Hann / B / 2010
+V:Fidertanz / MV:Charon
+ 
+ 
+1808
+For Cicca
+S / Westf / B / 2012
+V:For Contest / MV:Cassini II
+ 
+ 
+0961
+For Deluxe
+W / Westf / Db / 2013
+V:Franziskus / MV:Show Star
+ 
+ 
+0962
+For Friendship N
+W / Hann / F / 2013
+V:Foundation / MV:Sir Donnerhall I
+ 
+ 
+0963
+For Life 7
+S / Westf / B / 2015
+V:Fashion Maker / MV:Estobar NRW
+ 
+ 
+0964
+For Me 23
+W / Rhld / Db / 2006
+V:Fidertanz / MV:Rubinstein I
+ 
+ 
+0965
+For More
+W / Hann / B / 2014
+V:Fürst Romancier / MV:Real Diamond
+ 
+ 
+0966
+Forever Dancing GA
+W / Old / B / 2013
+V:Foundation / MV:Sir Donnerhall I
+ 
+ 
+0967
+Forever Smiling
+W / Hann / B / 2015
+V:Fürst Belissaro / MV:Rotspon
+ 
+ 
+0968
+Forleste T.S.
+S / KWPN / B / 2010
+V:Casinos / MV:Lux
+ 
+ 
+0971
+Forrest Jump 6
+W / Westf / Db / 2010
+V:For Contest / MV:Fortissimo
+ 
+ 
+0972
+Fortuna 433
+S / Trak. / B / 2007
+V:Patmos / MV:Santiago
+ 
+ 
+0973
+Fortunat 20
+W / Westf / F / 2007
+V:Ferragamo / MV:Dottore
+ 
+ 
+0974
+Fortune Cookie HB
+W / Westf / B / 2009
+V:Fanconi / MV:Santa Cruz
+ 
+ 
+0975
+Foundland
+W / KWPN / Schi / 2010
+V:Corland (DK: Corlando) / MV:Larome
+ 
+ 
+0976
+Foure
+W / Westf / B / 2010
+V:Florenciano / MV:Landro L
+ 
+ 
+0977
+Fox Village
+W / Hann / Df / 2010
+V:Fürst Nymphenburg I / MV:Rubinstein I
+ 
+ 
+0978
+Francesco 63
+W / Westf / B / 2004
+V:Florestan I / MV:Rohdiamant
+ 
+ 
+0979
+Francis 123
+S / Westf / F / 2004
+V:Fürst Piccolo / MV:Maquisard xx
+ 
+ 
+0980
+Francis-Royale
+S / Westf / B / 2013
+V:Franziskus / MV:Royal Hit
+ 
+ 
+0981
+Franka 169
+S / Westf / B / 2010
+V:Floresco / MV:Laureus
+ 
+ 
+0982
+Franziskaner 10
+W / Old / Db / 2014
+V:Franziskus / MV:Samarant
+ 
+ 
+0983
+Franziskus 19
+W / Westf / Schwb / 2010
+V:Flanagan / MV:Don Bedo I
+ 
+ 
+0984
+Frauenpower
+S / Westf / R / 2011
+V:Fürstenball / MV:Royal Blend
+ 
+ 
+0985
+Frechdachs HK
+W / Westf / F / 2004
+V:Fürst Piccolo / MV:Federball
+ 
+ 
+0986
+Fred Feuerstein 34
+W / Westf / B / 2001
+V:Florestan I / MV:Goldrausch II
+ 
+ 
+0987
+Frederico 39
+W / Hann / Db / 2005
+V:Fürst Heinrich / MV:Cavalier
+ 
+ 
+0988
+Frejus 4
+W / Westf / B / 2010
+V:Flipper D'Elle / MV:Cyrano de Bergerac
+ 
+ 
+0989
+Fresco 43
+W / Old / R / 2014
+V:Follow Me / MV:Conteur
+ 
+ 
+0990
+Freudenfest 4
+W / Westf / B / 2014
+V:Fidertanz / MV:De Niro
+ 
+ 
+0991
+Freundeskreis 2
+W / Old / Df / 2011
+V:Fürst Fugger / MV:Wolkentanz I
+ 
+ 
+0992
+Freya 283
+S / Westf / F / 2002
+V:Feinsinn / MV:Wachhorst
+ 
+ 
+0993
+Friarly Silver Star
+W / Wel.A / Schi / 1999
+ 
+ 
+0994
+Frida Gold RB
+S / Westf / F / 2014
+V:Fürst Fohlenhof / MV:Lissaro
+ 
+ 
+0995
+Frieda 145
+S / Westf / B / 2006
+V:Fidertanz / MV:Piquet
+ 
+ 
+0996
+Frieda 233
+S / Westf / B / 2010
+V:Friscati / MV:Piano II
+ 
+ 
+0997
+Frieda Gold H
+S / Westf / B / 2010
+V:Florencio I / MV:Royal Diamond
+ 
+ 
+0998
+Friendscout 3
+W / Hann / Db / 2012
+V:Foundation / MV:Real Diamond
+ 
+ 
+0999
+Fritz von Nymphenburg M
+W / Hann / F / 2012
+V:Fürst Nymphenburg I / MV:Calderon
+ 
+ 
+1000
+Fritzchen 58
+W / Westf / F / 2003
+V:Fürst Piccolo / MV:Florestan I
+ 
+ 
+1001
+Frohnaldo
+W / Old / Schwb / 2013
+V:Foundation / MV:San Amour
+ 
+ 
+1864
+Frõulein Felize
+S / Westf / B / 2009
+V:Florenciano / MV:Florestan I
+ 
+ 
+1002
+Frühlingszauber 4
+S / Westf / B / 2008
+V:Floresco / MV:Likoto xx
+ 
+ 
+1003
+FS Love Affair
+S / Hann / B / 2006
+V:Lord Loxley I / MV:Pinkus
+ 
+ 
+1004
+Fuggerlito
+W / Westf / 2010
+V:Fürst Fugger / MV:Donnerschwee
+ 
+ 
+1005
+Fungelchen
+S / Westf / R / 2005
+V:Ferragamo / MV:Florestan I
+ 
+ 
+1006
+Funkenfee E
+S / Hann / Db / 2014
+V:Franziskus / MV:Don Henrico
+ 
+ 
+1007
+Funny 298
+S / Westf / B / 2004
+V:Floresco / MV:Weltpokal
+ 
+ 
+1010
+Fürst Fernando 8
+H / Old / R / 2013
+V:Fürstenball / MV:Rosario
+ 
+ 
+1011
+Fürst Festival 3
+W / Old / Schwb / 2014
+V:Fürstenball / MV:Fürst Nymphenburg I
+ 
+ 
+1014
+Fürst Rainier
+W / Westf / R / 2009
+V:Fürst Romancier / MV:De Niro
+ 
+ 
+1016
+Fürstengold G
+W / Hann / 2010
+V:Fürst Nymphenburg I / MV:Lauries Crusador xx
+ 
+ 
+1898
+Fürstenkrone OLD
+W / Old / B / 2012
+V:Fürst Fugger / MV:Rohdiamant
+ 
+ 
+1018
+Fuzhou 3
+H / Hann / B / 2015
+V:Fürst Nymphenburg I / MV:Rosentau
+ 
+ 
+1825
+Fürst Belcanto TS
+H / Hann / Schwb / 2013
+V:Fürstenball / MV:Lancier
+ 
+ 
+1008
+Fürst Dantino
+W / Hann / B / 2012
+V:Fürst Grandios / MV:Falkland
+ 
+ 
+1013
+Fürst Fridolin 4
+W / Westf / F / 2003
+V:Fürst Piccolo / MV:Paradox I
+ 
+ 
+1015
+Fürsten Fee M
+S / Old / Schwb / 2014
+V:Fürstenball / MV:Sandro Hit
+ 
+ 
+1817
+Fürstenglanz 10
+H / Old / R / 2014
+V:Fürstenball / MV:Wenckstern
+ 
+ 
+1017
+Fürstenkind 2
+H / Old / Schwb / 2011
+V:Fürstenball / MV:Royal Diamond
+	G - Pferdename / KNR		
+
+ 
+ 
+1019
+G7
+H / Old / Schwb / 2014
+V:Grey Flanell / MV:Sir Oldenburg
+ 
+ 
+1021
+Gänseblümchen B
+S / Westf / B / 2014
+V:Grey Flanell / MV:Estobar NRW
+ 
+ 
+1022
+Geniale 10
+S / Old / Schwb / 2014
+V:Grey Flanell / MV:Sir Donnerhall I
+ 
+ 
+1023
+Genito V
+W / Westf / B / 2008
+V:Grafenstolz / MV:Lancer III
+ 
+ 
+1024
+Genscher 4
+H / DR / Palom / 2015
+V:Golden West / MV:Domingo
+ 
+ 
+1025
+Gentle Heart
+W / Old / Db / 2015
+V:Grey Flanell / MV:Fürst Romancier
+ 
+ 
+1026
+Georgia 175
+S / Westf / B / 2001
+V:Gralshüter / MV:Ramiro's Son I
+ 
+ 
+1027
+Georgiana H.S.
+S / Hann / B / 2004
+V:Graf Top / MV:Drosselklang II
+ 
+ 
+1028
+Ghostflower
+S / Westf / R / 2016
+V:Gullit HBC / MV:C-Indoctro
+ 
+ 
+1029
+Gina Lisa 2
+S / Hann / B / 2012
+V:Grey Top / MV:Newton
+ 
+ 
+1031
+Ginger Gold
+S / ISH / F / 2011
+V:Pacino / MV:Touchdown
+ 
+ 
+1032
+Giocondo 2
+W / Rhld / B / 1999
+V:Gaudeamus / MV:Weissenburg
+ 
+ 
+1863
+Girl Power 4
+S / KWPN / B / 2011
+V:Brainpower / MV:Lupicor II
+ 
+ 
+1033
+Gitana II
+S / Old / B / 2007
+V:Zatinus / MV:Royal Silver
+ 
+ 
+1034
+Gjohnnie Walker
+W / KWPN / Db / 2014
+V:Glasgow van't Merelsnest / MV:Oklund
+ 
+ 
+1035
+Glenti Sih 3
+H / KWPN / B / 2011
+V:Spartacus / MV:Numero Uno
+ 
+ 
+1037
+Glückskleee
+S / DR / F / 2015
+V:Going East / MV:Danilo
+ 
+ 
+1036
+Glückskind 7
+S / Meckl. / B / 2014
+V:Grey Flanell / MV:Fürst Piccolo
+ 
+ 
+1038
+Goldberg's little Boy
+H / Westf / Db / 2015
+V:Goldberg / MV:Quaterback
+ 
+ 
+1039
+Golden Bear
+W / DR / Df / 2014
+V:Golden State / MV:Langar
+ 
+ 
+1040
+Golden Curly
+S / DR / Palom / 2009
+V:Donnerwetter / MV:Gospodin H
+ 
+ 
+1041
+Golden Gatsby 3
+H / Westf / F / 2014
+V:Ganymedes / MV:Wolkentanz II
+ 
+ 
+1042
+Golden Ghost
+W / DR / Palom / 2015
+V:Golden West / MV:Dressman I
+ 
+ 
+1043
+Golden Moonlights Ruba
+W / DR / F / 2008
+V:FS Golden Moonlight / MV:FS Chiwago
+ 
+ 
+1044
+Golden Spirit
+H / Westf / B / 2015
+V:Goldberg / MV:Alabaster
+ 
+ 
+1045
+Goldstern 235
+W / DR / Palom / 2011
+V:German Highlight / MV:Golden Dancer
+ 
+ 
+1046
+Goldstück 18
+S / DR / F / 2014
+V:Golden State / MV:Dressman I
+ 
+ 
+1047
+Good by Manny S
+W / Westf / B / 2000
+V:Gralshüter / MV:Weinhang
+ 
+ 
+1048
+Good Looking Goofy
+H / Westf / Schwb / 2006
+V:Godolphin / MV:Almox Prints J
+ 
+ 
+1049
+Gorbatschow 15
+H / DR / B / 2015
+V:Golden State / MV:Clooney AT
+ 
+ 
+1050
+Gorgeous Gaitano
+W / DR / F / 2008
+V:A Gorgeous / MV:Blue Stone Swing Boy
+ 
+ 
+1052
+Graf 125
+W / Westf / R / 2009
+V:Giradelli / MV:Graf Remus
+ 
+ 
+1053
+Gralsgrõfin L
+S / Rhld / B / 2005
+V:Gralshüter / MV:Phoenix
+ 
+ 
+1054
+Gran Torino 2
+W / Hann / B / 2005
+V:Graf Grannus / MV:Fabriano
+ 
+ 
+1055
+Grand Chameur 3
+W / Westf / Schi / 2004
+V:Grand Coeur / MV:Rivellino xx
+ 
+ 
+1056
+Grand Courage 3
+W / Westf / Schi / 2002
+V:Grand Coeur / MV:Rivellino xx
+ 
+ 
+1057
+Grand Donna
+S / Westf / B / 2012
+V:Grand Coeur / MV:Ekstein
+ 
+ 
+1058
+Grand Figo
+W / Westf / B / 2006
+V:Grand Coeur / MV:Capito
+ 
+ 
+1059
+Grand Torino
+W / Westf / B / 2007
+V:Grand Coeur / MV:Loredo
+ 
+ 
+1060
+Granstina
+S / Old / Df / 2006
+V:Zatinus / MV:Landfrieden
+ 
+ 
+1061
+Gretchen RZ
+S / Holst / B / 2014
+V:Spartacus / MV:Caretino
+ 
+ 
+1062
+Grey Top's Gustav
+W / Hann / B / 2014
+V:Grey Top / MV:Langer Jan
+ 
+ 
+1063
+Gut Neuenhofs Capone
+W / Westf / Schi / 2013
+V:Cristallo II / MV:Landjunge
+	H - Pferdename / KNR		
+
+ 
+ 
+1064
+Halinka 18
+S / DR / F / 2009
+V:Halenkino / MV:Durello
+ 
+ 
+1065
+Hamilton 37
+W / Westf / B / 2008
+V:Hogwart / MV:Landadel
+ 
+ 
+1066
+Hancock R
+W / Westf / B / 2008
+V:Hotline / MV:Lanciano
+ 
+ 
+1067
+Hannes U.J.
+W / Fries / R / 2010
+V:Tietse / MV:Tije
+ 
+ 
+1068
+Happiness 29
+S / Westf / R / 2007
+V:Hotline / MV:Rotspon
+ 
+ 
+1069
+Happy Hugo
+W / Old / F / 2008
+V:Hoftanz / MV:Wolkentanz II
+ 
+ 
+1070
+Haribo 62
+W / DR / B / 2012
+V:Hugo Boss / MV:Trentino
+ 
+ 
+1071
+Harmony 54
+S / Trak. / B / 2014
+V:Oliver Twist / MV:Hohenstein
+ 
+ 
+1072
+Häwelmann
+W / Hann / B / 2004
+V:n.gek.Hengst / MV:Wenzel I
+ 
+ 
+1073
+HBS Daily Double
+H / Westf / R / 2013
+V:Daley Thompson / MV:Romantik-Boy
+ 
+ 
+1074
+HBS Golden Mylight NRW
+S / DR / 2015
+V:Golden West / MV:Bavarottie
+ 
+ 
+1076
+Heddick
+W / KWPN / B / 2012
+V:Baltic VDL / MV:Oklund
+ 
+ 
+1078
+Henry 370
+W / Holst / Db / 2009
+V:Hermes D'Authieux AA / MV:Candillo
+ 
+ 
+1079
+Herbstprinz 5
+W / Trak. / Db / 2011
+V:Houston / MV:Sixtus
+ 
+ 
+1080
+Hermine 58
+S / Westf / B / 2004
+V:Heraldik xx / MV:Major de la Cour
+ 
+ 
+1081
+Herr von Heine
+H / Hann / B / 2014
+V:Heinrich Heine / MV:Santino
+ 
+ 
+1083
+Hesselteich's Vain Beauty
+S / DR / F / 2005
+V:Voltaire / MV:Going East
+ 
+ 
+1084
+Hesselteichs Calvin
+H / DR / F / 2011
+V:Calvin Klein / MV:Going East
+ 
+ 
+1085
+HET Desert Pearl
+S / DR / Is / 2005
+V:Hesselteich's Golden Dream / MV:Merlin
+ 
+ 
+1086
+HET Vision
+W / DR / 2002
+V:Voltaire / MV:Davis Cup
+ 
+ 
+1087
+Higgins 45
+W / Hann / Df / 2004
+V:His Highness / MV:Akzent II
+ 
+ 
+1088
+Higgins 58
+W / Hann / F / 2006
+V:His Highness / MV:Wilawander xx
+ 
+ 
+1871
+High Heels 4
+S / Old / B / 2013
+V:Damon Hill / MV:Roadster
+ 
+ 
+1091
+High Pleasure 2
+W / Trak. / 2005
+V:Cadeau / MV:Humanus
+ 
+ 
+1093
+Hironimo 3
+W / Hann / Db / 2006
+V:Hochadel / MV:Rubinstein I
+ 
+ 
+1095
+Holsteins Daim
+W / DR / F / 2005
+V:FS Disagio / MV:Rosedale Falcon 16144
+ 
+ 
+1096
+Honey 86
+S / Westf / F / 2007
+V:Hornet Rose / MV:Polydor
+ 
+ 
+1097
+Hot Patootie
+W / Westf / Schwb / 2015
+V:Hotline / MV:Dunhill H
+ 
+ 
+1098
+Hotshot 2
+W / Hann / 2008
+V:Hotline / MV:Donnerhall
+ 
+ 
+1845
+Hugerlandshof's Keyless Go
+W / Westf / B / 2007
+V:Kapriolan F / MV:Foxiland xx
+	I - Pferdename / KNR		
+
+ 
+ 
+1892
+IB Piana
+S / Old / B / 2012
+V:Perigueux / MV:Cordial Medoc
+ 
+ 
+1893
+IB Qualita
+S / Hann / B / 2012
+V:Quaid I / MV:Salito
+ 
+ 
+1099
+Ice and Fire 2
+W / BWP / R / 2008
+V:Blue Boy / MV:Nonstop
+ 
+ 
+1100
+Icona 5
+S / Westf / F / 2011
+V:Intendant xx / MV:Ehrentusch
+ 
+ 
+1902
+Ide 3
+S / KWPN / Schwb / 2013
+V:C-Indoctro / MV:Corrado I
+ 
+ 
+1894
+Idel Rose
+S / KWPN / B / 2009
+V:Campbell / MV:Zuidhorn
+ 
+ 
+1101
+In Time WH
+S / Trak. / R / 2010
+V:Hibiskus / MV:Sir Chamberlain
+ 
+ 
+1102
+Ina 100
+S / Westf / F / 2009
+V:Incolor / MV:Portland L
+ 
+ 
+1103
+Inderdale
+W / KWPN / Db / 2013
+V:Everdale (ex:Escudo K) / MV:Rousseau (ex Rambo)
+ 
+ 
+1104
+Ingrosso SB
+W / Westf / F / 2015
+V:Inliner / MV:Lancer III
+ 
+ 
+1105
+Inspire 4
+W / KWPN / F / 2013
+V:Johnson / MV:Painted Black
+ 
+ 
+1106
+Into My Heart
+S / KWPN / Hlb / 2012
+V:Inshallah de Muze / MV:Silvio II
+ 
+ 
+1107
+Iron Man 9
+W / Westf / B / 2006
+V:It's Me du Mesnil / MV:Pit I
+ 
+ 
+1110
+It's lovely WH
+S / Trak. / Schi / 2015
+V:Insterburg / MV:Sir Chamberlain
+ 
+ 
+1111
+It's me 14
+W / Bay / F / 2004
+V:Lagiator / MV:Wanderbursch II
+ 
+ 
+1112
+It's Nabali
+S / SBS / B / 2014
+V:Nabab de Reve / MV:Darco
+ 
+ 
+1113
+It's possible
+W / KWPN / B / 2003
+V:C-Indoctro / MV:Nimmerdor
+ 
+ 
+1114
+It's Pretty WH
+S / Trak. / Schi / 2008
+V:Insterburg / MV:Sir Chamberlain
+	J - Pferdename / KNR		
+
+ 
+ 
+1115
+Jackpot 39
+W / KWPN / R / 2014
+V:Dream Boy / MV:Don Vino
+ 
+ 
+1117
+Jamiroquai 3
+W / Old / B / 2006
+V:Johnson / MV:Rubinstein I
+ 
+ 
+1118
+Jasmine 22
+S / RuWblt. / B / 2013
+V:Joyau de Bloye / MV:Spotlight Z
+ 
+ 
+1119
+Jason - Hilton
+W / BWP / B / 2009
+V:Chopin van Het Moleneind / MV:Calido I
+ 
+ 
+1120
+Jersey 24
+W / KWPN / Db / 2014
+V:Glasgow van't Merelsnest / MV:Silbersee
+ 
+ 
+1829
+Jetlag IR
+W / DR / B / 2010
+V:Dream of Lord / MV:Oosteinds Ricky
+ 
+ 
+1121
+Jiangsu
+W / KWPN / B / 2014
+V:Quidam's Rubin / MV:Carino Sun
+ 
+ 
+1116
+Jõgermeister 6
+W / Westf / F / 2007
+V:Florestan I / MV:De Niro
+ 
+ 
+1122
+Jokers Jungle Prince
+H / DR / Df / 2005
+V:Jokers-Golden-Boy / MV:Principal Boy
+ 
+ 
+1123
+Jolie Couer
+S / DR / B / 2010
+V:Van Heinrich / MV:Nabaar ox
+ 
+ 
+1124
+Jonny Controletti
+W / Holst / Schi / 2005
+V:Acodetto I / MV:Alasca
+ 
+ 
+1125
+Joris 25
+W / KWPN / Db / 2014
+V:Arezzo (NLD) VDL / MV:Kalusha
+ 
+ 
+1126
+Joshi 36
+W / KWPN / B / 2012
+V:Durrant / MV:Raphael
+ 
+ 
+1127
+Joyrider 4
+W / KWPN / F / 2014
+V:Harley VDL / MV:Mr. Blue
+ 
+ 
+1128
+Jumping Jack Flash 13
+H / Grpf.o.R / BSche / 2016
+V:Ogano Sitte
+ 
+ 
+1129
+Just Carefull
+W / Z.Rpf / B / 2009
+V:Calvaro Z / MV:Caretino
+ 
+ 
+1130
+Just Perfect 8
+W / DWB / Db / 2013
+V:Johnson / MV:De Niro
+ 
+ 
+1131
+Jylando
+H / KWPN / Hlb / 2014
+V:Tangelo van de Zuuthoeve / MV:Lando
+	K - Pferdename / KNR		
+
+ 
+ 
+1132
+Kachunga
+H / DR / B / 2012
+V:Classic Dancer I / MV:FS Don't Worry
+ 
+ 
+1133
+Kacyro
+H / Trak. / Db / 2014
+V:Saint Cyr / MV:Freudenfest
+ 
+ 
+1135
+Kaira 13
+S / Westf / F / 2008
+V:Kaiser Karl / MV:Lancer III
+ 
+ 
+1136
+Kaiser Franz 3
+H / DR / B / 2006
+V:Kaiserstolz / MV:Darino
+ 
+ 
+1137
+Kasanova A
+W / Westf / B / 2008
+V:Kulmann / MV:Windspiel As
+ 
+ 
+1140
+Katja Kabanova
+S / KWPN / Schwb / 2015
+V:George Clooney / MV:Gribaldi
+ 
+ 
+1141
+Katniss Everdeen 4
+S / Westf / Schi / 2011
+V:Colestus / MV:Chico's Boy
+ 
+ 
+1142
+Kealigolane
+W / Westf / B / 2015
+V:Pilothago / MV:Acord II
+ 
+ 
+1143
+Kenzo SL
+W / Z.Rpf / B / 2013
+V:Kannan / MV:Der Senaat 111
+ 
+ 
+1144
+King Adelheid Z
+H / Z.Rpf / FkaSc / 2007
+V:Kolibri / MV:Rival Z
+ 
+ 
+1145
+King Fly W
+W / Pol. / Db / 2004
+V:Epos / MV:Roland
+ 
+ 
+1147
+Kings Mistress 3
+S / KWPN / B / 2015
+V:A Big Boy / MV:Hinault
+ 
+ 
+1148
+Knoepfchen
+W / Westf / B / 2008
+V:Kulmann / MV:Coronino
+ 
+ 
+1149
+Kollinear
+W / Grpf.o.R / B / 2009
+ 
+ 
+1150
+Kweb
+W / DR / 2011
+V:Kwept / MV:Eldorrado
+	L - Pferdename / KNR		
+
+ 
+ 
+1826
+L'amour toujours 6
+W / Holst / B / 2005
+V:Limbus / MV:Corofino I
+ 
+ 
+1151
+L.A. Payot
+W / Westf / F / 2012
+V:Los Angeles / MV:Pay
+ 
+ 
+1152
+La Belle 216
+S / Westf / Schwb / 2009
+V:Laudabilis / MV:Worldly I
+ 
+ 
+1153
+La Boom 20
+S / Westf / B / 2010
+V:Lissaro / MV:Arpeggio
+ 
+ 
+1155
+La Fina 3
+S / Westf / B / 2009
+V:Lugato / MV:Ferragamo
+ 
+ 
+1156
+La Luna SP
+S / Westf / B / 2012
+V:Los Angeles / MV:Contini
+ 
+ 
+1157
+La Ronja
+S / Westf / B / 2005
+V:Larson / MV:Renard
+ 
+ 
+1158
+Lacana 2
+S / Westf / B / 2005
+V:Lacock / MV:Ladors
+ 
+ 
+1159
+Lacapo W
+H / Rhld / B / 2004
+V:Lucky Luke / MV:Granikos
+ 
+ 
+1160
+Lacardo 4
+W / Bay / B / 2002
+V:Lanciano / MV:Wenzel I
+ 
+ 
+1161
+Lacrimosa 7
+S / Dt.Pf / Hlb / 2002
+V:Lieber Boy / MV:Silbersee
+ 
+ 
+1162
+Lacuna Lucida 2
+S / Hann / F / 2010
+V:Laurent / MV:Beluga
+ 
+ 
+1163
+Ladies First 7
+S / Westf / B / 2013
+V:Lord Loxley I / MV:Florestan I
+ 
+ 
+1164
+Lady 2218
+S / Westf / B / 2007
+V:Lanciano / MV:Artwig
+ 
+ 
+1165
+Lady Anne 11
+S / Westf / B / 2005
+V:Laomedon / MV:Apart
+ 
+ 
+1166
+Lady Be'rat
+S / Westf / B / 2009
+V:Laudabilis / MV:Rohdiamant
+ 
+ 
+1167
+Lady Cellestina
+S / AESRpf / Schi / 2015
+/ MV:Lordanos
+ 
+ 
+1853
+Lady Elaine M
+S / Rhld / B / 2005
+V:Lupicor / MV:Wolverlife xx
+ 
+ 
+1168
+Lady Killer Z
+W / Westf / B / 2005
+V:Lacordos / MV:Sugarbowl Hanover
+ 
+ 
+1170
+Lady Moonlight 5
+S / Westf / Df / 2011
+V:Lord Lancer / MV:Amantus
+ 
+ 
+1171
+Ladybird 32
+S / AESRpf / Schi / 2010
+V:Lord Luis / MV:Baldini I
+ 
+ 
+1884
+Ladylike 76
+S / Meckl. / F / 2014
+V:Lordanos / MV:Grand Amour
+ 
+ 
+1173
+Land Rover Sport
+W / AESRpf / B / 2012
+V:Landrover / MV:Just A Flutter xx
+ 
+ 
+1174
+Landsberg 15
+W / Trak. / Schwb / 2001
+V:Gipsy King / MV:Patron
+ 
+ 
+1175
+Lanieros
+W / DR / F / 2006
+V:Lucky Luke R / MV:Jacobspeel's Rocky
+ 
+ 
+1176
+Lanny 7
+S / Hann / F / 2002
+V:Le Cou Cou / MV:Dorian
+ 
+ 
+1178
+Las Vegas 206
+W / Westf / Df / 2010
+V:Lugato / MV:Rubinstein I
+ 
+ 
+1179
+Las Vegas H 2
+W / DR / B / 2000
+V:Languard / MV:Navoy
+ 
+ 
+1180
+Laser 23
+W / Westf / B / 2013
+V:Levisonn / MV:Pik Labionics
+ 
+ 
+1181
+Last Crusador D
+W / Westf / Df / 2007
+V:Laudabilis / MV:Dramaturg
+ 
+ 
+1182
+Latino van het Smeetshof
+W / BWP / Schi / 2011
+V:Adorado / MV:Darco
+ 
+ 
+1183
+Laudator
+W / Old / F / 2003
+V:Laurentio / MV:De Niro
+ 
+ 
+1184
+Laurie 5
+S / Hann / Df / 2010
+V:Lauries Crusador xx / MV:Rubioso N
+ 
+ 
+1185
+Lauries Tanz
+W / Hann / B / 2008
+V:Lauries As / MV:Wolkentanz I
+ 
+ 
+1186
+Lavallo 16
+W / Westf / Db / 2003
+V:Lancer III / MV:Werther
+ 
+ 
+1187
+Lavignon 2
+W / Old / B / 2009
+V:Lord Pezi / MV:Andiamo
+ 
+ 
+1188
+Lavinio 12
+W / Tsch.W. / B / 2008
+/ MV:Le Patron
+ 
+ 
+1189
+Lavita 29
+S / Westf / B / 2006
+V:Landor S / MV:Polydor
+ 
+ 
+1190
+Layla 46
+S / Hann / Df / 2008
+V:Londonderry / MV:Brentano II
+ 
+ 
+1191
+Le Boo
+H / Hann / B / 2007
+V:Lauries Crusador xx / MV:Pinkus
+ 
+ 
+1192
+Le Joly 3
+W / Z.Rpf / BkaSc / 2015
+V:Lyjanero / MV:Quality
+ 
+ 
+1193
+Lea F.M
+S / Westf / B / 2006
+V:Jungh.n.gek. / MV:Ehrentanz I
+ 
+ 
+1194
+Leading Light 3
+W / KWPN / Schi / 2016
+V:Hampton VDL / MV:Glasgow van't Merelsnest
+ 
+ 
+1195
+Legat 80
+W / Old / B / 2004
+V:Lanciano / MV:Watzmann
+ 
+ 
+1196
+Lemonie HE
+S / Hann / B / 2013
+V:Lemony's Nicket / MV:Wittinger
+ 
+ 
+1197
+Leni 93
+S / Westf / F / 2008
+V:Lissabon / MV:Lord Sinclair II
+ 
+ 
+1198
+Lennox 195
+W / Westf / B / 2002
+V:Laurenzius / MV:Greifswald
+ 
+ 
+1199
+Lennox 259
+W / Westf / B / 2007
+V:Lissabon / MV:Cartusch
+ 
+ 
+1200
+Leona 80
+S / Westf / Db / 2008
+V:Lugato / MV:Fridolin Oho
+ 
+ 
+1201
+Leopold 294
+W / Westf / B / 2011
+V:Lissaro / MV:Floresco
+ 
+ 
+1202
+Lesley MA
+S / Holst / B / 2002
+V:Lican / MV:Leandro
+ 
+ 
+1203
+Let me entertain you K
+W / Westf / Df / 2014
+V:Livaldon / MV:Wolkentanz I
+ 
+ 
+1204
+Let's Dance 102
+H / Westf / B / 2011
+V:Lissaro / MV:Jazz Rubin
+ 
+ 
+1205
+Letizia 49
+S / Old / B / 2010
+V:Lord Pezi / MV:Landadel
+ 
+ 
+1207
+Levita W
+S / Westf / F / 2012
+V:Liverpool / MV:Pilaro
+ 
+ 
+1208
+Levi`s Lefke
+S / Westf / F / 2011
+V:Levisonn / MV:Maraschino
+ 
+ 
+1209
+Lexxus 2
+W / Old / F / 2008
+V:Licotus / MV:Feiner Stern
+ 
+ 
+1210
+Lexy 15
+S / Holst / B / 2014
+V:Lenett / MV:Cassini II
+ 
+ 
+1211
+Leyenda 3
+H / Westf / B / 2004
+V:Lacordos / MV:Pinocchio
+ 
+ 
+1212
+Leyla K 2
+S / Westf / B / 2013
+V:Lyjanero / MV:Quintender
+ 
+ 
+1213
+Liberte 37
+H / OS / B / 2009
+V:Ludwigs As / MV:Corradino
+ 
+ 
+1214
+Lieblingsstück 2
+S / Westf / B / 2011
+V:Lissaro / MV:Primas
+ 
+ 
+1215
+Lifestyle 63
+H / Hann / B / 2008
+V:Lauries Crusador xx / MV:Donnerhall
+ 
+ 
+1867
+Lifetime 14
+H / Hann / Df / 2007
+V:Londontime / MV:Argument
+ 
+ 
+1216
+Like a Diamond NRW
+H / Westf / B / 2010
+V:Laureus / MV:Lord Sinclair I
+ 
+ 
+1217
+Likorello
+W / Westf / Schwb / 2008
+V:Lord Loxley I / MV:Donnerhall
+ 
+ 
+1218
+Lilith keeps going
+S / Westf / B / 2011
+V:L'Espoir / MV:Sandro Hit
+ 
+ 
+1219
+Lillifee 54
+S / Rhld / Db / 2006
+V:Louis le Bon / MV:Larome
+ 
+ 
+1220
+Lilly 487
+S / Old / B / 2008
+V:Lapis Lazuli / MV:Cordial Medoc
+ 
+ 
+1221
+Lillyfee 47
+S / Old / B / 2012
+V:Light Boy / MV:Lamerto H
+ 
+ 
+1222
+Limelight 45
+W / OS / Schi / 2012
+V:Levisonn / MV:Silvio I
+ 
+ 
+1223
+Lindemann 4
+H / Westf / B / 2016
+V:Le Vivaldi I / MV:Ehrenmann
+ 
+ 
+1224
+Lindner 2
+W / Westf / F / 2010
+V:Laudabilis / MV:Beltain
+ 
+ 
+1226
+Linus 358
+W / Westf / B / 2008
+V:Light On / MV:Weinberg
+ 
+ 
+1227
+Linus K
+W / Hann / R / 2007
+V:Locksley II / MV:Prince Thatch xx
+ 
+ 
+1228
+Linus loves dancing
+W / Westf / Db / 2007
+V:Laurentianer / MV:Escudo II
+ 
+ 
+1229
+Linus W 2
+W / Westf / B / 2012
+V:Lordanos / MV:Hamilton
+ 
+ 
+1230
+Lio F.M.
+H / Westf / Schwb / 2012
+V:Jungh.n.gek. / MV:Fiorino
+ 
+ 
+1231
+Lisanne 16
+S / Westf / F / 2010
+V:Love Me / MV:Florestan I
+ 
+ 
+1232
+Litessa
+S / Hann / B / 2010
+V:Lordanos / MV:Cor de la Bryere
+ 
+ 
+1233
+Little bit late
+W / DR / B / 2008
+V:Losander / MV:Maccardo
+ 
+ 
+1235
+Little Lotus 2
+S / Hann / F / 2011
+V:Longton / MV:Don Marcello
+ 
+ 
+1236
+Little Lusche
+S / Dt.Pf / B / 2010
+V:Luca / MV:Boves
+ 
+ 
+1900
+Livestyle 2
+S / Holst / B / 2010
+V:Larimar / MV:Carolus I
+ 
+ 
+1238
+Lloyd W
+W / Holst / B / 2011
+V:Lenett / MV:Casall
+ 
+ 
+1239
+Lockolito F.M
+W / Westf / B / 2011
+V:Jungh.n.gek. / MV:Ehrentanz I
+ 
+ 
+1240
+Log in L
+W / Hann / B / 2011
+V:Lacan / MV:Acord II
+ 
+ 
+1241
+Lolita 243
+S / Westf / Schi / 2011
+V:Lord Pezi / MV:Raphael
+ 
+ 
+1242
+Lomex 17
+W / Old / B / 2009
+V:Lordanos / MV:Cannonball
+ 
+ 
+1243
+London Boy 4
+W / Hann / F / 2013
+V:Londonderry / MV:Weltmeyer
+ 
+ 
+1244
+London Dream 3
+H / Hann / Schwb / 2009
+V:Londontime / MV:Don Frederico
+ 
+ 
+1245
+London's Lullaby
+S / Hann / F / 2008
+V:Londontime / MV:Regazzoni
+ 
+ 
+1246
+Looks like Red
+W / Old / Df / 2003
+V:Laurentio / MV:Caprimond
+ 
+ 
+1247
+Lord Leroy L
+H / Westf / B / 2012
+V:Lord Contendro / MV:Dinard L
+ 
+ 
+1248
+Loreano T
+W / Westf / B / 2013
+V:Los Angeles / MV:Pilot
+ 
+ 
+1909
+Lorena
+S / 2011
+ 
+ 
+1249
+Lorenzo 317
+H / Westf / F / 2005
+V:Laudabilis / MV:Ferragamo
+ 
+ 
+1250
+Lorenzo 367
+W / Hann / F / 2011
+V:Londonderry / MV:Weltmeyer
+ 
+ 
+1251
+Loretto 191
+W / LetW / B / 2004
+V:Le Champ
+ 
+ 
+1252
+Loriot 271
+W / Old / B / 1997
+V:Lafitte / MV:Insider
+ 
+ 
+1253
+Loriot 356
+H / Hann / F / 2008
+V:Londontime / MV:Lemon Park
+ 
+ 
+1254
+Los Baros
+W / Old / Schwb / 2006
+V:Licotus / MV:Pik Noir
+ 
+ 
+1255
+Louis 209
+W / Westf / B / 2002
+V:Lancer III / MV:Esclavo xx
+ 
+ 
+1256
+Louis W 4
+W / Holst / B / 2014
+V:Lyjanero / MV:Carlos DZ
+ 
+ 
+1257
+Love Affair 15
+S / OS / F / 2009
+V:Livello / MV:Polydor
+ 
+ 
+1259
+Lu vdH
+H / Westf / Db / 2003
+V:Laomedon / MV:Walhall
+ 
+ 
+1260
+Luca 106
+H / Westf / F / 2001
+V:Lordanos / MV:Weinberg
+ 
+ 
+1261
+Luccarelli v.M
+W / Hann / Db / 2008
+V:Laudabilis / MV:Amani
+ 
+ 
+1262
+Lucia 213
+S / Westf / B / 2009
+V:Lord Pezi / MV:Glass Hanover
+ 
+ 
+1263
+Luciana Marie
+S / Old / F / 2014
+V:Ludwigs As / MV:Coupe de Coeur
+ 
+ 
+1264
+Lucilla 22
+S / Westf / B / 2014
+V:Los Angeles / MV:Phantom
+ 
+ 
+1265
+Lucky Hillary K
+S / Westf / B / 2013
+V:Lucky Lionell / MV:Damon Hill
+ 
+ 
+1266
+Lucky Landing 2
+W / Westf / B / 2013
+V:Le Tot de Semilly / MV:Capitol I
+ 
+ 
+1267
+Lucky Luke 305
+W / Westf / Db / 2001
+V:Laurentianer / MV:Foxiland xx
+ 
+ 
+1268
+Lucky Luna 5
+S / AESRpf / B / 2014
+V:Landrover / MV:Richelshagen
+ 
+ 
+1269
+Lucy in the sky 14
+S / Westf / Df / 2010
+V:Lissaro / MV:Rhytmus S
+ 
+ 
+1270
+Lucy T
+S / Westf / B / 2009
+V:Light On / MV:Nordstern (n.gek.)
+ 
+ 
+1271
+Ludwig 171
+W / Westf / Schi / 2002
+V:Lamerto H / MV:Silbersee
+ 
+ 
+1272
+Ludwig E
+W / Westf / F / 2009
+V:Lugato / MV:Daenenkoenig
+ 
+ 
+1273
+Ludwig F.M
+H / Westf / B / 2013
+V:Jungh.n.gek. / MV:Ehrentusch
+ 
+ 
+1274
+Luidor 19
+W / Westf / B / 2008
+V:Linton / MV:Lenardo
+ 
+ 
+1275
+Luigino 4
+W / Hann / Df / 2005
+V:Lauries Crusador xx / MV:Rohdiamant
+ 
+ 
+1276
+Luis 39
+W / Westf / B / 2002
+V:Lancer III / MV:Pilot's Ass
+ 
+ 
+1277
+Luis Löwenherz
+H / Holst / Hlb / 2014
+V:Lyjanero / MV:Cassini I
+ 
+ 
+1278
+Lukas 1037
+W / DR / Palom / 2003
+V:Golden Dandy / MV:Veneciano
+ 
+ 
+1279
+Luke 160
+W / Westf / Db / 2004
+V:Lancer III / MV:Calypso II
+ 
+ 
+1280
+Luke Skywalker 65
+W / ZW / Schi / 2010
+V:Lordanos / MV:Carthago
+ 
+ 
+1281
+Lullaby P.
+W / Westf / Db / 2008
+V:Lugato / MV:Rubioso N
+ 
+ 
+1282
+Lumbazi B
+W / Hann / Schi / 2013
+V:Larius W / MV:Colman
+ 
+ 
+1283
+Luna 1415
+S / Old / F / 2003
+V:Landor S / MV:Leggiero
+ 
+ 
+1284
+Luna 1674
+S / Westf / B / 2008
+V:Lugato / MV:Rubinstein I
+ 
+ 
+1285
+Luna Lovegood 7
+S / Westf / B / 2012
+V:Love Me / MV:Royal Blend
+ 
+ 
+1286
+Lupitenda
+S / Westf / B / 2013
+V:Lord Contendro / MV:Graf Top
+ 
+ 
+1287
+Luzifer PK
+W / Hann / Schwb / 2010
+V:Lissaro / MV:Campari M
+ 
+ 
+1288
+Luzy 39
+S / Westf / B / 2003
+V:Lanciano / MV:Potsdam
+ 
+ 
+1289
+Lycan As
+H / Westf / Db / 2013
+V:Legendario Listo / MV:Lordanos
+ 
+ 
+1290
+Lyjanera W
+S / Holst / B / 2013
+V:Lyjanero / MV:Cassin
+ 
+ 
+1291
+Lynwood 4
+S / Bay / B / 2012
+V:Los Angeles / MV:Senna Z
+ 
+ 
+1292
+Lyoness Z
+S / Z.Rpf / Schi / 2012
+V:Levisto / MV:Kolibri
+	M - Pferdename / KNR		
+
+ 
+ 
+1293
+Mad Max 64
+W / DSP / F / 2003
+V:Marocain xx / MV:Ferman
+ 
+ 
+1294
+Maditah
+S / Westf / Schwb / 2013
+V:Vitalis / MV:De Niro
+ 
+ 
+1295
+Madonna 183
+S / Westf / B / 2002
+V:Münchhausen / MV:Kostolany
+ 
+ 
+1296
+Maharany
+S / Westf / Schi / 2007
+V:Contini / MV:Grandeur
+ 
+ 
+1297
+Maike 106
+S / Westf / B / 2005
+V:Maybach / MV:Lamoureux II
+ 
+ 
+1298
+Malwino
+W / Hafl. / F / 2012
+V:Maestro / MV:Hofprinz
+ 
+ 
+1299
+Manhatten 63
+W / B / 2013
+ 
+ 
+1300
+Marcella 84
+S / Westf / B / 2015
+V:Fashion Maker / MV:Quattro B
+ 
+ 
+1301
+Marcy 11
+S / Westf / B / 2006
+V:Darco / MV:Lancer III
+ 
+ 
+1302
+Mariechen 23
+S / Westf / B / 2014
+V:Messenger / MV:Ekstein
+ 
+ 
+1801
+Mario 133
+W
+ 
+ 
+1303
+Marisca
+S / DR / B / 2011
+V:Miraculix / MV:FS Pavarotti
+ 
+ 
+1304
+Matcho 92
+W / Wel.B / Df / 2000
+V:Glantir Macaulay / MV:Gold'n Hamriks Calypso
+ 
+ 
+1305
+Mauna Kea W
+S / Westf / B / 2011
+V:Mighty Magic / MV:Dimension
+ 
+ 
+1306
+Mauna Loa W
+S / Westf / B / 2011
+V:Mighty Magic / MV:Beach Boy
+ 
+ 
+1307
+Maximare Sunshine
+S / Westf / B / 2005
+V:Santa Cruz / MV:Casaretto
+ 
+ 
+1308
+Maximilian 144
+W / R / 2002
+ 
+ 
+1311
+Merci 124
+S / DSP / Db / 2015
+V:San Florestano / MV:Paradiesvogel
+ 
+ 
+1820
+Mica 4
+S / RSche / 2007
+ 
+ 
+1313
+Mielah
+S / Westf / Schi / 2010
+V:Stedinger / MV:De Niro
+ 
+ 
+1314
+Mijou 3
+S / Westf / F / 2003
+V:Mailaender / MV:Rheingold
+ 
+ 
+1315
+Mika 61
+S / Pol. / B / 2008
+V:Honwed
+ 
+ 
+1316
+Milan 132
+W / DR / B / 1991
+V:Mylord / MV:Witramx ox
+ 
+ 
+1318
+Miley Millennium
+S / Westf / Schwb / 2014
+V:Millennium / MV:Rubinstein I
+ 
+ 
+1319
+Milky Way de Goedereede
+W / BWP / B / 2012
+V:Elvis ter Putte / MV:Nabab de Reve
+ 
+ 
+1320
+Mille Grazie 4
+H / Westf / Schwb / 2014
+V:Messenger / MV:Grand Coeur
+ 
+ 
+1322
+Minerva 71
+S / Hafl. / F / 2005
+V:Maestro / MV:Aberlord
+ 
+ 
+1323
+Moccachino
+H / Westf / B / 2004
+V:Medici / MV:Donnerhall
+ 
+ 
+1324
+Mona 1584
+S / FSchi / 2009
+ 
+ 
+1325
+Monsieur Fritz
+W / Trak. / Db / 2005
+V:Alter Fritz / MV:Michelangelo
+ 
+ 
+1326
+Montecelli 5
+W / DR / F / 2007
+V:Mentos Charmeur / MV:FS Pavarotti
+ 
+ 
+1327
+Monty 558
+W / BSche / 2002
+ 
+ 
+1859
+Moritz
+W / Rappe / 1998
+ 
+ 
+1328
+Mr. Barquillero
+W / PRE / Schi / 2008
+V:Gaitero IV / MV:Goloso V
+ 
+ 
+1329
+Mr. Big 5
+W / DR / F / 2006
+V:Montpellier / MV:Top Nonstop
+ 
+ 
+1330
+MS Cumana
+S / Westf / B / 2014
+V:Comme il faut / MV:Carthago
+ 
+ 
+1850
+MT Dreamer
+W / 2012
+ 
+ 
+1331
+Murcielago 4
+W / Westf / B / 2010
+V:Monte Bellini / MV:Phantom
+ 
+ 
+1333
+My Puppy
+S / DR / F / 2009
+V:Mariano / MV:Top Dominus
+ 
+ 
+1334
+Mytender
+H / Westf / Schi / 2007
+V:Montender / MV:Cantus
+	N - Pferdename / KNR		
+
+ 
+ 
+1335
+Nacro's Dancer
+W / DR / Palom / 2008
+V:Nacromancer in the dark / MV:Scampolo
+ 
+ 
+1336
+Nahla 15
+S / Holst / B / 2011
+V:New Quidam / MV:Calato
+ 
+ 
+1337
+Namiro 20
+W / Lewitz / B / 2008
+V:Sandokan / MV:Sascha
+ 
+ 
+1338
+Nando 519
+W / Fries / R / 2004
+V:Winand 405 / MV:Sjaard
+ 
+ 
+1810
+Naomy
+S / braun / 1999
+ 
+ 
+1340
+Napalou
+W / Hann / B / 2013
+V:Numero Uno / MV:For Pleasure
+ 
+ 
+1341
+Navalou D
+S / Trak. / Df / 2005
+V:Solero / MV:Münchhausen
+ 
+ 
+1869
+Nea Luna
+S / Old / B / 2007
+V:Licotus / MV:Placido
+ 
+ 
+1343
+Needra D
+S / Trak. / Db / 2010
+V:Hofrat / MV:Herzruf
+ 
+ 
+1344
+Nefertari Merimut
+S / Pony o.R / BSche / 2015
+V:Navignon
+ 
+ 
+1346
+Nelson 199
+W / Trak. / Db / 2004
+V:Enchantee / MV:Hyalit
+ 
+ 
+1347
+Nerah
+S / OS / B / 2014
+V:Numero Uno / MV:Cordalme Z
+ 
+ 
+1348
+Nerwigk D
+W / Trak. / Df / 2010
+V:Imperio / MV:Münchhausen
+ 
+ 
+1349
+Nestor L
+H / BWP / Df / 2013
+V:Johnson / MV:Don Frederico
+ 
+ 
+1350
+Nevazón
+W / Z.Rpf / B / 2011
+V:Nabab de Reve / MV:Crown Z
+ 
+ 
+1351
+Never Mind 27
+S / Hann / B / 2013
+V:Numero Uno / MV:Drosselklang II
+ 
+ 
+1352
+New Orleans 7
+W / Westf / R / 2013
+V:Nabab de Reve / MV:Chin Chin
+ 
+ 
+1353
+Newcomer 13
+H / Holst / Schi / 2008
+V:New Quidam / MV:Cascavelle
+ 
+ 
+1355
+Nils RZ
+W / Bay / F / 2013
+V:Nerrado / MV:Al Cantaro E
+ 
+ 
+1357
+Nirvano 2
+W / DR / B / 2000
+V:Napoleon / MV:Faruk
+ 
+ 
+1359
+No Risk L
+S / Westf / Db / 2013
+V:Cachas / MV:Quamiro
+ 
+ 
+1360
+Norberto Uno
+H / OS / Db / 2015
+V:Numero Uno / MV:Coupe de Coeur
+ 
+ 
+1361
+Nouvelle 15
+W / DR / B / 2004
+V:Seven Mountain Natan / MV:Horsegate Minstrel
+ 
+ 
+1362
+Nova Hawk
+W / Westf / B / 2013
+V:Nabab de Reve / MV:Paolini xx
+ 
+ 
+1363
+Novedana
+S / DR / B / 2005
+V:Topnatrejo / MV:Marsvogel xx
+ 
+ 
+1364
+Nymphenburgs Carino
+W / Westf / B / 2011
+V:Caretino / MV:Lavaletto
+	O - Pferdename / KNR		
+
+ 
+ 
+1366
+Online 22
+W / Hann / B / 2010
+V:Balou du Rouet / MV:Graf Grannus
+ 
+ 
+1367
+Opening Batsman
+W / Westf / Schi / 2013
+V:Ogano Sitte / MV:Colman
+ 
+ 
+1830
+Orchid's Djakarta
+S / NF / B / 2008
+V:Kantje's Carlando / MV:Marits Mistique
+ 
+ 
+1368
+Ortega 9
+W / DR / R / 2000
+V:Ombre / MV:Boss
+ 
+ 
+1370
+Otello 38
+W / DR / Falbe / 2001
+V:Okay Big Bambu / MV:Astor
+ 
+ 
+1371
+Out of the Blue 3
+W / Grpf.o.R / RSche / 2009
+	P - Pferdename / KNR		
+
+ 
+ 
+1372
+Pablo 448
+W / Old / Db / 2003
+V:Drakdream / MV:Pablo
+ 
+ 
+1373
+Pablo 524
+W / Westf / Schwb / 2009
+V:Potential / MV:Rimini
+ 
+ 
+1374
+Paddington 106
+H / Westf / B / 2013
+V:French Buffet xx / MV:Consolidator
+ 
+ 
+1375
+Padua 89
+S / Westf / B / 1999
+V:Pontifex / MV:Graf Spee
+ 
+ 
+1376
+Palermo 268
+H / Westf / B / 2007
+V:Pontifex / MV:Gralshüter
+ 
+ 
+1377
+Palina 28
+S / Trak. / Schi / 2005
+ 
+ 
+1378
+Palm Beach 36
+H / BWP / F / 2015
+V:Kannan / MV:Echo van 't Spieveld
+ 
+ 
+1379
+Pamina 474
+S / Westf / Schi / 2011
+V:Pontecini / MV:Arpeggio
+ 
+ 
+1380
+Pan Tau 76
+W / Trak. / F / 1999
+V:Inster Graditz / MV:Matcho AA
+ 
+ 
+1381
+Panther 127
+W / AESRpf / B / 2010
+V:Paquito Z / MV:Saros van't Gestelhof
+ 
+ 
+1382
+Paoki
+S / Westf / Db / 1999
+V:Potsdam / MV:Douglas
+ 
+ 
+1383
+Paradiesblume
+S / Westf / F / 2002
+V:Paradiesvogel / MV:Dunhill H
+ 
+ 
+1384
+Passion 31
+S / Old / R / 2015
+V:Grey Flanell / MV:Sir Donnerhall I
+ 
+ 
+1385
+Paula 556
+S / Westf / B / 2011
+V:Potential / MV:Pontifex
+ 
+ 
+1386
+Pearl 104
+S / Westf / B / 2006
+V:Ehrentusch / MV:Renoir I
+ 
+ 
+1387
+Pearly Rose
+S / Westf / Db / 2014
+V:Piko's Son / MV:Rockwell
+ 
+ 
+1388
+Pee Dee
+S / Westf / F / 2006
+V:Peking / MV:Florestan I
+ 
+ 
+1389
+Peggy 660
+S / DR / Schi / 2006
+V:Potter / MV:Power Boy
+ 
+ 
+1390
+Penelope 356
+S / Westf / B / 2009
+V:Potential / MV:Giradelli
+ 
+ 
+1391
+Pepe 284
+W / DR / B / 2008
+V:Principal Boy / MV:Nils
+ 
+ 
+1392
+Pepper Rose
+S / Westf / B / 2013
+V:Pontecini / MV:Monsieur AA
+ 
+ 
+1393
+Peppermint's Friend
+W / Westf / B / 2012
+V:Piano II / MV:Amantus
+ 
+ 
+1394
+Percy Paint N
+H / Westf / F / 2013
+V:Pik Labionics / MV:Gloucester
+ 
+ 
+1395
+Pershing 29
+W / Westf / B / 2002
+V:Primeur's As / MV:Grundstein I
+ 
+ 
+1396
+Petite Pia
+S / Westf / B / 2009
+V:Potential / MV:Popcorn
+ 
+ 
+1397
+Pettersson 7
+W / Trak. / B / 2014
+V:Hirtentanz / MV:Maizauber
+ 
+ 
+1398
+Pheline 6
+S / DR / Falbe / 2004
+V:Feingold / MV:Gregory
+ 
+ 
+1865
+Phillis 17
+S / DR / B / 2007
+V:FS Pour l'Amour / MV:Dressman II
+ 
+ 
+1399
+Physalie 8
+S / Holst / B / 2009
+V:Quirado / MV:Lavall I
+ 
+ 
+1400
+Pialotta 81
+S / Hann / B / 2012
+V:Perigueux / MV:Don Juan
+ 
+ 
+1401
+Picasso 828
+H / Westf / B / 2003
+V:Polygraf / MV:Bartok
+ 
+ 
+1402
+Picolina 21
+S / Westf / F / 2004
+V:Pocalino / MV:Polany
+ 
+ 
+1403
+Pietje Belle
+W / Westf / F / 2009
+V:Peking / MV:Gralshüter
+ 
+ 
+1404
+Pietro Lombardi N
+H / Westf / B / 2011
+V:Pik Labionics / MV:Pinocchio
+ 
+ 
+1405
+Piko's Prince
+H / Westf / F / 2010
+V:Pik Labionics / MV:A Jungle Prince
+ 
+ 
+1406
+Pikoletta
+S / Westf / B / 2002
+V:Pik Labionics / MV:Potsdam
+ 
+ 
+1407
+Pilou xx
+W / xx / B / 2014
+V:Presenting xx
+ 
+ 
+1408
+Pino Prestige
+H / Westf / B / 2004
+V:Prestige xx / MV:Florestan I
+ 
+ 
+1410
+Pipi Langstrumpf 3
+S / Westf / B / 2007
+V:Pontifex / MV:Coriano
+ 
+ 
+1411
+Piratenbraut 4
+S / Westf / F / 2009
+V:Peking / MV:Hitchcock
+ 
+ 
+1412
+Piro 39
+W / Hann / F / 2007
+V:Perigueux / MV:Carbid
+ 
+ 
+1413
+Pironi
+W / Westf / F / 2011
+V:Pacco II / MV:Florencio I
+ 
+ 
+1414
+Plot Blue 3
+H / Westf / 2010
+V:Pontecini / MV:Monsieur AA
+ 
+ 
+1415
+Podolski 5
+W / Westf / B / 2006
+V:Pontifex / MV:Pilot
+ 
+ 
+1821
+Pokerface 41
+S / DR / Db / 2006
+V:Potter / MV:Medoc
+ 
+ 
+1848
+Polly
+W / 2003
+ 
+ 
+1416
+Polly 453
+S / Pony o.R / Palom / 2002
+ 
+ 
+1417
+Polly Pocket 41
+S / Westf / B / 2015
+V:Pilothago / MV:Salamander
+ 
+ 
+1418
+Ponti's Star
+W / Westf / B / 2005
+V:Pontifex / MV:Ramiro's Son I
+ 
+ 
+1419
+Pontifex¦ Little Paula O
+S / Westf / B / 2014
+V:Pontifex / MV:Fortissimo
+ 
+ 
+1420
+Pontina 3
+S / Westf / B / 2011
+V:Pontecini / MV:Monsieur AA
+ 
+ 
+1421
+Pontiprice L
+W / Westf / Db / 2007
+V:Pontifex / MV:Cordobes I
+ 
+ 
+1422
+Porsche 18
+W / Westf / Db / 2005
+V:Pontifex / MV:Pep
+ 
+ 
+1423
+Poseidon 141
+W / Westf / B / 2009
+V:Prominenz / MV:Perlenglanz
+ 
+ 
+1424
+Prada 24
+S / Old / Db / 2007
+V:Pontifex / MV:Granulit
+ 
+ 
+1425
+Presley 9
+W / DSP / B / 2003
+V:Prince Thatch xx / MV:Paradiesvogel
+ 
+ 
+1427
+Pricilla 8
+S / Westf / B / 2009
+V:Potential / MV:Pommery
+ 
+ 
+1428
+Princess 372
+S / Westf / B / 2009
+V:Pontifex / MV:Dinard L
+ 
+ 
+1429
+Prinz 1012
+W / Westf / B / 2001
+V:Pheres / MV:Weinzauber
+ 
+ 
+1430
+Prinz Poldi 27
+W / Westf / B / 2014
+V:Pilothago / MV:Spartan
+ 
+ 
+1856
+Professor O
+W / Westf / B / 2008
+V:Peking / MV:Florestan I
+ 
+ 
+1431
+Puerto-Rica
+S / Westf / B / 2006
+V:Pontifex / MV:Florestan I
+	Q - Pferdename / KNR		
+
+ 
+ 
+1432
+Qaside MD
+H / DSP / Creme / 2013
+V:Quasi Gold MD / MV:Rff the Alchemist xx
+ 
+ 
+1433
+Qinett
+S / Holst / B / 2008
+V:Quo Vados I / MV:Calato
+ 
+ 
+1434
+Quahja
+S / Westf / B / 2013
+V:Qualität / MV:Ahorn
+ 
+ 
+1435
+Qualidor 2
+W / Westf / B / 2005
+V:Quidam's Rubin / MV:Ramiro
+ 
+ 
+1436
+Quality First
+W / Old / B / 2011
+V:Quaterback / MV:Fidertanz
+ 
+ 
+1438
+Quality van de Zandhoeve
+S / Z.Rpf / B / 2014
+V:Quick Star / MV:Mylord Carthago
+ 
+ 
+1439
+Quamil 4
+H / RuWblt. / B / 2010
+V:Quaprice / MV:Colambo
+ 
+ 
+1440
+Quan-Tico
+W / Hann / B / 2013
+V:Quaid I / MV:Escudo I
+ 
+ 
+1441
+Quanta Costa 18
+S / Hann / B / 2011
+V:Quaid I / MV:Scandiano
+ 
+ 
+1442
+Quantum 23
+W / Old / Db / 2010
+V:Quaterback / MV:Fürst Heinrich
+ 
+ 
+1443
+Quara May
+S / Hann / B / 2011
+V:Quaid I / MV:Le Primeur
+ 
+ 
+1895
+Quartember
+H / Hann / Db / 2010
+V:Quaterback / MV:Florestan I
+ 
+ 
+1444
+Quarter Main 2
+H / Westf / F / 2013
+V:Quipeggio / MV:Spartan
+ 
+ 
+1446
+Quartermain 4
+H / Hann / Db / 2008
+V:Quaterback / MV:Weltmeyer
+ 
+ 
+1447
+Quartil
+W / Holst / B / 2011
+V:Quo Vados I / MV:Carthago
+ 
+ 
+1448
+Quasar 10
+H / Holst / B / 2004
+V:Quite Capitol / MV:Calgary
+ 
+ 
+1449
+Quasi Gold MD
+H / DSP / Is / 2009
+V:Quaterback / MV:Nuget
+ 
+ 
+1450
+Quater Moon 2
+W / DSP / F / 2010
+V:Quaterback / MV:Levisto
+ 
+ 
+1451
+Quattro 49
+W / Holst / B / 2012
+V:Quidado / MV:Cassini I
+ 
+ 
+1452
+Quattro Son G.D.
+H / Westf / F / 2009
+V:Quattro B / MV:Weinberg
+ 
+ 
+1453
+Quattromani OLD
+H / Old / Db / 2011
+V:Quaterback / MV:Latimer
+ 
+ 
+1454
+Quax 43
+W / Holst / B / 2005
+V:Quinar / MV:Lord
+ 
+ 
+1455
+Quax 49
+W / Westf / Db / 2007
+V:Quinta Real / MV:Landino
+ 
+ 
+1456
+Quba 5
+W / Westf / F / 2012
+V:Qualitõt / MV:Cassis
+ 
+ 
+1457
+Queen of Magic
+S / Westf / B / 2007
+V:Quinta Real / MV:Florestan I
+ 
+ 
+1458
+Queeny 86
+S / Westf / B / 2011
+V:Quaterback / MV:Donnerhall
+ 
+ 
+1459
+Quel Charmeur GA
+W / Hann / F / 2013
+V:Quaterhall / MV:Rascalino
+ 
+ 
+1460
+Quelle Chance 3
+S / Westf / B / 2009
+V:Quintender / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+1461
+Quentin Tarantino 14
+H / Hann / Db / 2011
+V:Quaid I / MV:Graf Grannus
+ 
+ 
+1462
+Quentino 30
+W / Westf / B / 2013
+V:Quipeggio / MV:Rotarier
+ 
+ 
+1463
+Querido Diablo
+W / Westf / F / 2010
+V:Quandor / MV:Landadel
+ 
+ 
+1464
+Quevega
+S / Pony o.R / B / 2016
+V:Quick Star / MV:Mylord
+ 
+ 
+1465
+Qui'Well
+W / Hann / F / 2013
+V:Quaterhall / MV:Abanos
+ 
+ 
+1468
+Quickstep 50
+W / Westf / B / 2011
+V:Quipeggio / MV:Rimini
+ 
+ 
+1469
+Quidam 10
+W / Holst / B / 2003
+V:Quantum / MV:Cassini I
+ 
+ 
+1470
+Quidam Grey
+W / Hann / Schi / 2014
+V:Quidam de Revel / MV:Carthago
+ 
+ 
+1471
+Quidam's Son
+W / Westf / B / 2006
+V:Quidam's Rubin / MV:Show Star
+ 
+ 
+1472
+Quila 3
+S / Westf / F / 2013
+V:Quotenkönig / MV:Fleury
+ 
+ 
+1473
+Quilight
+S / Hann / B / 2013
+V:Qualität / MV:Grosso Z
+ 
+ 
+1475
+Quinetto 2
+W / Holst / B / 2013
+V:Quiwi Dream / MV:Com Air I
+ 
+ 
+1885
+Quinn 65
+W / DSP / Schwb / 2015
+V:Quiz / MV:Contract
+ 
+ 
+1476
+Quint von Wichenstein
+W / CH.Wb / B / 2008
+V:Quick Star IV CH / MV:Landadel
+ 
+ 
+1477
+Quintesse 3
+S / OS / B / 2009
+V:Quintender / MV:Grandeur
+ 
+ 
+1478
+Quintolino
+W / Holst / B / 2012
+V:Quadros / MV:Canturo
+ 
+ 
+1479
+Quinton 8
+W / Hann / Db / 2008
+V:Quaterback / MV:Rotspon
+ 
+ 
+1819
+Quinya
+S / Hann / F / 2009
+V:Quaterback / MV:Charon
+ 
+ 
+1480
+Quirki
+S / Old / B / 2010
+V:Quidam / MV:Argentinus
+ 
+ 
+1481
+Qumulus AH
+W / DSP / B / 2012
+V:Quaterback / MV:Sterling
+ 
+ 
+1482
+Qumulus-Quintus AH
+H / DSP / B / 2013
+V:Quaterback / MV:Sterling
+	R - Pferdename / KNR		
+
+ 
+ 
+1483
+Raffaello Santi S
+W / Westf / Db / 2013
+V:Rock Forever I / MV:Fidermark
+ 
+ 
+1484
+Raffaelo 36
+W / Westf / B / 2010
+V:Rock Forever I / MV:Weinberg
+ 
+ 
+1485
+Rafinja 4
+S / Westf / B / 2011
+V:Rock Forever I / MV:Weinberg
+ 
+ 
+1486
+Raica 15
+S / Westf / Db / 2006
+V:Riccio / MV:Lancer III
+ 
+ 
+1487
+Ralf V
+W / Westf / Db / 2000
+V:Ratinho / MV:Weinberg
+ 
+ 
+1488
+Ramazotti 133
+H / Westf / Db / 2002
+V:Rockwell / MV:Greifswald
+ 
+ 
+1489
+Rameau 15
+W / Hann / Db / 2006
+V:Rascalino / MV:Rabino
+ 
+ 
+1490
+Ramina 188
+S / Westf / B / 2008
+V:Rock Forever I / MV:Show Star
+ 
+ 
+1491
+Randy Boggs
+W / Old / Db / 2009
+V:Royal Doruto / MV:Rouletto
+ 
+ 
+1492
+Rania JK
+S / Westf / B / 2012
+V:Riccione / MV:Apart
+ 
+ 
+1493
+Rantanplan Z
+W / Westf / Schi / 2002
+V:Romantik-Boy / MV:Salinator
+ 
+ 
+1494
+Rastella Ragazzina
+S / Westf / B / 2009
+V:Riccio / MV:Polany
+ 
+ 
+1495
+Ravel 335
+W / Westf / R / 2008
+V:Riccio / MV:Palisander
+ 
+ 
+1496
+Ravello H
+W / SWB / B / 2003
+V:Robin Z I / MV:Carthago
+ 
+ 
+1497
+Ray Dance
+H / Westf / B / 2009
+V:Rockwell / MV:Van the Man
+ 
+ 
+1499
+Red Chili Pepper
+S / Hann / F / 2004
+V:Robespierre / MV:Fabriano
+ 
+ 
+1500
+Red Liner 2
+W / Westf / F / 2010
+V:Red Diamond Fox / MV:Dinard L
+ 
+ 
+1501
+Red Moon Carlos
+W / Hann / F / 2010
+V:Check In / MV:Sergeant Pepper I
+ 
+ 
+1502
+Red Noble Stone
+S / Westf / F / 2012
+V:Rohjuwel / MV:Lord Loxley I
+ 
+ 
+1503
+Red Skin Rihanna
+S / Westf / F / 2006
+V:Riverside / MV:Dario Fo
+ 
+ 
+1504
+Red Sun 9
+W / Trak. / F / 2009
+V:Rastenberg / MV:La Tour xx
+ 
+ 
+1505
+Rembrandt 97
+W / Westf / B / 2006
+V:Real Diamond / MV:Longchamp
+ 
+ 
+1506
+Remus 269
+W / Westf / Db / 2002
+V:Rubiloh / MV:Montmartre
+ 
+ 
+1508
+Renoir Marte'n
+W / Hann / R / 2003
+V:Rohdiamant / MV:Dornenkönig
+ 
+ 
+1509
+Rhavell
+W / Westf / F / 2002
+V:Regardez / MV:Dinard L
+ 
+ 
+1510
+Ricardo S 3
+W / Westf / Db / 2014
+V:Rock Forever I / MV:Fidermark
+ 
+ 
+1511
+Riccella
+S / Westf / B / 2012
+V:Riccione / MV:Fidermark
+ 
+ 
+1512
+Ricci-Perlita
+S / Westf / B / 2001
+V:Riccione / MV:Perrier
+ 
+ 
+1513
+Ricciona E
+S / Westf / B / 2005
+V:Riccione / MV:Weinberg
+ 
+ 
+1514
+Rico E
+W / Westf / B / 2004
+V:Roh Magic / MV:Daenenkoenig
+ 
+ 
+1515
+Ricosa B
+S / Westf / B / 2006
+V:Riccione / MV:Escudo II
+ 
+ 
+1516
+Rimband
+H / Westf / F / 2005
+V:Riccio / MV:Mon Cheri
+ 
+ 
+1518
+Robin 728
+W / B / 2002
+ 
+ 
+1519
+Robinson Crusoe 11
+W / Bay / F / 2012
+V:Rüter / MV:Dinard L
+ 
+ 
+1521
+Rochee 15
+W / Hann / Df / 2006
+V:Rascalino / MV:Longchamp
+ 
+ 
+1522
+Rochella E
+S / Rhld / B / 2010
+V:Rock Forever I / MV:Gaudeamus
+ 
+ 
+1523
+Rock Revolution
+W / Westf / B / 2013
+V:Rock Forever I / MV:Davignon I
+ 
+ 
+1524
+Rock Symphonies
+W / Westf / R / 2011
+V:Rocky Lee / MV:Granikos
+ 
+ 
+1526
+Rock Vivendi
+H / Westf / B / 2003
+V:Rockwell / MV:Ars Vivendi
+ 
+ 
+1527
+Rockabilly 5
+W / Old / Schwb / 2006
+V:Rubin Cortes / MV:Florestino
+ 
+ 
+1528
+Rockdale
+W / Westf / B / 2002
+V:Rockland / MV:Rivellino xx
+ 
+ 
+1529
+Rockenfeller
+H / Westf / Db / 2013
+V:Rock Forever I / MV:Florestan I
+ 
+ 
+1532
+Rocky 1388
+W / DR / Falbe / 1995
+V:Valento / MV:Demant
+ 
+ 
+1533
+Rocky Balboa 32
+H / Westf / B / 2011
+V:Rocky Lee / MV:Arpeggio
+ 
+ 
+1534
+Rodgau Royal S
+W / Hann / Df / 2008
+V:Royal Blend / MV:Rodgau
+ 
+ 
+1535
+Rodrigo 81
+W / Westf / B / 2000
+V:Regardez / MV:Popcorn
+ 
+ 
+1537
+Rolex 99
+W / Bay / RSchi / 2005
+V:Rivero II / MV:Furino
+ 
+ 
+1538
+Roma Cherie
+S / Westf / B / 2010
+V:Rohjuwel / MV:Mon Cher
+ 
+ 
+1539
+Romance for you
+S / Westf / F / 2011
+V:Romanov Blue Hors / MV:Fürst Piccolo
+ 
+ 
+1540
+Romantic Melody O
+S / DR / Falbe / 2015
+V:Dankeschön / MV:The Braes My Mobility
+ 
+ 
+1541
+Romantic Moment
+W / Westf / Schwb / 2013
+V:Romanov Blue Hors / MV:Donnerhall
+ 
+ 
+1799
+Romeo B
+W / Fuchs / 2011
+ 
+ 
+1542
+Romeo G
+W / Westf / B / 2011
+V:Riccio / MV:Hochadel
+ 
+ 
+1543
+Romy 246
+S / Westf / Db / 2007
+V:Riccio / MV:Arpeggio
+ 
+ 
+1544
+Rosa Painted Sky
+S / Westf / R / 2013
+V:Rocky Lee / MV:Fidermark
+ 
+ 
+1545
+Rosaly 9
+S / Westf / B / 2001
+V:Rockwell / MV:Jungh.n.gekört
+ 
+ 
+1546
+Rosario 47
+H / Hann / Schwb / 2006
+V:Rousseau (ex Rambo) / MV:Rotspon
+ 
+ 
+1547
+Rosemarie 7
+S / Westf / R / 2005
+V:Rosario / MV:Simply
+ 
+ 
+1815
+Rosenstolz 119
+S / Westf / B / 2012
+V:Rock Forever I / MV:Acord II
+ 
+ 
+1548
+Rousha 3
+S / Westf / B / 2005
+V:Roh Magic / MV:Laurentianer
+ 
+ 
+1549
+Royal Enfield
+S / Hann / Schwb / 2008
+V:Royaldik / MV:Star Regent xx
+ 
+ 
+1550
+Royal Lady 47
+S / Hann / R / 2010
+V:Royal Classic / MV:Rotspon
+ 
+ 
+1553
+Rubeus Hagrid 2
+W / Westf / B / 2008
+V:Rock Forever I / MV:Maraschino
+ 
+ 
+1554
+Rubina's Ingo
+W / Westf / Schwb / 2008
+V:Insterburg / MV:Rubinstein I
+ 
+ 
+1555
+Ruby Tuesday 79
+S / Westf / Db / 2009
+V:Rubin-Royal / MV:Fidermark
+ 
+ 
+1556
+Rufus 96
+W / Westf / Db / 2008
+V:Riccio / MV:Florestan I
+ 
+ 
+1805
+Rumeur du Soleil
+W / Old / B / 2012
+V:Roi du Soleil / MV:Riedinger
+ 
+ 
+1558
+Rush Hour 15
+W / Hann / B / 2009
+V:Rascalino / MV:Brentano II
+ 
+ 
+1559
+Ruth-Johanna
+S / Westf / B / 2004
+V:Rifaisos / MV:Fleurop
+ 
+ 
+1560
+Ruurd B
+W / Fries / R / 2005
+V:Jakob / MV:Tamme
+ 
+ 
+1561
+Ryano 3
+W / Westf / Db / 2009
+V:Rock Forever I / MV:Fagott
+	S - Pferdename / KNR		
+
+ 
+ 
+1562
+S Rockyna
+S / Westf / B / 2013
+V:Sir Donnerhall I / MV:Feuerschein I
+ 
+ 
+1563
+S-Class
+H / Hann / B / 2013
+V:Stakkato / MV:Contendro I
+ 
+ 
+1565
+Sacre Fleur 11
+S / Westf / Db / 2011
+V:Son of Cologne / MV:Rotarier
+ 
+ 
+1566
+Safira 75
+S / Westf / F / 2015
+V:Sir Heinrich / MV:Warkant
+ 
+ 
+1567
+Sahib 134
+W / DSP / F / 2008
+V:Sommerhit / MV:Damour
+ 
+ 
+1568
+Saigon 40
+S / Westf / B / 2012
+V:Sir Schiwago / MV:Lavaletto
+ 
+ 
+1888
+Saigon 43
+S / Westf / 2015
+V:Sezuan / MV:Painted Black
+ 
+ 
+1569
+Sailor Moon 10
+S / Westf / B / 2006
+V:Sir Bedo / MV:Graf Spee
+ 
+ 
+1570
+Saint Paul OLD
+W / Old / B / 2010
+V:Sir Donnerhall I / MV:Painter's Row xx
+ 
+ 
+1571
+Sally 661
+S / Westf / B / 2008
+V:Stalypso / MV:Arpeggio
+ 
+ 
+1572
+Salt'n'Pepper 3
+W / Westf / Schwb / 2013
+V:Sacre Coeur / MV:Matador
+ 
+ 
+1573
+Sam 848
+W / Hann / Db / 2005
+V:Stakkato Gold / MV:Pinkus
+ 
+ 
+1574
+Sam 967
+W / Westf / Schi / 2003
+V:Sterling / MV:Ribbeck
+ 
+ 
+1575
+Samba Do Brasil
+W / Hann / DSchi / 2014
+V:Starpower / MV:Rabino
+ 
+ 
+1576
+Sambuca Pur
+W / Westf / R / 2011
+V:Silbermond / MV:Werther
+ 
+ 
+1861
+Samburu 2
+W / Rhld / B / 2006
+V:Sir Chamberlain / MV:Loewenstein
+ 
+ 
+1578
+Samu W
+W / Westf / B / 2011
+V:Silbermond / MV:Lauries
+ 
+ 
+1579
+Samurai-Rock
+W / Westf / F / 2009
+V:Sir Donato / MV:Rubiloh
+ 
+ 
+1580
+San Augustin
+W / Westf / B / 2015
+V:San Francisco / MV:August der Starke
+ 
+ 
+1582
+San Florino 2
+W / Westf / R / 2006
+V:Sandro Bedo / MV:Florestan I
+ 
+ 
+1583
+San Laurie
+W / Hann / Schwb / 2010
+V:San Amour / MV:Lauries Crusador xx
+ 
+ 
+1584
+San Lucia G
+S / Lux.W / B / 2009
+V:San Amour / MV:Rotspon
+ 
+ 
+1585
+San Otonjo
+W / Trak. / Db / 2011
+V:Herbstbach / MV:Freudenfest
+ 
+ 
+1587
+Sandro 364
+W / Westf / R / 2004
+V:Sir Bedo / MV:Greifswald
+ 
+ 
+1589
+Saniro Valentino
+W / Westf / R / 2011
+V:San Amour / MV:De Niro
+ 
+ 
+1590
+Sanni 12
+S / Westf / R / 2013
+V:Susu's Boy / MV:Show Star
+ 
+ 
+1592
+Sans Soussis E
+S / FSti / 2006
+ 
+ 
+1851
+Santa Clara 8
+S / Westf / Db / 2005
+V:Sir Bedo / MV:Ehrentusch
+ 
+ 
+1593
+Santa Maria 37
+S / Westf / Schwb / 2009
+V:San Remo / MV:Florestan I
+ 
+ 
+1594
+Santana 884
+S / Westf / B / 2007
+V:Sandro Hit / MV:Donnerhall
+ 
+ 
+1595
+Santander 8
+W / Hann / R / 2006
+V:Sandro Hit / MV:Weltmeyer
+ 
+ 
+1596
+Santiago 224
+W / Württ / B / 2005
+V:Sandro Hit / MV:Graf Landau
+ 
+ 
+1597
+Santiago 284
+W / DSP / BkaSc / 2013
+V:Seitensprung / MV:Landzauber
+ 
+ 
+1598
+Santo Dorio
+W / Old / R / 2009
+V:San Amour / MV:Donnerschlag
+ 
+ 
+1599
+Sanyano CP
+W / Westf / Db / 2011
+V:Sunday / MV:Ad hoc
+ 
+ 
+1600
+Sarenza
+S / Westf / Db / 2013
+V:Sandro Hit / MV:Donnerhall
+ 
+ 
+1601
+Sarotti 66
+W / Westf / R / 2010
+V:Stedinger / MV:De Niro
+ 
+ 
+1602
+Sarotti BU
+W / Westf / B / 2013
+V:Serafino / MV:Faveur
+ 
+ 
+1604
+Scarabeo
+W / Hann / B / 2008
+V:Scolari / MV:Rubin-Royal
+ 
+ 
+1605
+Scarlett 712
+S / Old / Schwb / 2013
+V:San Amour / MV:Comics
+ 
+ 
+1606
+Scarlett O'Hara 25
+S / Westf / Db / 2008
+V:Sandro Hit / MV:Donnerschlag
+ 
+ 
+1607
+Scendra
+S / Hann / R / 2012
+V:Stolzenberg / MV:Sir Shostakovich xx
+ 
+ 
+1608
+Schnappi 3
+W / Hann / Db / 2005
+V:Stakkato Gold / MV:Sandro
+ 
+ 
+1609
+Schöne Puppe
+S / Westf / F / 2015
+V:Sir Heinrich / MV:Castus I
+ 
+ 
+1802
+Schröder
+W / 2009
+ 
+ 
+1611
+Scotch 33
+H / Westf / B / 2003
+V:Salamander / MV:Pilot
+ 
+ 
+1612
+Scout BS
+W / Westf / Schi / 2013
+V:Capistrano / MV:Dinard L
+ 
+ 
+1613
+Scuderia
+W / Old / R / 2008
+V:Sir Donnerhall I / MV:Escudo I
+ 
+ 
+1614
+Sebastiano 3
+W / Hann / Db / 2005
+V:Satisfaction I / MV:Exorbitant xx
+ 
+ 
+1615
+Secret Delivery
+H / Westf / B / 2015
+V:Sir Hayfield / MV:Gortus
+ 
+ 
+1886
+Semper Bellatrix
+S / Westf / F / 2010
+V:Sir Donnerhall II / MV:Weltmeyer
+ 
+ 
+1617
+Senegal 43
+H / Hann / R / 2006
+V:Sandro Hit / MV:Natiello xx
+ 
+ 
+1618
+Senza Una Donna 3
+S / Westf / B / 2015
+V:Sezuan / MV:Sandro Hit
+ 
+ 
+1619
+Shadrach
+W / OS / B / 2008
+V:Special Memories / MV:Argentinus
+ 
+ 
+1620
+Shady 10
+S / Westf / Db / 2004
+V:Show Star / MV:Rosenkavalier
+ 
+ 
+1621
+Shakira 255
+S / Westf / Schwb / 2003
+V:Show Star / MV:Damenstolz
+ 
+ 
+1622
+Shakira 441
+S / Westf / F / 2010
+V:Schumacher / MV:Florestan I
+ 
+ 
+1623
+Shester 2
+S / Westf / B / 2006
+V:Stakkato / MV:Contender
+ 
+ 
+1624
+Shilano
+H / Welsh / B / 2003
+V:Boomer / MV:Vita Nova's Golden Boris
+ 
+ 
+1625
+Shinedown
+W / Hann / R / 2009
+V:Swarovski / MV:Rosentau
+ 
+ 
+1626
+Shockheaded Peter
+W / Westf / B / 2006
+V:Samarant / MV:Diamantino
+ 
+ 
+1627
+Shogun 178
+W / Hann / B / 2010
+V:Sir Shutterfly / MV:Landadel
+ 
+ 
+1628
+Sibirian Sensation
+W / Westf / F / 2005
+V:Sibirian Express / MV:Dollmann
+ 
+ 
+1629
+Siebenstein 14
+S / Westf / Db / 2008
+V:San Remo / MV:Florestan I
+ 
+ 
+1630
+Sieshof's Fürstenrock
+W / Rhld / Db / 2014
+V:Fürstenball / MV:Rockwell
+ 
+ 
+1631
+Signorina 10
+S / Hann / B / 2011
+V:Sandro Hit / MV:Ehrenwort
+ 
+ 
+1632
+Silas 176
+H / Hann / B / 2005
+V:Satisfaction I / MV:Graf Grannus
+ 
+ 
+1633
+Silvaro 5
+W / Hann / B / 2010
+V:Sir Donnerhall I / MV:Alabaster
+ 
+ 
+1634
+Silvertops Corona
+S / OS / B / 2010
+V:Corlensky G I / MV:Landor S
+ 
+ 
+1635
+Simba 201
+W / Wel.B / Palom / 2002
+V:Wooling's Lancelot / MV:Desarbre Shoestring
+ 
+ 
+1636
+Simplement le Meilleur
+H / Westf / R / 2003
+V:Sunny-Boy / MV:Royal Angelo II
+ 
+ 
+1637
+Simply Mine 2
+S / LetW / Db / 2007
+V:Spartacus / MV:Broms
+ 
+ 
+1638
+Simsalabim 66
+W / Hann / R / 2013
+V:Surprice / MV:Salvano
+ 
+ 
+1639
+Sir Alfred H
+W / Westf / B / 2015
+V:Sir Heinrich / MV:Cordobes I
+ 
+ 
+1640
+Sir Riley
+W / Westf / F / 2012
+V:Sir Heinrich / MV:Florestan I
+ 
+ 
+1641
+Sir Sandro 16
+W / Old / B / 2009
+V:Sir Donnerhall I / MV:Likoto xx
+ 
+ 
+1642
+Sirius Black 19
+W / Hann / R / 2009
+V:San Remo / MV:Lancier
+ 
+ 
+1644
+Sissy von Senden
+S / Westf / Db / 2010
+V:Show Star / MV:Rockwell
+ 
+ 
+1645
+Siwa 8
+S / OS / R / 2014
+V:Sandro's Adel / MV:Chacco-Blue
+ 
+ 
+1646
+Skyfall L
+S / Westf / R / 2013
+V:Serafino / MV:Dramaturg
+ 
+ 
+1647
+Skylah
+S / Hann / Db / 2013
+V:Semper Fi / MV:Grand Ferdinand II
+ 
+ 
+1648
+Skyy S
+H / Westf / Db / 2013
+V:Sir Heinrich / MV:Bormio xx
+ 
+ 
+1649
+Smilla SK
+S / Westf / Db / 2013
+V:Serafino / MV:Fidermark
+ 
+ 
+1650
+Snake River G
+W / Lux.W / Schwb / 2010
+V:San Amour / MV:Rotspon
+ 
+ 
+1651
+Snapchatt
+W / Westf / F / 2012
+V:Praktiker / MV:Ferragamo
+ 
+ 
+1652
+Snickers Boy
+W / Old / B / 2009
+V:Spaceball / MV:Azett
+ 
+ 
+1653
+Sniper 4
+W / Hann / F / 2012
+V:Stakkato / MV:Espri
+ 
+ 
+1655
+Snyder
+W / Old / F / 2009
+V:Sir Donnerhall I / MV:Day Dream
+ 
+ 
+1656
+So Nice 2
+S / Hann / Db / 2004
+V:Sandro Hit / MV:Brentano II
+ 
+ 
+1657
+Soleil 51
+S / Westf / B / 2012
+V:Sir Shutterfly / MV:Cheenook
+ 
+ 
+1658
+Soley 17
+S / Westf / Db / 2007
+V:Sandro Bedo / MV:Sir Schölling
+ 
+ 
+1660
+Solist R
+W / Westf / B / 2011
+V:Sunday / MV:Florestan I
+ 
+ 
+1659
+SoliÚre
+S / Westf / Db / 2014
+V:San Amour / MV:Donnerschlag
+ 
+ 
+1661
+Soluna
+S / Westf / B / 2011
+V:Acquit (Singapore) / MV:Giradelli
+ 
+ 
+1662
+Somalia E
+S / Hann / Db / 2014
+V:Sorento / MV:Rubiloh
+ 
+ 
+1663
+Sommerliebe H
+S / Westf / Df / 2013
+V:Sir Heinrich / MV:Fleurop
+ 
+ 
+1666
+Sorento 17
+W / DR / Falbe / 2009
+V:Sampaio / MV:Narrator
+ 
+ 
+1667
+Souvenir 32
+S / Westf / Schwb / 2009
+V:Sarkozy / MV:Florestan I
+ 
+ 
+1908
+Spacegirl 2
+S / Westf / R / 2006
+V:Spaceman / MV:Feuerwerk
+ 
+ 
+1668
+Spacegirl RC
+S / Grpf.o.R / B / 2011
+V:Spaceman / MV:Arpeggio
+ 
+ 
+1669
+Special Royal
+S / KWPN / Schwb / 2008
+V:Special D / MV:Gribaldi
+ 
+ 
+1670
+Spencer 82
+W / OS / BkaSc / 2010
+V:Stakkatol / MV:Quidam de Revel
+ 
+ 
+1671
+Sphinx 9
+S / Meckl. / Db / 2013
+V:Shouppydam des Horts / MV:Exorbitant xx
+ 
+ 
+1672
+Spookayne
+S / Old / B / 2012
+V:Sergeant Pepper I / MV:Grandus (Grandom)
+ 
+ 
+1673
+Sportsgeist
+W / Westf / B / 2008
+V:Spielberg / MV:Florestan I
+ 
+ 
+1674
+Spotify
+W / Grpf.o.R / B / 2008
+V:Satisfaction I / MV:Cordalme Z
+ 
+ 
+1675
+Stakko's Dream
+W / Westf / F / 2012
+V:Stakko / MV:Democraat
+ 
+ 
+1676
+Star Dust 3
+W / Old / B / 2010
+V:Stedinger
+ 
+ 
+1677
+Star Eclipse 3
+W / Irl.W / B / 2014
+V:Desir du Chateau / MV:Duleek Hero
+ 
+ 
+1678
+Starbucks 23
+W / Westf / Db / 2015
+V:San Amour / MV:Belissimo M
+ 
+ 
+1679
+Starbucks K
+W / Westf / R / 2011
+V:Sir Donnerhall I / MV:Danzas
+ 
+ 
+1680
+Stardust 32
+W / Hann / R / 2008
+V:Stedinger / MV:Rotspon
+ 
+ 
+1681
+Starlight Express 4
+H / Westf / F / 2005
+V:Sibirian Express / MV:Dinard L
+ 
+ 
+1682
+Starlight MS
+H / Westf / B / 2011
+V:Sir Donnerhall I / MV:Feuerschein I
+ 
+ 
+1683
+Staubkind RZ
+W / Bay / R / 2013
+V:Stanley / MV:Escudo I
+ 
+ 
+1684
+Steelhammer 2
+W / Hann / F / 2009
+V:Stakkato / MV:Acord II
+ 
+ 
+1685
+Steendieks Jolly Couer
+S / DR / F / 2008
+V:Steendieks Carneby / MV:Irish Dancer xx
+ 
+ 
+1686
+Stella BS
+S / Westf / B / 2010
+V:Catoki / MV:Dinard L
+ 
+ 
+1688
+Sterne vd Vosberg
+W / BWP / B / 2008
+V:Sir Shutterfly / MV:Feinschnitt I
+ 
+ 
+1689
+Sternenfänger 4
+W / Westf / Db / 2009
+V:Sir Donnerhall I / MV:Danny De Vito
+ 
+ 
+1690
+Sternentanz AK
+S / Old / Db / 2010
+V:Sir Donnerhall II / MV:Weltmeyer
+ 
+ 
+1691
+Sternzauber 3
+W / Old / B / 2006
+V:Silvio I / MV:Servus
+ 
+ 
+1692
+Stevie SK
+W / Westf / B / 2013
+V:Sandro Hit / MV:Contello
+ 
+ 
+1693
+Subscribe me
+S / Hann / B / 2013
+V:Stolzenberg / MV:Likoto xx
+ 
+ 
+1694
+Sugar 26
+S / RSche / 1998
+ 
+ 
+1696
+Sun Miguel
+W / Westf / B / 2006
+V:Sunny-Boy / MV:Ragazzo
+ 
+ 
+1697
+Sundance Sid P
+W / Old / Schwb / 2009
+V:Sandro Hit / MV:Noble Roi xx
+ 
+ 
+1698
+Sunday Afternoon
+W / Hann / B / 2008
+V:Stalypso / MV:Almox Prints J
+ 
+ 
+1699
+Sunflower WK
+S / Hann / Schi / 2012
+V:Stakkato / MV:Narew xx
+ 
+ 
+1700
+Sunnyboy 136
+W / Hann / Db / 2007
+V:Sandro Boy / MV:Chasseur I
+ 
+ 
+1701
+Sunset B
+W / Westf / Db / 2005
+V:Show Star / MV:Renoir I
+ 
+ 
+1702
+Sunshine 656
+S / Westf / F / 2014
+V:Sir Heinrich / MV:Florestan I
+ 
+ 
+1703
+Sunshine Reggae SW
+S / Old / Db / 2012
+V:Surprice / MV:Rouletto
+ 
+ 
+1704
+Supernova WH
+S / Trak. / Db / 2015
+V:Insterburg / MV:Herzensdieb
+ 
+ 
+1705
+Surabaya M
+S / Hann / R / 2011
+V:San Amour / MV:Davignon I
+ 
+ 
+1706
+Suri Li
+S / Westf / B / 2012
+V:Spiderman / MV:Collin L
+ 
+ 
+1707
+Surprise 230
+W / Meckl. / Db / 2011
+V:Stylist / MV:Grey Hope
+ 
+ 
+1708
+Suzette B
+S / KWPN / B / 2011
+V:Sam R / MV:Graf Top
+ 
+ 
+1800
+Sweety
+S / 2008
+	T - Pferdename / KNR		
+
+ 
+ 
+1709
+Tabaluga 233
+W / Hann / F / 2005
+V:Toronto / MV:Edinburgh
+ 
+ 
+1710
+Take That 7
+H / KWPN / R / 2015
+V:Toto Jr. / MV:Jazz
+ 
+ 
+1711
+Tangente 7
+S / Trak. / B / 2014
+V:Connery / MV:Flucato xx xx
+ 
+ 
+1712
+Taonie de la Roque
+S / SF / B / 2007
+V:Kannan / MV:Reve d'Elle
+ 
+ 
+1713
+Teake 10
+W / Grpf.o.R / R / 2008
+ 
+ 
+1715
+The Snap
+H / PRE / B / 2006
+V:Botero / MV:Dadivoso IX
+ 
+ 
+1716
+Thecornishcowboy
+W / Westf / Schi / 2014
+V:Cornet Obolensky (ex: Windows / MV:Corland (DK: Corlando)
+ 
+ 
+1717
+Tiara 54
+S / DR / B / 2011
+V:Charivari / MV:Dollar Dela Pierre (Tlaloc la
+ 
+ 
+1719
+Tizian fan Oldenburg
+W / Fries / R / 2006
+V:Felle / MV:Thomas
+ 
+ 
+1720
+Tofiffee
+S / Dt.Pf / Db / 2007
+V:Emiras DS / MV:Tantris
+ 
+ 
+1721
+Tolkien 6
+W / Trak. / B / 2008
+V:Axis / MV:Karon
+ 
+ 
+1723
+Tommy 261
+W / Westf / B / 2012
+V:Tamango / MV:Landkaiser
+ 
+ 
+1724
+Top Cinderella NRW
+S / DR / Schi / 2013
+V:Top Christobell / MV:Cornet Obolensky (ex: Windows
+ 
+ 
+1725
+Top Davidoff
+W / DR / B / 2002
+V:Durello / MV:Ontario II
+ 
+ 
+1726
+Top Kolleggio
+H / DR / B / 2005
+V:Top Karetino / MV:Top Nantario
+ 
+ 
+1727
+Top Napoleon
+W / DR / F / 2002
+V:Top Nantario / MV:Spanenland's Patrick
+ 
+ 
+1728
+Toppi 5
+S / DR / R / 2015
+V:Top Berlin / MV:Montpellier
+ 
+ 
+1729
+Torento van't Gelutt Z
+H / Z.Rpf / B / 2012
+V:Tornesch / MV:Lord Z
+ 
+ 
+1730
+Toulago 3
+H / Hann / B / 2015
+V:Toulon / MV:Contender
+ 
+ 
+1731
+Toulon S
+W / Westf / B / 2014
+V:Tomahawk / MV:Rosenkavalier
+ 
+ 
+1732
+Triple Crown 4
+H / Rhld / F / 2015
+V:Triple X / MV:Ferragamo
+ 
+ 
+1733
+Troublemaker 6
+W / DR / Falbe / 2010
+V:The Black Highlight
+ 
+ 
+1734
+Twilight Sparkle
+S / DR / F / 2008
+V:Top Balino / MV:Marsvogel xx
+	U - Pferdename / KNR		
+
+ 
+ 
+1736
+Una 29
+S / Holst / Db / 2009
+/ MV:Acodetto I
+ 
+ 
+1737
+Unbelievable Touch
+S / Westf / B / 2010
+V:United / MV:Rohdiamant
+ 
+ 
+1738
+Uncle Sam L
+W / Westf / B / 2006
+V:Up to date / MV:Grandilot
+ 
+ 
+1739
+Undercover Girl
+S / ISH / B / 2013
+V:Letter Land / MV:Great Palm xx
+ 
+ 
+1740
+Unico 15
+W / Westf / B / 2003
+V:Up to date / MV:Silvio I
+ 
+ 
+1743
+Urienne Womanizer
+W / DR / Falbe / 2015
+V:Golden West / MV:Nobel
+	V - Pferdename / KNR		
+
+ 
+ 
+1744
+Valdengo
+W / Hann / Db / 2013
+V:Valentino / MV:Goodman
+ 
+ 
+1745
+Valegro 5
+W / DR / F / 2013
+V:Voyager / MV:Der feine Lord AT
+ 
+ 
+1746
+Valentina 113
+S / Westf / Schwb / 2014
+V:Van Vivaldi / MV:Fürst Heinrich
+ 
+ 
+1747
+Valentina 59
+S / DR / B / 2006
+V:Viscount / MV:Top Gun II
+ 
+ 
+1748
+Valeria 29
+S / Westf / F / 2014
+V:Valeron / MV:Balou du Rouet
+ 
+ 
+1749
+Valerio 13
+W / Hann / B / 2008
+V:Valentino / MV:Grand Cru
+ 
+ 
+1750
+Valetta 36
+S / Holst / B / 2005
+V:For Pleasure / MV:Caretino
+ 
+ 
+1751
+Valido's Black Pearl G
+W / DR / R / 2008
+V:Valido's Boy / MV:FS Pour l'Amour
+ 
+ 
+1816
+Vallerie 12
+S / Hann / B / 2007
+V:Valentino / MV:Ginsberg
+ 
+ 
+1752
+Valpiano 2
+W / Trak. / Db / 2010
+V:Exclusiv / MV:Showmaster
+ 
+ 
+1806
+Velvet 117
+H / Westf / Df / 2014
+V:Van Vivaldi / MV:Fidermark
+ 
+ 
+1754
+Velvet Moon
+S / Holst / Db / 2014
+V:Vigo D'Arsouilles / MV:Quintero
+ 
+ 
+1756
+Viadena
+S / Westf / Df / 2012
+V:Vitalis / MV:Mon Cheri
+ 
+ 
+1757
+Victoria 110
+S / Westf / F / 2012
+V:Vitalis / MV:Floresco
+ 
+ 
+1758
+Viel Vergnügen K
+S / Westf / Db / 2014
+V:Van Vivaldi / MV:Florestan I
+ 
+ 
+1875
+Vita Fleur
+S / Westf / Df / 2016
+V:Vitalis / MV:Rock Forever I
+ 
+ 
+1759
+Viva Feliz P
+S / Westf / B / 2013
+V:Van Helsing / MV:Contendro I
+ 
+ 
+1841
+Vodka Absolut B
+H / Westf / F / 2011
+V:Vitalis / MV:Royal Diamond
+ 
+ 
+1889
+Voll Nikito 2
+W / DR / Df / 2003
+V:Nantano / MV:Downland Donner
+ 
+ 
+1760
+Voltaire 93
+H / Westf / Df / 2011
+V:Vitalis / MV:Arpeggio
+ 
+ 
+1761
+Vom Brillanten G
+H / DR / R / 2012
+V:Valido's Boy / MV:FS Pour l'Amour
+ 
+ 
+1762
+Voyageur 2
+H / Westf / Db / 2012
+V:Vitalis / MV:Levados
+	W - Pferdename / KNR		
+
+ 
+ 
+1763
+Waldfee´s White Rose H
+S / Old / R / 2013
+V:Fürstenball / MV:Royal Diamond
+ 
+ 
+1764
+Walegro 9
+W / Hann / R / 2009
+V:Weltmeyer / MV:Lauries Crusador xx
+ 
+ 
+1765
+Wallaby 95
+W / Hann / Db / 2003
+V:Worldly I / MV:Amerigo Vespucci xx
+ 
+ 
+1766
+Walt Disney C
+W / Hann / R / 2005
+V:Wolkenstein II / MV:Castro
+ 
+ 
+1767
+Wannebe 2
+S / Holst / Db / 2006
+V:Quick Nick I / MV:Lord Calando
+ 
+ 
+1768
+Weihnira
+S / Old / Schwb / 2014
+V:De Niro / MV:Fürst Heinrich
+ 
+ 
+1769
+Weisel 5
+S / Old / Schi / 2006
+V:His Highness / MV:Inselfuerst
+ 
+ 
+1840
+Weisse Rose IB
+S / Old / Schi / 2012
+V:De Niro / MV:Fürst Heinrich
+ 
+ 
+1770
+Well Dark
+H / Westf / R / 2013
+V:Wolken-Hit / MV:Don Larino
+ 
+ 
+1771
+Wera 55
+S / Westf / B / 2005
+V:Foster / MV:Weinberg
+ 
+ 
+1772
+What's up 42
+W / Hann / Schwb / 2007
+V:Weltmeyer / MV:Bolero
+ 
+ 
+1773
+Whoopy 92
+S / DR / B / 2009
+V:Noir de Luxe / MV:FS Champion de Luxe
+ 
+ 
+1774
+Why not Wizzy
+S / Old / B / 2011
+V:Wizzerd WV / MV:Lord de Luxe
+ 
+ 
+1775
+Whynot Forever
+S / Westf / F / 2005
+V:Wessex / MV:Landro L
+ 
+ 
+1776
+Wild Thing 13
+W / Hann / F / 2005
+V:Wolkenstein II / MV:Langata Express xx
+ 
+ 
+1777
+Wilfried 13
+W / KWPN / Db / 2003
+V:Pacific / MV:Sit this one out xx
+ 
+ 
+1804
+Wilhelmine D
+S / DR / F / 2007
+V:Kraneveld's Winston / MV:Campari D
+ 
+ 
+1778
+Willi 364
+W / Hann / B / 2009
+V:Valentino / MV:Don Juan
+ 
+ 
+1779
+William Gold
+H / Hann / F / 2010
+V:Weltmeyer / MV:Rotspon
+ 
+ 
+1780
+Wimpel 183
+W / Hann / B / 2010
+V:Abke / MV:Rotspon
+ 
+ 
+1781
+Wind of Change 31
+W / Hann / Db / 2005
+V:Weltmeyer / MV:Waldstar xx
+ 
+ 
+1783
+Wolkenstar
+H / Hann / R / 2000
+V:Wolkenstein II / MV:Lavauzelle AA
+ 
+ 
+1784
+Wonderwall A 2
+S / Westf / B / 2008
+V:Windspiel's Walker / MV:Fedor
+ 
+ 
+1834
+Wüstensohn-Sahib
+W / Old / F / 2000
+V:Wolkentanz II / MV:Rubinstein I
+ 
+ 
+1785
+Wyomie 20
+S / Hann / F / 2002
+V:Worldly I / MV:Wenzel I
+	Y - Pferdename / KNR		
+
+ 
+ 
+1786
+Yvaine
+S / Westf / Schwb / 2007
+V:Sir Donnerhall I / MV:Larome
+	Z - Pferdename / KNR		
+
+ 
+ 
+1787
+Zafira 42
+S / Old / B / 2010
+V:Zack / MV:Lady's King
+ 
+ 
+1788
+Zalasar Blue
+W / KWPN / Schi / 2014
+V:Zirocco Blue (ex: Quamikase de / MV:Sam R
+ 
+ 
+1789
+Zara P
+S / Westf / Schi / 2015
+V:Zacharov (Capello's Boy) / MV:Contendro I
+ 
+ 
+1790
+Zenegal
+W / OS / B / 2012
+V:Zambesi / MV:Contendro I
+ 
+ 
+1791
+Zenturio 20
+H / Holst / Schi / 2011
+V:Zirocco Blue (ex: Quamikase de / MV:Cantus
+ 
+ 
+1792
+Zikilia
+S / KWPN / B / 2012
+V:Zacharov (Capello's Boy) / MV:Celano
+ 
+ 
+1793
+Zio
+W / Old / B / 2010
+V:Zack / MV:Harvard
+ 
+ 
+1794
+Znapchat
+W / Bay / Schwb / 2013
+V:Zambesi / MV:Contender
+ 
+ 
+1795
+Zoraja 3
+S / Grpf.o.R / B / 2011
+ 
+ 
+1796
+Zoul Beat
+W / Westf / Schwb / 2015
+V:Zack / MV:Royal Blend
+ 
+ 
+1797
+Zu Gunsten
+S / Westf / F / 2012
+V:Zorro T / MV:Sadenio
+ 
+ 
+1798
+Zuckerberg 3
+H / Hann / Db / 2015
+V:Zack / MV:Feuerspiel
