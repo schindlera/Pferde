@@ -1,5 +1,6 @@
 # Try to guess start-Position
 # 1st comment
+# 2nd branch comment
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 alphabet2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ"
 d = {}
