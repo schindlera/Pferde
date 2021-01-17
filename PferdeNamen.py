@@ -1,4 +1,5 @@
 # Try to guess start-Position
+# 1st comment
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 alphabet2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ"
 d = {}
